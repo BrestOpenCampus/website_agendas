@@ -1,0 +1,31 @@
+{
+    "blocks": [
+        {
+            "leftBlockText": "Tous les<br>mercredis et<br>vendredis<br>après-midi",
+            "admissionTitle": "TESTS<br>D'ADMISSION",
+            "subtext": "Consultez toutes nos<br>prochaines dates",
+            "location": "Brest et Angers",
+            "buttonText": "S'inscrire",
+            "buttonLink": "https://reseau-opencampus.com/demande-dossier-candidature-goc/",
+            "site": ["OC"]
+        },
+        {
+            "leftBlockText": "Tous les<br>jeudis et<br>samedis<br>matin",
+            "admissionTitle": "ENTRÉES<br>SUPPLÉMENTAIRES",
+            "subtext": "Découvrez nos<br>nouveaux horaires",
+            "location": "Rennes et Nantes",
+            "buttonText": "Postuler",
+            "buttonLink": "https://reseau-opencampus.com/demande-dossier-rennes-nantes/",
+            "site": ["PBA", "OC"]
+        },
+        {
+            "leftBlockText": "Tous les<br>lundis et<br>mardis<br>matin",
+            "admissionTitle": "INSCRIPTIONS<br>EXCLUSIVES",
+            "subtext": "Consultez les<br>dernières offres",
+            "location": "Paris",
+            "buttonText": "S'inscrire",
+            "buttonLink": "https://reseau-opencampus.com/demande-dossier-paris/",
+            "site": ["LDS"]
+        }
+    ]
+}
