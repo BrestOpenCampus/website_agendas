@@ -27,12 +27,24 @@
             "leftBlockText": "Tous les<br>lundis et<br>mardis<br>matin",
             "admissionTitle": "INSCRIPTIONS<br>EXCLUSIVES",
             "subtext": "Consultez les<br>dernières offres",
-            "location": "Paris",
+            "location": "Brest",
             "buttonText": "S'inscrire",
             "buttonLinks": {
                 "LDS": "https://lds.com/inscription"
             },
             "site": ["LDS"]
+        },
+        {
+            "leftBlockText": "Quand vous voulez",
+            "admissionTitle": "Journée portes ouertes Jeudi 19",
+            "subtext": "Oulala c'est trop bien venez vite",
+            "location": "Angers, Caen, Brest, Rennes",
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://oc-campus.com/inscription",
+                "PBA": "https://pba-campus.com/inscription"
+            },
+            "site": ["PBA", "OC"]
         }
     ]
 }
