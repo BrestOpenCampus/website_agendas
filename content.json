@@ -26,6 +26,15 @@
             "buttonText": "S'inscrire",
             "buttonLink": "https://reseau-opencampus.com/demande-dossier-paris/",
             "site": ["LDS"]
+        },
+        {
+            "leftBlockText": "Tous les mercredi",
+            "admissionTitle": "Journée portes ouvertes Jeudi 19",
+            "subtext": "Oulala c'est trop bien il faut venir",
+            "location": "Cean, Angers, Rennes, Brest",
+            "buttonText": "S'inscrire",
+            "buttonLink": "https://reseau-opencampus.com/demande-dossier-paris/",
+            "site": ["OC", "PBA"]
         }
     ]
 }
