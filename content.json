@@ -6,7 +6,9 @@
             "subtext": "Consultez toutes nos<br>prochaines dates",
             "location": "Brest et Angers",
             "buttonText": "S'inscrire",
-            "buttonLink": "https://reseau-opencampus.com/demande-dossier-candidature-goc/",
+            "buttonLinks": {
+                "OC": "https://oc-campus.com/inscription"
+            },
             "site": ["OC"]
         },
         {
@@ -15,7 +17,10 @@
             "subtext": "Découvrez nos<br>nouveaux horaires",
             "location": "Rennes et Nantes",
             "buttonText": "Postuler",
-            "buttonLink": "https://reseau-opencampus.com/demande-dossier-rennes-nantes/",
+            "buttonLinks": {
+                "OC": "https://oc-campus.com/inscription",
+                "PBA": "https://pba-campus.com/inscription"
+            },
             "site": ["PBA", "OC"]
         },
         {
@@ -24,17 +29,10 @@
             "subtext": "Consultez les<br>dernières offres",
             "location": "Paris",
             "buttonText": "S'inscrire",
-            "buttonLink": "https://reseau-opencampus.com/demande-dossier-paris/",
+            "buttonLinks": {
+                "LDS": "https://lds.com/inscription"
+            },
             "site": ["LDS"]
         },
-        {
-            "leftBlockText": "Tous les mercredi",
-            "admissionTitle": "Journée portes ouvertes Jeudi 19",
-            "subtext": "Oulala c'est trop bien il faut venir",
-            "location": "Cean, Angers, Rennes, Brest",
-            "buttonText": "S'inscrire",
-            "buttonLink": "https://reseau-opencampus.com/demande-dossier-paris/",
-            "site": ["OC", "PBA"]
-        }
     ]
 }
