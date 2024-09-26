@@ -33,18 +33,6 @@
                 "LDS": "https://lds.com/inscription"
             },
             "site": ["LDS"]
-        },
-        {
-            "leftBlockText": "JPO du 19",
-            "admissionTitle": "INSCRIPTIONS<br>EXCLUSIVES",
-            "subtext": "Consultez les<br>dernières offres",
-            "location": "Brest",
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://oc-campus.com/inscription",
-                "PBA": "https://pba-campus.com/inscription"
-            },
-            "site": ["PBA", "OC"]
         }
     ]
 }
