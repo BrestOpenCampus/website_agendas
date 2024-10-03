@@ -1,9 +1,9 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Tous les<br>mercredis et<br>vendredis<br>après-midi",
-            "admissionTitle": "TESTS<br>D'ADMISSION",
-            "subtext": "Consultez toutes nos<br>prochaines dates",
+            "leftBlockText": "Tous les mercredis et vendredis après-midi",
+            "admissionTitle": "TESTS D'ADMISSION",
+            "subtext": "Consultez toutes nos prochaines dates",
             "location": "Brest et Angers",
             "buttonText": "S'inscrire",
             "buttonLinks": {
@@ -13,8 +13,8 @@
         },
         {
             "leftBlockText": "JOURNÉE PORTES OUVERTES",
-            "admissionTitle": "ENTRÉES<br>SUPPLÉMENTAIRES",
-            "subtext": "Découvrez nos<br>nouveaux horaires",
+            "admissionTitle": "ENTRÉES SUPPLÉMENTAIRES",
+            "subtext": "Découvrez nos nouveaux horaires",
             "location": "Rennes et Nantes",
             "buttonText": "Postuler",
             "buttonLinks": {
@@ -24,9 +24,9 @@
             "site": ["PBA", "OC", "HTBS"]
         },
         {
-            "leftBlockText": "Tous les<br>lundis et<br>mardis<br>matin",
-            "admissionTitle": "INSCRIPTIONS<br>EXCLUSIVES",
-            "subtext": "Consultez les<br>dernières offres",
+            "leftBlockText": "Tous les lundis et mardis matin",
+            "admissionTitle": "INSCRIPTIONS EXCLUSIVES",
+            "subtext": "Consultez les dernières offres",
             "location": "Brest",
             "buttonText": "S'inscrire",
             "buttonLinks": {
@@ -35,9 +35,9 @@
             "site": ["LDS"]
         },
         {
-            "leftBlockText": "Tous les<br>mercredis et<br>vendredis<br>après-midi",
-            "admissionTitle": "TESTS<br>D'ADMISSION",
-            "subtext": "Consultez toutes nos<br>prochaines dates",
+            "leftBlockText": "Tous les mercredis et vendredis après-midi",
+            "admissionTitle": "TESTS D'ADMISSION",
+            "subtext": "Consultez toutes nos prochaines dates",
             "location": "Brest et Angers",
             "buttonText": "S'inscrire",
             "buttonLinks": {
