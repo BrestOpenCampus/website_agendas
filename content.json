@@ -9,7 +9,7 @@
             "buttonLinks": {
                 "OC": "https://oc-campus.com/inscription"
             },
-            "site": ["OC"]
+            "site": ["OC", "HTBS"]
         },
         {
             "leftBlockText": "JOURNÉE PORTES OUVERTES",
@@ -21,7 +21,7 @@
                 "OC": "https://oc-campus.com/inscription",
                 "PBA": "https://pba-campus.com/inscription"
             },
-            "site": ["PBA", "OC"]
+            "site": ["PBA", "OC", "HTBS"]
         },
         {
             "leftBlockText": "Tous les<br>lundis et<br>mardis<br>matin",
