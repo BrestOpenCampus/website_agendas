@@ -4,24 +4,28 @@
             "leftBlockText": "Tous les mercredis et vendredis après-midi",
             "admissionTitle": "TESTS D'ADMISSION",
             "subtext": "Consultez toutes nos prochaines dates",
-            "location": "Brest et Angers",
+            "location": "Brest et Angers"
             "buttonText": "S'inscrire",
             "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/"
+                "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/",
+                "LIT": "https://learnit-school.com/dossier-de-candidature/"
             },
-            "site": ["OC", "LIT", "HTBS"]
+            "site": ["OC", "LIT"]
         },
         {
             "leftBlockText": "Samedi 19 Octobre",
             "admissionTitle": "Journée portes ouvertes",
             "subtext": "Venez découvrir votre future école",
-            "location": "Brest et Caen",
+            "location": {
+                "OC": "Brest et Caen",
+                "LIT": "Brest"
+            },
             "buttonText": "S'inscrire",
             "buttonLinks": {
                 "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
                 "PBA": "https://pba-campus.com/inscription"
             },
-            "site": ["PBA", "OC", "HTBS"]
+            "site": ["PBA", "OC", "LIT"]
         },
         {
             "leftBlockText": "Tous les lundis et mardis matin",
