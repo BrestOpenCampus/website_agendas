@@ -25,7 +25,8 @@
             "buttonText": "S'inscrire",
             "buttonLinks": {
                 "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LIT": "https://learnit-school.com/inscription-jpo/"
+                "LIT": "https://learnit-school.com/inscription-jpo/",
+                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/"
             },
             "site": ["LDS", "OC", "LIT"]
         }
