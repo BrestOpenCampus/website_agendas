@@ -23,7 +23,7 @@
             "buttonText": "S'inscrire",
             "buttonLinks": {
                 "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "PBA": "https://pba-campus.com/inscription"
+                "LIT": "https://learnit-school.com/inscription-jpo/"
             },
             "site": ["PBA", "OC", "LIT"]
         },
