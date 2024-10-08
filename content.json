@@ -7,18 +7,18 @@
             "location": "Brest et Angers",
             "buttonText": "S'inscrire",
             "buttonLinks": {
-                "OC": "https://oc-campus.com/inscription"
+                "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/"
             },
             "site": ["OC", "HTBS"]
         },
         {
-            "leftBlockText": "JOURNÉE PORTES OUVERTES",
-            "admissionTitle": "ENTRÉES SUPPLÉMENTAIRES",
-            "subtext": "Découvrez nos nouveaux horaires",
-            "location": "Rennes et Nantes",
-            "buttonText": "Postuler",
+            "leftBlockText": "Samedi 19 Octobre",
+            "admissionTitle": "Journée portes ouvertes",
+            "subtext": "Venez découvrir votre future école",
+            "location": "Brest et Caen",
+            "buttonText": "S'inscrire",
             "buttonLinks": {
-                "OC": "https://oc-campus.com/inscription",
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
                 "PBA": "https://pba-campus.com/inscription"
             },
             "site": ["PBA", "OC", "HTBS"]
@@ -43,7 +43,7 @@
             "buttonLinks": {
                 "OC": "https://oc-campus.com/inscription"
             },
-            "site": ["OC"]
+            "site": ["PBA"]
         }
     ],
     "tdaDates": [
