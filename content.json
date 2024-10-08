@@ -9,7 +9,7 @@
             "buttonLinks": {
                 "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/"
             },
-            "site": ["OC", "HTBS"]
+            "site": ["OC", "LIT", "HTBS"]
         },
         {
             "leftBlockText": "Samedi 19 Octobre",
