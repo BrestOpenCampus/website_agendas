@@ -8,9 +8,10 @@
             "buttonText": "S'inscrire",
             "buttonLinks": {
                 "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/",
-                "LIT": "https://learnit-school.com/dossier-de-candidature/"
+                "LIT": "https://learnit-school.com/dossier-de-candidature/",
+                "LDS": "https://ladigitalschool.com/fr/candidature/"
             },
-            "site": ["OC", "LIT"]
+            "site": ["OC", "LIT", "LDS"]
         },
         {
             "leftBlockText": "Samedi 19 Octobre",
@@ -18,36 +19,15 @@
             "subtext": "Venez découvrir votre future école",
             "location": {
                 "OC": "Brest et Caen",
-                "LIT": "Brest"
+                "LIT": "Brest",
+                "LDS": "Brest"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
                 "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
                 "LIT": "https://learnit-school.com/inscription-jpo/"
             },
-            "site": ["PBA", "OC", "LIT"]
-        },
-        {
-            "leftBlockText": "Tous les lundis et mardis matin",
-            "admissionTitle": "INSCRIPTIONS EXCLUSIVES",
-            "subtext": "Consultez les dernières offres",
-            "location": "Brest",
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "LDS": "https://lds.com/inscription"
-            },
-            "site": ["LDS"]
-        },
-        {
-            "leftBlockText": "Tous les mercredis et vendredis après-midi",
-            "admissionTitle": "TESTS D'ADMISSION",
-            "subtext": "Consultez toutes nos prochaines dates",
-            "location": "Brest et Angers",
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://oc-campus.com/inscription"
-            },
-            "site": ["PBA"]
+            "site": ["LDS", "OC", "LIT"]
         }
     ],
     "tdaDates": [
