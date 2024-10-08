@@ -9,9 +9,10 @@
             "buttonLinks": {
                 "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/",
                 "LIT": "https://learnit-school.com/dossier-de-candidature/",
-                "LDS": "https://ladigitalschool.com/fr/candidature/"
+                "LDS": "https://ladigitalschool.com/fr/candidature/",
+                "SUPIMMO": "https://sup-immo.com/demande-de-candidature/"
             },
-            "site": ["OC", "LIT", "LDS"]
+            "site": ["OC", "LIT", "LDS", "SUPIMMO"]
         },
         {
             "leftBlockText": "Samedi 19 Octobre",
@@ -19,6 +20,7 @@
             "subtext": "Venez découvrir votre future école",
             "location": {
                 "OC": "Brest et Caen",
+                "SUPIMMO" : "Brest et Caen",
                 "LIT": "Brest",
                 "LDS": "Brest"
             },
@@ -26,9 +28,10 @@
             "buttonLinks": {
                 "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
                 "LIT": "https://learnit-school.com/inscription-jpo/",
-                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/"
+                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
+                "SUPIMMO": "https://sup-immo.com/inscription-jpo-2/"
             },
-            "site": ["LDS", "OC", "LIT"]
+            "site": ["LDS", "OC", "LIT", "SUPIMMO"]
         }
     ],
     "tdaDates": [
