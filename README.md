@@ -1,8 +1,5 @@
 # Gestion des évènements et dates des sites via JSON
 
-**Sommaire**
-
----
 
 ## 1. Modification du fichier JSON sur GitHub
 
