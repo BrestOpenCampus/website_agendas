@@ -11,9 +11,10 @@
                 "LIT": "https://learnit-school.com/dossier-de-candidature/",
                 "LDS": "https://ladigitalschool.com/fr/candidature/",
                 "SUPIMMO": "https://sup-immo.com/demande-de-candidature/",
-                "HTBS": "https://htbs.fr/demande-de-candidature/"
+                "HTBS": "https://htbs.fr/demande-de-candidature/",
+                "SSB": "https://schoolofsportbusiness.fr/demande-de-candidature/"
             },
-            "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS"]
+            "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
         },
         {
             "leftBlockText": "Samedi 19 Octobre",
@@ -24,7 +25,8 @@
                 "SUPIMMO" : "Brest et Caen",
                 "HTBS": "Brest et Caen",
                 "LIT": "Brest",
-                "LDS": "Brest"
+                "LDS": "Brest",
+                "SSB": "Brest"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
@@ -32,9 +34,10 @@
                 "LIT": "https://learnit-school.com/inscription-jpo/",
                 "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
                 "SUPIMMO": "https://sup-immo.com/inscription-jpo-2/",
-                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/"
+                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
+                "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
-            "site": ["LDS", "OC", "LIT", "SUPIMMO", "HTBS"]
+            "site": ["LDS", "OC", "LIT", "SUPIMMO", "HTBS", "SSB"]
         }
     ],
     "tdaDates": [
