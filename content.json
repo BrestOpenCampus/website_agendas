@@ -4,7 +4,14 @@
             "leftBlockText": "Tous les mercredis et vendredis après-midi",
             "admissionTitle": "TESTS D'ADMISSION",
             "subtext": "Consultez toutes nos prochaines dates",
-            "location": "Brest et Angers",
+            "location": {
+                "OC": "Brest, Angers et Caen",
+                "SUPIMMO" : "Brest et Caen",
+                "HTBS": "Brest, Angers et Caen",
+                "LIT": "Brest et Angers",
+                "LDS": "Brest et Angers",
+                "SSB": "Brest"
+            },
             "buttonText": "S'inscrire",
             "buttonLinks": {
                 "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/",
