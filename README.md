@@ -14,13 +14,15 @@
 2. **Localiser le fichier `content.json` :**
     - Depuis la page d'accueil du dépôt, naviguez dans la structure des dossiers jusqu'à trouver le fichier `content.json` (souvent dans le dossier `content` ou similaire).
     
-    ![image.png](image.png)
+    ![image](https://github.com/user-attachments/assets/a6fd091e-74a9-474d-a64a-dbc88bfa14a4)
+
     
 3. **Modifier le fichier `content.json` :**
     - Cliquez sur le fichier `content.json` pour l'ouvrir.
     - En haut à droite du fichier, cliquez sur l'icône en forme de crayon (Edit) pour commencer la modification.
     
-    ![image.png](image%201.png)
+    ![image 1](https://github.com/user-attachments/assets/4a6fe3b7-1d71-443d-85b4-fb79566c448c)
+
     
 4. **Modification des sections :**
     - Pour **ajouter un nouvel événement dans les agendas** (un nouveau bloc dans la section `blocks`), copiez un bloc existant et ajustez les champs comme suit :
@@ -94,7 +96,8 @@
     - Ajoutez un message de description de vos changements dans le champ "Commit message".
     - Cliquez sur "Commit changes" pour enregistrer les modifications dans le dépôt.
         
-        ![image.png](image%202.png)
+        ![image 2](https://github.com/user-attachments/assets/f63186bf-f774-49fb-b5a8-62e027084247)
+
         
 
 ---
@@ -116,9 +119,7 @@ Normalement ils ne seront pas a modifier, cette partie de la doc est faite pour 
         ```
         
         <aside>
-        ⚠️
-        
-        Ce paramètre est crucial car il permet de filtrer les événements en fonction du site paramétré dans le fichier JSON. Si cette valeur n’est pas bonne, les informations qui seront affichées sur le site seront fausse.
+        ⚠️ Ce paramètre est crucial car il permet de filtrer les événements en fonction du site paramétré dans le fichier JSON. Si cette valeur n’est pas bonne, les informations qui seront affichées sur le site seront fausse.
         
         </aside>
         
