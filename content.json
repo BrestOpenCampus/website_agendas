@@ -45,6 +45,21 @@
                 "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
             "site": ["LDS", "OC", "LIT", "SUPIMMO", "HTBS", "SSB"]
+        },
+        {
+            "leftBlockText": "Du 21 au 27 octobre",
+            "admissionTitle": "BREST OPEN GROUPE VERT",
+            "subtext": "Consultez toutes nos prochaines dates",
+            "location": {
+                "OC": "Brest",
+                "SSB": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://www.opendebrest.fr/",
+                "SSB": "https://www.opendebrest.fr/"
+            },
+            "site": ["OC", "SSB"]
         }
     ],
     "tdaDates": [
