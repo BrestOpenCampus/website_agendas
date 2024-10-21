@@ -96,7 +96,7 @@
                 "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
                 "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
-            "site": ["LIT", "LDS", "SUPIMMO", "SSB"]
+            "site": ["LDS", "SUPIMMO", "SSB"]
         },
         {
             "leftBlockText": "Samedi 14 Décembre",
@@ -117,7 +117,7 @@
                 "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
                 "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/"
             },
-            "site": ["LIT", "LDS", "SUPIMMO"]
+            "site": ["LDS", "SUPIMMO"]
         }
     ],
     "tdaDates": [
