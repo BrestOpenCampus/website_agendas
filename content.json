@@ -96,29 +96,8 @@
                 "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
                 "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
-            "site": ["LDS", "SUPIMMO", "SSB"]
+            "site": ["SUPIMMO", "SSB"]
         },
-        {
-            "leftBlockText": "Samedi 14 Décembre",
-            "admissionTitle": "Journée Portes ouvertes",
-            "subtext": "Venez dévouvrir nos campus, nos écoles et nos intervenants.",
-            "location": {
-                "OC": "Angers et Caen",
-                "LIT": "Angers",
-                "LDS": "Angers",
-                "HTBS": "Angers et Caen",
-                "SUPIMMO": "Caen"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LIT": "https://learnit-school.com/inscription-jpo/",
-                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
-                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
-                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/"
-            },
-            "site": ["LDS", "SUPIMMO"]
-        }
     ],
     "tdaDates": [
         { "date": "October 02, 2024", "label": "Mercredi 02/10" },
