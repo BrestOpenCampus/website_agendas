@@ -97,7 +97,7 @@
                 "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
             "site": ["SUPIMMO", "SSB"]
-        },
+        }
     ],
     "tdaDates": [
         { "date": "October 02, 2024", "label": "Mercredi 02/10" },
