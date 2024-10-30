@@ -24,21 +24,6 @@
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
         },
         {
-            "leftBlockText": "Du 21 au 27 octobre",
-            "admissionTitle": "BREST OPEN GROUPE VERT",
-            "subtext": "Open de Tennis à Brest",
-            "location": {
-                "OC": "Brest",
-                "SSB": "Brest"
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {
-                "OC": "https://www.opendebrest.fr/",
-                "SSB": "https://www.opendebrest.fr/"
-            },
-            "site": ["OC", "SSB"]
-        },
-        {
             "leftBlockText": "Samedi 9 Novembre",
             "admissionTitle": "Journée Portes ouvertes",
             "subtext": "Venez dévouvrir notre campus d'Angers",
