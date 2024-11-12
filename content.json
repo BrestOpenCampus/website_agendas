@@ -24,20 +24,6 @@
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
         },
         {
-            "leftBlockText": "Samedi 9 Novembre",
-            "admissionTitle": "Journée Portes ouvertes",
-            "subtext": "Venez dévouvrir notre campus d'Angers",
-            "location": "Angers",
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LIT": "https://learnit-school.com/inscription-jpo/",
-                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
-                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/"
-            },
-            "site": ["OC", "LIT", "LDS", "HTBS"]
-        },
-        {
             "leftBlockText": "Samedi 16 Novembre",
             "admissionTitle": "Journée Portes ouvertes",
             "subtext": "Venez dévouvrir nos campus, nos écoles et nos intervenants.",
