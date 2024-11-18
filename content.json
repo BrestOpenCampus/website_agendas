@@ -45,7 +45,7 @@
                 "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
-        }
+        },
         {
             "leftBlockText": "Samedi 23 Novembre",
             "admissionTitle": "Salon Studyrama",
@@ -68,7 +68,7 @@
                 "SSB": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-pole-grandes-4?gad_source=1&gclid=EAIaIQobChMImsSbxujliQMVILZoCR0X_TJLEAAYASAAEgIe2_D_BwE"
             },
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
-        }
+        },
         {
             "leftBlockText": "Samedi 23 Novembre",
             "admissionTitle": "Salon Studyrama",
@@ -91,7 +91,7 @@
                 "SSB": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18?gad_source=1&gclid=EAIaIQobChMI953pjOnliQMVJZtoCR1OIhSVEAAYASAAEgISOvD_BwE"
             },
             "site": ["OC", "LIT", "LDS", "HTBS"]
-        }
+        },
         {
             "leftBlockText": "Samedi 14 Décembre",
             "admissionTitle": "Journée Portes ouvertes",
@@ -113,7 +113,7 @@
                 "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS"]
-        }
+        },
     ],
     "tdaDates": [
         { "date": "October 02, 2024", "label": "Mercredi 02/10" },
