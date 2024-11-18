@@ -24,29 +24,6 @@
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
         },
         {
-            "leftBlockText": "Samedi 16 Novembre",
-            "admissionTitle": "Journée Portes ouvertes",
-            "subtext": "Venez dévouvrir nos campus, nos écoles et nos intervenants.",
-            "location": {
-                "OC": "Brest et Caen",
-                "LIT": "Brest",
-                "LDS": "Brest",
-                "HTBS": "Brest et Caen",
-                "SUPIMMO": "Brest et Caen",
-                "SSB": "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LIT": "https://learnit-school.com/inscription-jpo/",
-                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
-                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
-                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
-                "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
-            },
-            "site": ["OC", "LIT", "LDS", "HTBS", "SUPIMMO", "SSB"]
-        },
-        {
             "leftBlockText": "Samedi 7 Décembre",
             "admissionTitle": "Journée Portes ouvertes",
             "subtext": "Notre campus de Brest ouvre ses portes, venez découvrir notre offre de formation.",
