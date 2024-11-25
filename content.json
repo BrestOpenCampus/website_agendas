@@ -24,29 +24,6 @@
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
         },
         {
-            "leftBlockText": "Samedi 7 Décembre",
-            "admissionTitle": "Journée Portes ouvertes",
-            "subtext": "Notre campus de Brest ouvre ses portes, venez découvrir notre offre de formation.",
-            "location": {
-                "OC": "Brest",
-                "LIT": "Brest",
-                "LDS": "Brest",
-                "HTBS": "Brest",
-                "SUPIMMO": "Brest",
-                "SSB": "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LIT": "https://learnit-school.com/inscription-jpo/",
-                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
-                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
-                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
-                "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
-            },
-            "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
-        },
-        {
             "leftBlockText": "Samedi 29 & 30 Novembre",
             "admissionTitle": "Salon L'Etudiant",
             "subtext": "Retrouvez nous au salon L'Etudiant à Nantes, venez découvrir notre offre de formation.",
@@ -110,7 +87,7 @@
         {
             "leftBlockText": "Samedi 7 Décembre",
             "admissionTitle": "Journée Portes ouvertes",
-            "subtext": "Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
+            "subtext": "Notre campus de Brest ouvre ses portes, venez découvrir notre offre de formation.",
             "location": {
                 "OC": "Brest",
                 "LIT": "Brest",
@@ -129,7 +106,7 @@
                 "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
-        }
+        },
         {
             "leftBlockText": "Samedi 14 Décembre",
             "admissionTitle": "Journée Portes ouvertes",
