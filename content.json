@@ -47,51 +47,89 @@
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
         },
         {
-            "leftBlockText": "Samedi 23 Novembre",
-            "admissionTitle": "Salon Studyrama",
-            "subtext": "Retrouvez nous au salon Studyrama à Quimper, venez découvrir notre offre de formation.",
+            "leftBlockText": "Samedi 29 & 30 Novembre",
+            "admissionTitle": "Salon L'Etudiant",
+            "subtext": "Retrouvez nous au salon L'Etudiant à Nantes, venez découvrir notre offre de formation.",
             "location": {
-                "OC": "Quimper",
-                "LIT": "Quimper",
-                "LDS": "Quimper",
-                "HTBS": "Quimper",
-                "SUPIMMO": "Quimper",
-                "SSB": "Quimper"
+                "OC": "Nantes",
+                "LIT": "Nantes",
+                "LDS": "Nantes",
+                "HTBS": "Nantes",
             },
-            "buttonText": "En savoir plus",
+            "buttonText": "S'inscrire",
             "buttonLinks": {
-                "OC": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-pole-grandes-4?gad_source=1&gclid=EAIaIQobChMImsSbxujliQMVILZoCR0X_TJLEAAYASAAEgIe2_D_BwE",
-                "LIT": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-pole-grandes-4?gad_source=1&gclid=EAIaIQobChMImsSbxujliQMVILZoCR0X_TJLEAAYASAAEgIe2_D_BwE",
-                "LDS": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-pole-grandes-4?gad_source=1&gclid=EAIaIQobChMImsSbxujliQMVILZoCR0X_TJLEAAYASAAEgIe2_D_BwE",
-                "HTBS": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-pole-grandes-4?gad_source=1&gclid=EAIaIQobChMImsSbxujliQMVILZoCR0X_TJLEAAYASAAEgIe2_D_BwE",
-                "SUPIMMO" : "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-pole-grandes-4?gad_source=1&gclid=EAIaIQobChMImsSbxujliQMVILZoCR0X_TJLEAAYASAAEgIe2_D_BwE",
-                "SSB": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-pole-grandes-4?gad_source=1&gclid=EAIaIQobChMImsSbxujliQMVILZoCR0X_TJLEAAYASAAEgIe2_D_BwE"
-            },
-            "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
-        },
-        {
-            "leftBlockText": "Samedi 23 Novembre",
-            "admissionTitle": "Salon Studyrama",
-            "subtext": "Retrouvez nous au salon Studyrama au Mans, venez découvrir notre offre de formation.",
-            "location": {
-                "OC": "Le Mans",
-                "LIT": "Le Mans",
-                "LDS": "Le Mans",
-                "HTBS": "Le Mans",
-                "SUPIMMO": "Le Mans",
-                "SSB": "Le Mans"
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {
-                "OC": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18?gad_source=1&gclid=EAIaIQobChMI953pjOnliQMVJZtoCR1OIhSVEAAYASAAEgISOvD_BwE",
-                "LIT": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18?gad_source=1&gclid=EAIaIQobChMI953pjOnliQMVJZtoCR1OIhSVEAAYASAAEgISOvD_BwE",
-                "LDS": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18?gad_source=1&gclid=EAIaIQobChMI953pjOnliQMVJZtoCR1OIhSVEAAYASAAEgISOvD_BwE",
-                "HTBS": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18?gad_source=1&gclid=EAIaIQobChMI953pjOnliQMVJZtoCR1OIhSVEAAYASAAEgISOvD_BwE",
-                "SUPIMMO" : "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18?gad_source=1&gclid=EAIaIQobChMI953pjOnliQMVJZtoCR1OIhSVEAAYASAAEgISOvD_BwE",
-                "SSB": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18?gad_source=1&gclid=EAIaIQobChMI953pjOnliQMVJZtoCR1OIhSVEAAYASAAEgISOvD_BwE"
+                "OC": "https://salon-du-lyceen-et-de-l-etudiant-nantes.salon.letudiant.fr/",
+                "LIT": "https://salon-du-lyceen-et-de-l-etudiant-nantes.salon.letudiant.fr/",
+                "LDS": "https://salon-du-lyceen-et-de-l-etudiant-nantes.salon.letudiant.fr/",
+                "HTBS": "https://salon-du-lyceen-et-de-l-etudiant-nantes.salon.letudiant.fr/",
+                "SUPIMMO" : "https://salon-du-lyceen-et-de-l-etudiant-nantes.salon.letudiant.fr/",
+                "SSB": "https://salon-du-lyceen-et-de-l-etudiant-nantes.salon.letudiant.fr/"
             },
             "site": ["OC", "LIT", "LDS", "HTBS"]
         },
+        {
+            "leftBlockText": "Samedi 30 Novembre",
+            "admissionTitle": "Salon L'Etudiant",
+            "subtext": "Retrouvez nous au salon L'Etudiant au Havre, venez découvrir notre offre de formation.",
+            "location": {
+                "OC": "Le Havre",
+                "SUPIMMO": "Le Havre",
+                "HTBS": "Le Havre",
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/",
+                "HTBS": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/",
+                "SUPIMMO" : "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/",
+            },
+            "site": ["OC", "SUPIMMO", "HTBS"]
+        },
+        {
+            "leftBlockText": "Samedi 30 Novembre",
+            "admissionTitle": "Salon Studyrama",
+            "subtext": "Retrouvez nous au salon Studyrama à Vannes, venez découvrir notre offre de formation.",
+            "location": {
+                "OC": "Vannes",
+                "LIT": "Vannes",
+                "LDS": "Vannes",
+                "HTBS": "Vannes",
+                "SUPIMMO": "Vannes",
+                "SSB": "Vannes"
+            },
+            "buttonText": "En savoir plus",
+            "buttonLinks": {
+                "OC": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-de-vannes-13?gad_source=1&gclid=EAIaIQobChMI05f1qIz3iQMVAy4GAB11tiFyEAAYASAAEgLkufD_BwE",
+                "LIT": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-de-vannes-13?gad_source=1&gclid=EAIaIQobChMI05f1qIz3iQMVAy4GAB11tiFyEAAYASAAEgLkufD_BwE",
+                "LDS": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-de-vannes-13?gad_source=1&gclid=EAIaIQobChMI05f1qIz3iQMVAy4GAB11tiFyEAAYASAAEgLkufD_BwE",
+                "HTBS": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-de-vannes-13?gad_source=1&gclid=EAIaIQobChMI05f1qIz3iQMVAy4GAB11tiFyEAAYASAAEgLkufD_BwE",
+                "SUPIMMO" : "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-de-vannes-13?gad_source=1&gclid=EAIaIQobChMI05f1qIz3iQMVAy4GAB11tiFyEAAYASAAEgLkufD_BwE",
+                "SSB": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-de-vannes-13?gad_source=1&gclid=EAIaIQobChMI05f1qIz3iQMVAy4GAB11tiFyEAAYASAAEgLkufD_BwE"
+            },
+            "site": ["OC", "LIT", "LDS", "HTBS", "SSB", "SUPIMMO"]
+        },
+        {
+            "leftBlockText": "Samedi 7 Décembre",
+            "admissionTitle": "Journée Portes ouvertes",
+            "subtext": "Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
+            "location": {
+                "OC": "Brest",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "HTBS": "Brest",
+                "SUPIMMO": "Brest",
+                "SSB": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "LIT": "https://learnit-school.com/inscription-jpo/",
+                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
+                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
+                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
+                "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
+            },
+            "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
+        }
         {
             "leftBlockText": "Samedi 14 Décembre",
             "admissionTitle": "Journée Portes ouvertes",
