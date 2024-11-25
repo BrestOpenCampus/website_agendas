@@ -128,8 +128,8 @@
                 "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS"]
-        },
-    ],
+        }
+    ]
     "tdaDates": [
         { "date": "October 02, 2024", "label": "Mercredi 02/10" },
         { "date": "October 04, 2024", "label": "Vendredi 04/10" },
