@@ -57,7 +57,7 @@
             "buttonLinks": {
                 "OC": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/",
                 "HTBS": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/",
-                "SUPIMMO" : "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/",
+                "SUPIMMO" : "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/"
             },
             "site": ["OC", "SUPIMMO", "HTBS"]
         },
