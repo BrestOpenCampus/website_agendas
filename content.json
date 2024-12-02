@@ -1,7 +1,7 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Tous les mercredis et vendredis après-midi",
+            "leftBlockText": "Samedi 14 Décembre",
             "admissionTitle": "TESTS D'ADMISSION",
             "subtext": "Consultez toutes nos prochaines dates",
             "location": {
@@ -24,63 +24,64 @@
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
         },
         {
-            "leftBlockText": "29 & 30 Novembre",
+            "leftBlockText": "06 & 07 Décembre",
             "admissionTitle": "Salon L'Etudiant",
-            "subtext": "Retrouvez nous au salon L'Etudiant à Nantes, venez découvrir notre offre de formation.",
+            "subtext": "Retrouvez nous au salon L'Etudiant à Caen, venez découvrir notre offre de formation.",
             "location": {
-                "OC": "Nantes",
-                "LIT": "Nantes",
-                "LDS": "Nantes",
-                "HTBS": "Nantes"
+                "OC": "Caen",
+                "SUPIMMO": "Caen",
+                "HTBS": "Caen"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
-                "OC": "https://salon-du-lyceen-et-de-l-etudiant-nantes.salon.letudiant.fr/",
-                "LIT": "https://salon-du-lyceen-et-de-l-etudiant-nantes.salon.letudiant.fr/",
-                "LDS": "https://salon-du-lyceen-et-de-l-etudiant-nantes.salon.letudiant.fr/",
-                "HTBS": "https://salon-du-lyceen-et-de-l-etudiant-nantes.salon.letudiant.fr/",
-                "SUPIMMO" : "https://salon-du-lyceen-et-de-l-etudiant-nantes.salon.letudiant.fr/",
-                "SSB": "https://salon-du-lyceen-et-de-l-etudiant-nantes.salon.letudiant.fr/"
-            },
-            "site": ["OC", "LIT", "LDS", "HTBS"]
-        },
-        {
-            "leftBlockText": "Samedi 30 Novembre",
-            "admissionTitle": "Salon L'Etudiant",
-            "subtext": "Retrouvez nous au salon L'Etudiant au Havre, venez découvrir notre offre de formation.",
-            "location": {
-                "OC": "Le Havre",
-                "SUPIMMO": "Le Havre",
-                "HTBS": "Le Havre"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/",
-                "HTBS": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/",
-                "SUPIMMO" : "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/"
+                "OC": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/",
+                "LIT": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/",
+                "LDS": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/",
+                "HTBS": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/",
+                "SUPIMMO" : "https://salon-de-l-etudiant-caen.salon.letudiant.fr/",
+                "SSB": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/"
             },
             "site": ["OC", "SUPIMMO", "HTBS"]
         },
         {
-            "leftBlockText": "Samedi 30 Novembre",
+            "leftBlockText": "Samedi 7 Décembre",
             "admissionTitle": "Salon Studyrama",
-            "subtext": "Retrouvez nous au salon Studyrama à Vannes, venez découvrir notre offre de formation.",
+            "subtext": "Retrouvez nous au salon Studyrama à Angers, venez découvrir notre offre de formation.",
             "location": {
-                "OC": "Vannes",
-                "LIT": "Vannes",
-                "LDS": "Vannes",
-                "HTBS": "Vannes",
-                "SUPIMMO": "Vannes",
-                "SSB": "Vannes"
+                "OC": "Angers",
+                "LDS": "Angers",
+                "LIT": "Angers",
+                "HTBS": "Angers"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-d-angers-9?gad_source=1&gclid=EAIaIQobChMIqLmyouCIigMVTqdoCR0QyRKmEAAYASAAEgJSrfD_BwE",
+                "LDS": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-d-angers-9?gad_source=1&gclid=EAIaIQobChMIqLmyouCIigMVTqdoCR0QyRKmEAAYASAAEgJSrfD_BwE",
+                "LIT": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-d-angers-9?gad_source=1&gclid=EAIaIQobChMIqLmyouCIigMVTqdoCR0QyRKmEAAYASAAEgJSrfD_BwE",
+                "SUPIMMO" : "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-d-angers-9?gad_source=1&gclid=EAIaIQobChMIqLmyouCIigMVTqdoCR0QyRKmEAAYASAAEgJSrfD_BwE"
+            },
+            "site": ["OC", "LDS", "LIT", "HTBS"]
+        },
+        {
+            "leftBlockText": "Du 12 au 13 Décembre",
+            "admissionTitle": "Salon SUP ARMOR",
+            "subtext": "Retrouvez nous au salon SUP ARMOR à Saint Brieuc, venez découvrir notre offre de formation.",
+            "location": {
+                "OC": "Saint Brieuc",
+                "LIT": "Saint Brieuc",
+                "LDS": "Saint Brieuc",
+                "HTBS": "Saint Brieuc",
+                "SUPIMMO": "Saint Brieuc",
+                "SSB": "Saint Brieuc"
             },
             "buttonText": "En savoir plus",
             "buttonLinks": {
-                "OC": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-de-vannes-13?gad_source=1&gclid=EAIaIQobChMI05f1qIz3iQMVAy4GAB11tiFyEAAYASAAEgLkufD_BwE",
-                "LIT": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-de-vannes-13?gad_source=1&gclid=EAIaIQobChMI05f1qIz3iQMVAy4GAB11tiFyEAAYASAAEgLkufD_BwE",
-                "LDS": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-de-vannes-13?gad_source=1&gclid=EAIaIQobChMI05f1qIz3iQMVAy4GAB11tiFyEAAYASAAEgLkufD_BwE",
-                "HTBS": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-de-vannes-13?gad_source=1&gclid=EAIaIQobChMI05f1qIz3iQMVAy4GAB11tiFyEAAYASAAEgLkufD_BwE",
-                "SUPIMMO" : "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-de-vannes-13?gad_source=1&gclid=EAIaIQobChMI05f1qIz3iQMVAy4GAB11tiFyEAAYASAAEgLkufD_BwE",
-                "SSB": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-de-vannes-13?gad_source=1&gclid=EAIaIQobChMI05f1qIz3iQMVAy4GAB11tiFyEAAYASAAEgLkufD_BwE"
+                "OC": "https://www.suparmor.fr/",
+                "LIT": "https://www.suparmor.fr/",
+                "LDS": "https://www.suparmor.fr/",
+                "HTBS": "https://www.suparmor.fr/",
+                "SUPIMMO" : "https://www.suparmor.fr/",
+                "SSB": "https://www.suparmor.fr/"
             },
             "site": ["OC", "LIT", "LDS", "HTBS", "SSB", "SUPIMMO"]
         },
