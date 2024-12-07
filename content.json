@@ -24,45 +24,6 @@
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
         },
         {
-            "leftBlockText": "06 & 07 Décembre",
-            "admissionTitle": "Salon L'Etudiant",
-            "subtext": "Retrouvez nous au salon L'Etudiant à Caen, venez découvrir notre offre de formation.",
-            "location": {
-                "OC": "Caen",
-                "SUPIMMO": "Caen",
-                "HTBS": "Caen"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/",
-                "LIT": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/",
-                "LDS": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/",
-                "HTBS": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/",
-                "SUPIMMO" : "https://salon-de-l-etudiant-caen.salon.letudiant.fr/",
-                "SSB": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/"
-            },
-            "site": ["OC", "SUPIMMO", "HTBS"]
-        },
-        {
-            "leftBlockText": "Samedi 7 Décembre",
-            "admissionTitle": "Salon Studyrama",
-            "subtext": "Retrouvez nous au salon Studyrama à Angers, venez découvrir notre offre de formation.",
-            "location": {
-                "OC": "Angers",
-                "LDS": "Angers",
-                "LIT": "Angers",
-                "HTBS": "Angers"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-d-angers-9?gad_source=1&gclid=EAIaIQobChMIqLmyouCIigMVTqdoCR0QyRKmEAAYASAAEgJSrfD_BwE",
-                "LDS": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-d-angers-9?gad_source=1&gclid=EAIaIQobChMIqLmyouCIigMVTqdoCR0QyRKmEAAYASAAEgJSrfD_BwE",
-                "LIT": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-d-angers-9?gad_source=1&gclid=EAIaIQobChMIqLmyouCIigMVTqdoCR0QyRKmEAAYASAAEgJSrfD_BwE",
-                "SUPIMMO" : "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-d-angers-9?gad_source=1&gclid=EAIaIQobChMIqLmyouCIigMVTqdoCR0QyRKmEAAYASAAEgJSrfD_BwE"
-            },
-            "site": ["OC", "LDS", "LIT", "HTBS"]
-        },
-        {
             "leftBlockText": "Du 12 au 14 Décembre",
             "admissionTitle": "Salon SUP ARMOR",
             "subtext": "Retrouvez nous au salon SUP ARMOR à Saint Brieuc, venez découvrir notre offre de formation.",
@@ -86,9 +47,31 @@
             "site": ["OC", "LIT", "LDS", "HTBS", "SSB", "SUPIMMO"]
         },
         {
+            "leftBlockText": "Samedi 14 Décembre",
+            "admissionTitle": "Journée Portes ouvertes",
+            "subtext": "Notre campus de Brest ouvre ses portes, venez découvrir nos offres de formation.",
+            "location": {
+                "OC": "Angers et Caen",
+                "LIT": "Angers",
+                "LDS": "Angers",
+                "HTBS": "Angers et Caen",
+                "SUPIMMO": "Caen"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "LIT": "https://learnit-school.com/inscription-jpo/",
+                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
+                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
+                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
+                "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
+            },
+            "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS"]
+        },
+        {
             "leftBlockText": "Jeudi 19 Décembre",
             "admissionTitle": "Soirée Portes ouvertes",
-            "subtext": "Notre campus de Brest ouvre ses portes, venez découvrir nos offres de formation.",
+            "subtext": "Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
             "location": {
                 "OC": "Brest",
                 "LIT": "Brest",
@@ -107,28 +90,6 @@
                 "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
-        },
-        {
-            "leftBlockText": "Samedi 14 Décembre",
-            "admissionTitle": "Journée Portes ouvertes",
-            "subtext": "Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
-            "location": {
-                "OC": "Angers et Caen",
-                "LIT": "Angers",
-                "LDS": "Angers",
-                "HTBS": "Angers et Caen",
-                "SUPIMMO": "Caen"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LIT": "https://learnit-school.com/inscription-jpo/",
-                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
-                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
-                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
-                "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
-            },
-            "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS"]
         }
     ],
     "tdaDates": [
