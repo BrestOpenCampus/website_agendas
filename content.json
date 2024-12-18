@@ -1,6 +1,29 @@
 {
     "blocks": [
         {
+            "leftBlockText": "Jeudi 19 Décembre",
+            "admissionTitle": "Soirée Portes ouvertes",
+            "subtext": "Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
+            "location": {
+                "OC": "Brest",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "HTBS": "Brest",
+                "SUPIMMO": "Brest",
+                "SSB": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "LIT": "https://learnit-school.com/inscription-jpo/",
+                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
+                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
+                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
+                "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
+            },
+            "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
+        },
+        {
             "leftBlockText": "Samedi 14 Décembre",
             "admissionTitle": "TESTS D'ADMISSION",
             "subtext": "Consultez toutes nos prochaines dates",
@@ -24,54 +47,50 @@
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
         },
         {
-            "leftBlockText": "Du 12 au 14 Décembre",
-            "admissionTitle": "Salon SUP ARMOR",
-            "subtext": "Retrouvez nous au salon SUP ARMOR à Saint Brieuc, venez découvrir notre offre de formation.",
+            "leftBlockText": "10 et 11 Janvier",
+            "admissionTitle": "Salon de l'Étudiant",
+            "subtext": "Retrouvez nous au salon de l'Étudiant à Rouen, venez découvrir notre offre de formation.",
             "location": {
-                "OC": "Saint Brieuc",
-                "LIT": "Saint Brieuc",
-                "LDS": "Saint Brieuc",
-                "HTBS": "Saint Brieuc",
-                "SUPIMMO": "Saint Brieuc",
-                "SSB": "Saint Brieuc"
+                "OC": "Rouen",
+                "LIT": "Rouen",
+                "LDS": "Rouen",
+                "HTBS": "Rouen",
+                "SUPIMMO": "Rouen",
+                "SSB": "Rouen"
             },
             "buttonText": "En savoir plus",
             "buttonLinks": {
-                "OC": "https://www.suparmor.fr/",
-                "LIT": "https://www.suparmor.fr/",
-                "LDS": "https://www.suparmor.fr/",
-                "HTBS": "https://www.suparmor.fr/",
-                "SUPIMMO" : "https://www.suparmor.fr/",
-                "SSB": "https://www.suparmor.fr/"
-            },
-            "site": ["OC", "LIT", "LDS", "HTBS", "SSB", "SUPIMMO"]
+                "OC": "https://salon-de-l-etudiant-rouen.salon.letudiant.fr/",
+                "HTBS": "https://salon-de-l-etudiant-rouen.salon.letudiant.fr/",
+                "SUPIMMO" : "https://salon-de-l-etudiant-rouen.salon.letudiant.fr/"            },
+            "site": ["OC", "HTBS", "SUPIMMO"]
         },
         {
-            "leftBlockText": "Samedi 14 Décembre",
-            "admissionTitle": "Journée Portes ouvertes",
-            "subtext": "Notre campus de Brest ouvre ses portes, venez découvrir nos offres de formation.",
+            "leftBlockText": "Samedi 18 Janvier",
+            "admissionTitle": "Salon FOROMAP",
+            "subtext": "Retrouvez nous au salon de Foromap à Brest, venez découvrir notre offre de formation.",
             "location": {
-                "OC": "Angers et Caen",
-                "LIT": "Angers",
-                "LDS": "Angers",
-                "HTBS": "Angers et Caen",
-                "SUPIMMO": "Caen"
+                "OC": "Brest",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "HTBS": "Brest",
+                "SUPIMMO": "Brest"
             },
-            "buttonText": "S'inscrire",
+            "buttonText": "En savoir plus",
             "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LIT": "https://learnit-school.com/inscription-jpo/",
-                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
-                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
-                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
-                "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
+                "OC": "https://foromap29.fr/",
+                "LIT": "https://foromap29.fr/",
+                "LDS": "https://foromap29.fr/",
+                "HTBS": "https://foromap29.fr/",
+                "SUPIMMO" : "https://foromap29.fr/",
+                "SSB": "https://foromap29.fr/"
             },
-            "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS"]
+            "site": ["OC", "LIT", "LDS", "SUPIMMO", "SSB", "HTBS"]
         },
         {
-            "leftBlockText": "Jeudi 19 Décembre",
-            "admissionTitle": "Soirée Portes ouvertes",
-            "subtext": "Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
+            "leftBlockText": "Du 23 au 25 janvier",
+            "admissionTitle": "Salon AZIMUT",
+            "subtext": "Retrouvez nous au salon Azimut à Brest et venez découvrir notre offre de formation.",
             "location": {
                 "OC": "Brest",
                 "LIT": "Brest",
@@ -80,14 +99,14 @@
                 "SUPIMMO": "Brest",
                 "SSB": "Brest"
             },
-            "buttonText": "S'inscrire",
+            "buttonText": "En savoir plus",
             "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LIT": "https://learnit-school.com/inscription-jpo/",
-                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
-                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
-                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
-                "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
+                "OC": "https://www.salon-azimut.com/",
+                "LIT": "https://www.salon-azimut.com/",
+                "LDS": "https://www.salon-azimut.com/",
+                "HTBS": "https://www.salon-azimut.com/",
+                "SUPIMMO" : "https://www.salon-azimut.com/",
+                "SSB": "https://www.salon-azimut.com/"
             },
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
         }
