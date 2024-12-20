@@ -5,10 +5,10 @@
             "admissionTitle": "Journée Portes ouvertes",
             "subtext": "Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
             "location": {
-                "OC": "Brest & Angers",
-                "LIT": "Brest & Angers",
-                "LDS": "Brest & Angers",
-                "HTBS": "Brest & Angers",
+                "OC": "Brest et Angers",
+                "LIT": "Brest et Angers",
+                "LDS": "Brest et Angers",
+                "HTBS": "Brest et Angers",
                 "SUPIMMO": "Brest",
                 "SSB": "Brest"
             },
