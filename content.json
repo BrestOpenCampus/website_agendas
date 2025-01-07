@@ -129,6 +129,25 @@
                 "SSB": "https://www.salon-azimut.com/"
             },
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
+        },
+        {
+            "leftBlockText": "Samedi 25 Janvier",
+            "admissionTitle": "TESTS D'ADMISSION",
+            "subtext": "Consultez toutes nos prochaines dates",
+            "location": {
+                "OC": "Angers",
+                "HTBS": "Angers",
+                "LIT": "Angers",
+                "LDS": "Angers"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/",
+                "LIT": "https://learnit-school.com/dossier-de-candidature/",
+                "LDS": "https://ladigitalschool.com/fr/candidature/",
+                "HTBS": "https://htbs.fr/demande-de-candidature/"
+            },
+            "site": ["OC", "LIT", "LDS", "HTBS"]
         }
     ],
     "tdaDates": [
