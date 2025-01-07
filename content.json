@@ -48,11 +48,11 @@
             "admissionTitle": "TESTS D'ADMISSION",
             "subtext": "Consultez toutes nos prochaines dates",
             "location": {
-                "OC": "Brest, Angers et Caen",
+                "OC": "Brest et Caen",
                 "SUPIMMO" : "Brest et Caen",
-                "HTBS": "Brest, Angers et Caen",
-                "LIT": "Brest et Angers",
-                "LDS": "Brest et Angers",
+                "HTBS": "Brest et Caen",
+                "LIT": "Brest",
+                "LDS": "Brest",
                 "SSB": "Brest"
             },
             "buttonText": "S'inscrire",
