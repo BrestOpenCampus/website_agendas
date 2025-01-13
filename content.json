@@ -21,6 +21,29 @@
             "site": ["OC", "SUPIMMO", "HTBS"]
         },
         {
+            "leftBlockText": "Mercredi 22 Janvier",
+            "admissionTitle": "Soirée Portes ouvertes",
+            "subtext": "Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
+            "location": {
+                "OC": "Brest et Angers",
+                "HTBS": "Brest et Angers",
+                "SUPIMMO": "Brest",
+                "LIT": "Brest et Angers",
+                "LDS": "Brest et Angers",
+                "SSB": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "LIT": "https://learnit-school.com/inscription-jpo/",
+                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
+                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
+                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
+                "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
+            },
+            "site": ["OC", "SUPIMMO", "HTBS"]
+        },
+        {
             "leftBlockText": "Samedi 18 et 25 Janvier",
             "admissionTitle": "TESTS D'ADMISSION",
             "subtext": "Consultez toutes nos prochaines dates",
@@ -198,6 +221,7 @@
                     "December 7, 2024 09:30:00",
                     "December 19, 2024 17:00:00",
                     "January 11, 2025 09:30:00",
+                    "January 22, 2025 09:30:00",
                     "February 1, 2025 09:30:00",
                     "March 1, 2025 09:30:00",
                     "April 5, 2025 09:30:00",
@@ -208,6 +232,7 @@
                     "November 9, 2024 09:30:00",
                     "December 14, 2024 09:30:00",
                     "January 11, 2025 09:30:00",
+                    "January 22, 2025 09:30:00",
                     "February 1, 2025 09:30:00",
                     "March 15, 2025 09:30:00",
                     "April 5, 2025 09:30:00",
