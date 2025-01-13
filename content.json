@@ -21,11 +21,12 @@
             "site": ["OC", "SUPIMMO", "HTBS"]
         },
         {
-            "leftBlockText": "Samedi 18 Janvier",
+            "leftBlockText": "Samedi 18 et 25 Janvier",
             "admissionTitle": "TESTS D'ADMISSION",
             "subtext": "Consultez toutes nos prochaines dates",
             "location": {
-                "OC": "Brest et Caen",
+                "OC": "Brest et Caen 18/01/25
+                Angers 25/01/25",
                 "SUPIMMO" : "Brest et Caen",
                 "HTBS": "Brest et Caen",
                 "LIT": "Brest",
