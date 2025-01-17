@@ -112,6 +112,29 @@
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
         },
         {
+            "leftBlockText": "Samedi 25 janvier",
+            "admissionTitle": "Salon L'Étudiant",
+            "subtext": "Retrouvez nous au salon de l'Étudiant à Caen et venez découvrir notre offre de formation.",
+            "location": {
+                "OC": "Caen",
+                "LIT": "Caen",
+                "LDS": "Caen",
+                "HTBS": "Caen",
+                "SUPIMMO": "Caen",
+                "SSB": "Caen"
+            },
+            "buttonText": "En savoir plus",
+            "buttonLinks": {
+                "OC": "https://salon-formations-et-recrutement-en-alternance-caen.salon.letudiant.fr/",
+                "LIT": "https://salon-formations-et-recrutement-en-alternance-caen.salon.letudiant.fr/",
+                "LDS": "https://salon-formations-et-recrutement-en-alternance-caen.salon.letudiant.fr/",
+                "HTBS": "https://salon-formations-et-recrutement-en-alternance-caen.salon.letudiant.fr/",
+                "SUPIMMO" : "https://salon-formations-et-recrutement-en-alternance-caen.salon.letudiant.fr/",
+                "SSB": "https://salon-formations-et-recrutement-en-alternance-caen.salon.letudiant.fr/"
+            },
+            "site": ["OC", "SUPIMMO", "HTBS"]
+        },
+        {
             "leftBlockText": "Samedi 25 Janvier",
             "admissionTitle": "TESTS D'ADMISSION",
             "subtext": "Consultez toutes nos prochaines dates",
