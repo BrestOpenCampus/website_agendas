@@ -1,15 +1,15 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Samedi 01 Février",
+            "leftBlockText": "Samedi 01 Mars",
             "admissionTitle": "Journée Portes ouvertes",
             "subtext": "Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
             "location": {
-                "OC": "Brest, Angers et Caen",
-                "HTBS": "Brest, Angers et Caen",
+                "OC": "Brest et Caen",
+                "HTBS": "Brest et Caen",
                 "SUPIMMO": "Brest et Caen",
-                "LIT": "Brest et Angers",
-                "LDS": "Brest et Angers",
+                "LIT": "Brest",
+                "LDS": "Brest",
                 "SSB": "Brest"
             },
             "buttonText": "S'inscrire",
@@ -22,6 +22,29 @@
                 "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
             "site": ["OC", "SUPIMMO", "HTBS", "LDS", "SSB", "LIT"]
+        },
+        {
+            "leftBlockText": "Samedi 15 Mars",
+            "admissionTitle": "Journée Portes ouvertes",
+            "subtext": "Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
+            "location": {
+                "OC": "Angers",
+                "HTBS": "Angers",
+                "SUPIMMO": "Brest et Caen",
+                "LIT": "Angers",
+                "LDS": "Angers",
+                "SSB": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "LIT": "https://learnit-school.com/inscription-jpo/",
+                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
+                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
+                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
+                "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
+            },
+            "site": ["OC", "HTBS", "LDS", "LIT"]
         },
         {
             "leftBlockText": "Samedi 22 Février",
