@@ -22,6 +22,32 @@
                 "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
             "site": ["OC","SUPIMMO", "HTBS", "LDS", "LIT", "SSB"]
+        },        
+        {
+            "leftBlockText": "Samedi 8 Février",
+            "admissionTitle": "Journée Portes ouvertes",
+            "subtext": "Deux sessions proposées : 9h30 & 14h Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
+            "location": {
+                "PBA": "Angers, Brest, Caen et Rennes"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
+            },
+            "site": ["PBA"]
+        },        
+        {
+            "leftBlockText": "Samedi 8 Mars",
+            "admissionTitle": "Journée Portes ouvertes",
+            "subtext": "Deux sessions proposées : 9h30 & 14h Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
+            "location": {
+                "PBA": "Angers, Brest, Caen et Rennes"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
+            },
+            "site": ["PBA"]
         },
         {
             "leftBlockText": "Samedi 01 Mars",
