@@ -125,6 +125,29 @@
                 "HTBS": "https://salon-formations-et-recrutement-en-alternance-nantes.salon.letudiant.fr/"
             },
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
+        },
+        {
+            "leftBlockText": "Jeudi 13 Mars",
+            "admissionTitle": "Forum de l'Alternance et du Stage",
+            "subtext": "Vous êtes à la recherche d'une alternance pour la rentrée ? Venez au forum et participez à des jobs dating !",
+            "location": {
+                "OC": "Brest et Caen",
+                "SUPIMMO" : "Brest et Caen",
+                "HTBS": "Brest et Caen",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "SSB": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/forum-de-lalternance-et-du-stage/",
+                "LIT": "https://reseau-opencampus.com/forum-de-lalternance-et-du-stage/",
+                "LDS": "https://reseau-opencampus.com/forum-de-lalternance-et-du-stage/",
+                "SUPIMMO": "https://reseau-opencampus.com/forum-de-lalternance-et-du-stage/",
+                "HTBS": "https://reseau-opencampus.com/forum-de-lalternance-et-du-stage/",
+                "SSB": "https://reseau-opencampus.com/forum-de-lalternance-et-du-stage/"
+            },
+            "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
         }
     ],
     "tdaDates": [
