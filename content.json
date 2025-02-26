@@ -85,16 +85,16 @@
             "site": ["OC", "HTBS", "LDS", "LIT"]
         },
         {
-            "leftBlockText": "Samedi 22 Février",
+            "leftBlockText": "Samedi 22 mars",
             "admissionTitle": "TESTS D'ADMISSION",
             "subtext": "Consultez toutes nos prochaines dates",
             "location": {
-                "OC": "Angers, Brest et Caen",
-                "SUPIMMO" : "Angers, Brest et Caen",
-                "HTBS": "Angers, Brest et Caen",
-                "LIT": "Angers, Brest et Caen",
-                "LDS": "Angers, Brest et Caen",
-                "SSB": "Angers, Brest et Caen"
+                "OC": "Brest et Caen",
+                "SUPIMMO" : "Brest et Caen",
+                "HTBS": "Brest et Caen",
+                "LIT": "Brest et Caen",
+                "LDS": "Brest et Caen",
+                "SSB": "Brest et Caen"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
@@ -106,6 +106,29 @@
                 "SSB": "https://schoolofsportbusiness.fr/demande-de-candidature/"
             },
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
+        },
+        {
+            "leftBlockText": "Samedi 29 mars",
+            "admissionTitle": "TESTS D'ADMISSION",
+            "subtext": "Consultez toutes nos prochaines dates",
+            "location": {
+                "OC": "Angers",
+                "SUPIMMO" : "Angers",
+                "HTBS": "Angers",
+                "LIT": "Angers",
+                "LDS": "Angers",
+                "SSB": "Angers"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/campagne-10-ans/",
+                "LIT": "https://learnit-school.com/dossier-de-candidature/",
+                "LDS": "https://ladigitalschool.com/fr/candidature/",
+                "SUPIMMO": "https://sup-immo.com/demande-de-candidature/",
+                "HTBS": "https://htbs.fr/demande-de-candidature/",
+                "SSB": "https://schoolofsportbusiness.fr/demande-de-candidature/"
+            },
+            "site": ["OC", "LIT", "LDS", "HTBS"]
         },
         {
             "leftBlockText": "Samedi 01 Mars",
