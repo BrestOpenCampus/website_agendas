@@ -1,48 +1,6 @@
 {
     "blocks": [        
         {
-            "leftBlockText": "Samedi 01 Mars",
-            "admissionTitle": "Salon l'Étudiant à Nantes",
-            "subtext": "Venez nous rencontrer, nos équipes seront présentes au salon pour répondre à toutes vos questions !",
-            "location": {
-                "OC": "Nantes",
-                "HTBS": "Nantes",
-                "LIT": "Nantes",
-                "LDS": "Nantes"
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {
-                "OC": "https://salon-formations-et-recrutement-en-alternance-nantes.salon.letudiant.fr/",
-                "LIT": "https://salon-formations-et-recrutement-en-alternance-nantes.salon.letudiant.fr/",
-                "LDS": "https://salon-formations-et-recrutement-en-alternance-nantes.salon.letudiant.fr/",
-                "HTBS": "https://salon-formations-et-recrutement-en-alternance-nantes.salon.letudiant.fr/"
-            },
-            "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
-        },
-        {
-            "leftBlockText": "Samedi 01 Mars",
-            "admissionTitle": "Journée Portes ouvertes",
-            "subtext": "Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
-            "location": {
-                "OC": "Brest et Caen",
-                "HTBS": "Brest et Caen",
-                "SUPIMMO": "Brest et Caen",
-                "LIT": "Brest",
-                "LDS": "Brest",
-                "SSB": "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LIT": "https://learnit-school.com/inscription-jpo/",
-                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
-                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
-                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
-                "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
-            },
-            "site": ["OC", "SUPIMMO", "HTBS", "LDS", "SSB", "LIT"]
-        },
-        {
             "leftBlockText": "Samedi 8 Mars",
             "admissionTitle": "Journée Portes ouvertes",
             "subtext": "Deux sessions proposées : 9h30 & 14h Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
