@@ -110,7 +110,19 @@
             "admissionTitle": "Journée Portes ouvertes",
             "subtext": "Deux sessions proposées : 9h30 & 14h Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
             "location": {
-                "PBA": "Angers, Brest, Caen et Rennes",
+                "PBA": "Angers, Brest, Caen et Rennes"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+            },
+            "site": ["PBA"]
+        },
+        {
+            "leftBlockText": "Samedi 5 Avril",
+            "admissionTitle": "Journée Portes ouvertes",
+            "subtext": "Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
+            "location": {
                 "OC": "Angers, Brest et Caen",
                 "HTBS": "Angers, Brest et Caen",
                 "SUPIMMO": "Brest et Caen",
@@ -120,7 +132,6 @@
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
                 "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
                 "LIT": "https://learnit-school.com/inscription-jpo/",
                 "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
@@ -128,7 +139,7 @@
                 "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
                 "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
-            "site": ["PBA","OC","SUPIMMO", "HTBS", "LDS", "LIT", "SSB"]
+            "site": ["OC","SUPIMMO", "HTBS", "LDS", "LIT", "SSB"]
         }
     ],
     "tdaDates": [
