@@ -179,6 +179,19 @@
                 "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
             "site": ["OC","SUPIMMO", "HTBS", "LDS", "LIT", "SSB"]
+        },
+        {
+            "leftBlockText": "Mercredi 16 Avril",
+            "admissionTitle": "Job Dating",
+            "subtext": "Un moment d'échange privilégié entre nos entreprises partenanires et nos étudiants DE 14h à 17h",
+            "location": {
+                "PBA": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "https://polebtsalternance.fr/job-dating/"
+            },
+            "site": ["PBA"]
         }
     ],
     "tdaDates": [
