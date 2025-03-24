@@ -1,19 +1,6 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Mercredi 19 Mars",
-            "admissionTitle": "Job Dating",
-            "subtext": "Un moment d'échange privilégié entre nos entreprises partenanires et nos étudiants",
-            "location": {
-                "PBA": "Rennes"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/job-dating/"
-            },
-            "site": ["PBA"]
-        },
-        {
             "leftBlockText": "Mardi 25 Mars",
             "admissionTitle": "Job Dating",
             "subtext": "Un moment d'échange privilégié entre nos entreprises partenanires et nos étudiants",
