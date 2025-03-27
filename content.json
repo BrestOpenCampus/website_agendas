@@ -1,19 +1,6 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Mardi 25 Mars",
-            "admissionTitle": "Job Dating",
-            "subtext": "Un moment d'échange privilégié entre nos entreprises partenanires et nos étudiants",
-            "location": {
-                "PBA": "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/job-dating/"
-            },
-            "site": ["PBA"]
-        },
-        {
             "leftBlockText": "Samedi 29 mars",
             "admissionTitle": "TESTS D'ADMISSION",
             "subtext": "Consultez toutes nos prochaines dates",
