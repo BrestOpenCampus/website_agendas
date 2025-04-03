@@ -1,28 +1,19 @@
 {
     "blocks": [
-        {
-            "leftBlockText": "Samedi 29 mars",
-            "admissionTitle": "TESTS D'ADMISSION",
-            "subtext": "Consultez toutes nos prochaines dates",
+                {
+            "leftBlockText": "5 & 6 Avril",
+            "admissionTitle": "Salon du Vintage et de la Création",
+            "subtext": "✨ SupdeMod Angers vous donne rendez-vous les 5 & 6 avril au Central Market ! ✨ ⏰ Samedi : 10h - 21h | Dimanche : 10h - 19h",
             "location": {
-                "OC": "Angers",
-                "SUPIMMO" : "Angers",
-                "HTBS": "Angers",
-                "LIT": "Angers",
-                "LDS": "Angers",
-                "SSB": "Angers"
+                "OC": "📍 Salons Curnonsky, Angers"
             },
-            "buttonText": "S'inscrire",
+            "buttonText": "Plus d'info",
             "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/campagne-10-ans/",
-                "LIT": "https://learnit-school.com/dossier-de-candidature/",
-                "LDS": "https://ladigitalschool.com/fr/candidature/",
-                "SUPIMMO": "https://sup-immo.com/demande-de-candidature/",
-                "HTBS": "https://htbs.fr/demande-de-candidature/",
-                "SSB": "https://schoolofsportbusiness.fr/demande-de-candidature/"
+                "OC": "https://www.instagram.com/centralmarket__"
             },
-            "site": ["OC", "LIT", "LDS", "HTBS"]
+            "site": ["OC"]
         },
+
         {
             "leftBlockText": "Samedi 5 Avril",
             "admissionTitle": "Dernière Journée Portes ouvertes",
