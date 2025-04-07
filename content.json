@@ -1,19 +1,5 @@
 {
     "blocks": [
-                {
-            "leftBlockText": "5 & 6 Avril",
-            "admissionTitle": "Salon du Vintage et de la Création",
-            "subtext": "✨ SupdeMod Angers vous donne rendez-vous les 5 & 6 avril au Central Market ! ✨ ⏰ Samedi : 10h - 21h | Dimanche : 10h - 19h",
-            "location": {
-                "OC": "Salons Curnonsky, Angers"
-            },
-            "buttonText": "Plus d'infos",
-            "buttonLinks": {
-                "OC": "https://www.instagram.com/centralmarket__"
-            },
-            "site": ["OC"]
-        },
-
         {
             "leftBlockText": "Samedi 5 Avril",
             "admissionTitle": "Dernière Journée Portes ouvertes",
