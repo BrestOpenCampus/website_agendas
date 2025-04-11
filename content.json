@@ -1,19 +1,6 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Samedi 5 Avril",
-            "admissionTitle": "Dernière Journée Portes ouvertes",
-            "subtext": "Deux sessions proposées : 9h30 & 14h Notre campus ouvre ses portes, venez découvrir notre offre de formation.",
-            "location": {
-                "PBA": "Angers, Brest, Caen et Rennes"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
-            },
-            "site": ["PBA"]
-        },
-        {
             "leftBlockText": "Samedi 26 avril",
             "admissionTitle": "TESTS D'ADMISSION",
             "subtext": "Consultez toutes nos prochaines dates",
@@ -85,13 +72,26 @@
         {
             "leftBlockText": "Mercredi 16 Avril",
             "admissionTitle": "Job Dating",
-            "subtext": "Un moment d'échange privilégié entre nos entreprises partenanires et nos étudiants DE 14h à 17h",
+            "subtext": "de 15h à 18h30, notre campus ouvre ses portes, venez découvrir notre offre de formation.",
             "location": {
                 "PBA": "Brest"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
                 "PBA": "https://polebtsalternance.fr/job-dating/"
+            },
+            "site": ["PBA"]
+        },
+        {
+            "leftBlockText": "Mercredi 30 Avril",
+            "admissionTitle": "Journée Portes ouvertes",
+            "subtext": "Un moment d'échange privilégié entre nos entreprises partenanires et nos étudiants DE 14h à 17h",
+            "location": {
+                "PBA": "Angers"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
             },
             "site": ["PBA"]
         }
