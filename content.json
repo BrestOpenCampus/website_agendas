@@ -1,5 +1,19 @@
 {
     "blocks": [
+                {
+            "leftBlockText": "Vendredi 25 avril",
+            "admissionTitle": "Soirée Portes ouvertes",
+            "subtext": "de 17h à 19h, notre campus ouvre ses portes, venez découvrir notre offre de formation.",
+            "location": {
+                "OC": "Brest"
+                
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+            },
+            "site": ["OC"]
+        },
         {
             "leftBlockText": "Samedi 26 avril",
             "admissionTitle": "TESTS D'ADMISSION",
@@ -155,7 +169,9 @@
                     "May 16, 2025 15:00:00",
                     "May 17, 2025 09:30:00",
                     "June 7, 2025 09:30:00",
-                    "April 25, 2025 09:30:00"
+                    "April 25, 2025 09:30:00",
+                    "April 25, 2025 17:00:00"
+
                 ],
                 "Angers": [
                     "November 9, 2024 09:30:00",
