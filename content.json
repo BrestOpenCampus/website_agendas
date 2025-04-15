@@ -85,7 +85,7 @@
         {
             "leftBlockText": "Mercredi 30 Avril",
             "admissionTitle": "Journée Portes ouvertes",
-            "subtext": "Un moment d'échange privilégié entre nos entreprises partenanires et nos étudiants de 14h à 17h",
+            "subtext": "de 14h à 17h, notre campus ouvre ses portes, venez découvrir notre offre de formation.",
             "location": {
                 "PBA": "Angers"
             },
@@ -154,7 +154,8 @@
                     "April 5, 2025 09:30:00",
                     "May 16, 2025 15:00:00",
                     "May 17, 2025 09:30:00",
-                    "June 7, 2025 09:30:00"
+                    "June 7, 2025 09:30:00",
+                    "April 25, 2025 09:30:00"
                 ],
                 "Angers": [
                     "November 9, 2024 09:30:00",
@@ -214,7 +215,9 @@
                     "March 8, 2025 09:30:00",
                     "March 8, 2025 14:00:00",
                     "April 5, 2025 09:30:00",
-                    "April 5, 2025 14:00:00"
+                    "April 5, 2025 14:00:00",
+                    "April 30, 2025 14:00:00"
+
                 ],
                 "Caen": [
                     "October 19, 2024 09:30:00",
