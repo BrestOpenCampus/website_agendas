@@ -9,8 +9,7 @@
                 "SUPIMMO" : "Brest",
                 "HTBS": "Brest",
                 "LIT": "Brest",
-                "LDS": "Brest",
-                "SSB": "Brest"           
+                "LDS": "Brest"          
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
@@ -18,10 +17,9 @@
                 "LIT": "https://learnit-school.com/inscription-jpo/",
                 "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
                 "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
-                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
-                "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
+                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/"
             },
-            "site": ["OC","SUPIMMO", "HTBS", "LDS", "LIT", "SSB"]
+            "site": ["OC","SUPIMMO", "HTBS", "LDS", "LIT"]
         },
         {
             "leftBlockText": "Samedi 26 avril",
