@@ -91,19 +91,6 @@
             "site": ["OC","SUPIMMO", "HTBS", "LDS", "LIT", "SSB"]
         },
         {
-            "leftBlockText": "Mercredi 16 Avril",
-            "admissionTitle": "Job Dating",
-            "subtext": "de 15h à 18h30, notre campus ouvre ses portes, venez découvrir notre offre de formation.",
-            "location": {
-                "PBA": "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/job-dating/"
-            },
-            "site": ["PBA"]
-        },
-        {
             "leftBlockText": "Mardi 29 Avril",
             "admissionTitle": "Soirée Portes ouvertes",
             "subtext": "Notre campus ouvre ses portes, venez y découvrir notre offre de formation.",
