@@ -115,6 +115,19 @@
                 "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
             },
             "site": ["PBA"]
+        },
+        {
+            "leftBlockText": "Mardi 29 Avril",
+            "admissionTitle": "Journée Portes ouvertes",
+            "subtext": "Notre campus ouvre ses portes, venez y découvrir notre offre de formation.",
+            "location": {
+                "PBA": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+            },
+            "site": ["PBA"]
         }
     ],
     "tdaDates": [
@@ -221,7 +234,8 @@
                     "March 8, 2025 09:30:00",
                     "March 8, 2025 14:00:00",
                     "April 5, 2025 09:30:00",
-                    "April 5, 2025 14:00:00"
+                    "April 5, 2025 14:00:00",
+                    "April 29, 2025 14:00:00"
                 ],
                 "Angers": [
                     "November 9, 2024 09:30:00",
