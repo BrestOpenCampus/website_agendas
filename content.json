@@ -1,14 +1,6 @@
 {
     "blocks": [
        {
-            "leftBlockText": "lundi 28 avril",
-            "admissionTitle": "Soirée Portes ouvertes spréciale club de basket",
-            "subtext": "de 18h à 20h,Le campus de la School of Sport Business ouvre ses portes à tous les clubs de basket de la région. Au programme : visite du campus, présentation de l’école et bien d’autres choses.",
-            "location": {
-                "OC": "Brest",
-                "SSB" : "Brest"
-            },
-        {
             "leftBlockText": "Vendredi 25 avril",
             "admissionTitle": "Soirée Portes ouvertes spéciale BTS",
             "subtext": "de 17h à 19h, notre campus ouvre ses portes, venez découvrir notre offre de formation BTS.",
@@ -28,6 +20,21 @@
                 "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/"
             },
             "site": ["OC","SUPIMMO", "HTBS", "LDS", "LIT"]
+        },
+        {
+            "leftBlockText": "Lundi 28 avril",
+            "admissionTitle": "Soirée Portes ouvertes spréciale club de basket",
+            "subtext": "de 18h à 20h,Le campus de la School of Sport Business ouvre ses portes à tous les clubs de basket de la région. Au programme : visite du campus, présentation de l’école et bien d’autres choses.",
+            "location": {
+                "OC": "Brest",
+                "SSB": "Brest"          
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "SSB" : "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
+            },
+            "site": ["OC","SSB"]
         },
         {
             "leftBlockText": "Samedi 26 avril",
