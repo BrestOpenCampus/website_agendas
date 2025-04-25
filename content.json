@@ -115,6 +115,19 @@
                 "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
             },
             "site": ["PBA"]
+        },
+        {
+            "leftBlockText": "Mercredi 7 Mai",
+            "admissionTitle": "Soirée Portes ouvertes",
+            "subtext": "De 16h à 19h, notre campus ouvre ses portes, venez découvrir notre offre de formation.",
+            "location": {
+                "PBA": "Rennes"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+            },
+            "site": ["PBA"]
         }
     ],
     "tdaDates": [
