@@ -1,5 +1,14 @@
 {
     "blocks": [
+              {
+            "leftBlockText": "lundi 28 avril",
+            "admissionTitle": "Soirée Portes ouvertes spréciale club de basket",
+            "subtext": "de 18h à 20h,Le campus de la School of Sport Business ouvre ses portes à tous les clubs de basket de la région. Au programme : visite du campus, présentation de l’école et bien d’autres choses.",
+            "location": {
+                "OC": "Brest",
+                "SSB" : "Brest",
+               
+            },
         {
             "leftBlockText": "Vendredi 25 avril",
             "admissionTitle": "Soirée Portes ouvertes spéciale BTS",
@@ -187,6 +196,7 @@
                     "March 1, 2025 09:30:00",
                     "April 5, 2025 09:30:00",
                     "April 25, 2025 17:00:00",
+                    "April 28, 2025 18:00:00",
                     "May 16, 2025 15:00:00",
                     "May 17, 2025 09:30:00",
                     "June 7, 2025 09:30:00"
