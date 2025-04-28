@@ -1,26 +1,5 @@
 {
     "blocks": [
-       {
-            "leftBlockText": "Vendredi 25 avril",
-            "admissionTitle": "Soirée Portes ouvertes spéciale BTS",
-            "subtext": "De 17h à 19h, notre campus ouvre ses portes, venez découvrir notre offre de formation BTS.",
-            "location": {
-                "OC": "Brest",
-                "SUPIMMO" : "Brest",
-                "HTBS": "Brest",
-                "LIT": "Brest",
-                "LDS": "Brest"          
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LIT": "https://learnit-school.com/inscription-jpo/",
-                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
-                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
-                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/"
-            },
-            "site": ["OC","SUPIMMO", "HTBS", "LDS", "LIT"]
-        },
         {
             "leftBlockText": "Lundi 28 avril",
             "admissionTitle": "Soirée Portes ouvertes spréciale club de basket",
