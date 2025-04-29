@@ -1,29 +1,6 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Samedi 24 mai",
-            "admissionTitle": "TESTS D'ADMISSION",
-            "subtext": "Consultez toutes nos prochaines dates",
-            "location": {
-                "OC": "Angers, Brest et Caen",
-                "SUPIMMO" : "Brest et Caen",
-                "HTBS": "Angers, Brest et Caen",
-                "LIT": "Angers et Brest",
-                "LDS": "Angers et Brest",
-                "SSB": "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/",
-                "LIT": "https://learnit-school.com/dossier-de-candidature/",
-                "LDS": "https://ladigitalschool.com/fr/candidature/",
-                "SUPIMMO": "https://sup-immo.com/demande-de-candidature/",
-                "HTBS": "https://htbs.fr/demande-de-candidature/",
-                "SSB": "https://schoolofsportbusiness.fr/demande-de-candidature/"
-            },
-            "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
-        },
-        {
             "leftBlockText": "Vendredi 16 mai",
             "admissionTitle": "Journée Portes ouvertes",
             "subtext": "de 15h à 19h, notre campus ouvre ses portes, venez découvrir notre offre de formation.",
@@ -68,6 +45,29 @@
                 "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
             "site": ["OC","SUPIMMO", "HTBS", "LDS", "LIT", "SSB"]
+        },
+        {
+            "leftBlockText": "Samedi 24 mai",
+            "admissionTitle": "TESTS D'ADMISSION",
+            "subtext": "Consultez toutes nos prochaines dates",
+            "location": {
+                "OC": "Angers, Brest et Caen",
+                "SUPIMMO" : "Brest et Caen",
+                "HTBS": "Angers, Brest et Caen",
+                "LIT": "Angers et Brest",
+                "LDS": "Angers et Brest",
+                "SSB": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/",
+                "LIT": "https://learnit-school.com/dossier-de-candidature/",
+                "LDS": "https://ladigitalschool.com/fr/candidature/",
+                "SUPIMMO": "https://sup-immo.com/demande-de-candidature/",
+                "HTBS": "https://htbs.fr/demande-de-candidature/",
+                "SSB": "https://schoolofsportbusiness.fr/demande-de-candidature/"
+            },
+            "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
         },
         {
             "leftBlockText": "Mardi 29 Avril",
