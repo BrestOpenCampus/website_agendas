@@ -1,6 +1,19 @@
 {
     "blocks": [
         {
+            "leftBlockText": "Mardi 6 mai",
+            "admissionTitle": "Aide à la recherche d'alternance",
+            "subtext": "Au programme, un atelier "Dans la peau d'un recruteur" !",
+            "location": {
+                "PBA": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "https://reseau-opencampus.com/"
+            },
+            "site": ["PBA"]
+        },
+        {
             "leftBlockText": "Vendredi 16 mai",
             "admissionTitle": "Journée Portes ouvertes",
             "subtext": "de 15h à 19h, notre campus ouvre ses portes, venez découvrir notre offre de formation.",
