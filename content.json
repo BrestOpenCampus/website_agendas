@@ -70,19 +70,6 @@
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
         },
         {
-            "leftBlockText": "Mardi 29 Avril",
-            "admissionTitle": "Soirée Portes ouvertes",
-            "subtext": "Notre campus ouvre ses portes, venez y découvrir notre offre de formation.",
-            "location": {
-                "PBA": "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
-            },
-            "site": ["PBA"]
-        },
-        {
             "leftBlockText": "Mercredi 30 Avril",
             "admissionTitle": "Soirée Portes ouvertes",
             "subtext": "de 15h à 18h30, notre campus ouvre ses portes, venez découvrir notre offre de formation.",
