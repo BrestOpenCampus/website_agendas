@@ -5,13 +5,13 @@
             "admissionTitle": "Aide à la recherche d'alternance",
             "subtext": "Au programme, un atelier `Dans la peau d'un recruteur` !",
             "location": {
-                "PBA": "Brest"
+                "OC": "Brest"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
-                "PBA": "https://reseau-opencampus.com/"
+                "OC": "https://reseau-opencampus.com/"
             },
-            "site": ["PBA"]
+            "site": ["OC"]
         },
         {
             "leftBlockText": "Vendredi 16 mai",
