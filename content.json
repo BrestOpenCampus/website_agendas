@@ -22,6 +22,29 @@
                 "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
             },
             "site": ["OC","SUPIMMO", "HTBS", "LDS", "LIT", "SSB"]
+        },
+        {
+            "leftBlockText": "Jeudi 22 mai",
+            "admissionTitle": "Atelier pour trouver son alternance",
+            "subtext": "Booster son Image Pro en ligne, venez découvrir notre atelier de 18h à 19h30.",
+            "location": {
+                "OC": "Brest",
+                "HTBS": "Brest",
+                "SUPIMMO": "Brest",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "SSB": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LIT": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LDS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "HTBS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SUPIMMO" : "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SSB": "https://reseau-opencampus.com/boot-camp-alternance/"
+            },
+            "site": ["OC","SUPIMMO", "HTBS", "LDS", "LIT", "SSB"]
         },        
         {
             "leftBlockText": "Samedi 17 mai",
