@@ -1,19 +1,6 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Mardi 6 mai",
-            "admissionTitle": "Aide à la recherche d'alternance",
-            "subtext": "Au programme, un atelier `Dans la peau d'un recruteur` !",
-            "location": {
-                "OC": "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/boot-camp-alternance/"
-            },
-            "site": ["OC"]
-        },
-        {
             "leftBlockText": "Vendredi 16 mai",
             "admissionTitle": "Journée Portes ouvertes",
             "subtext": "de 15h à 19h, notre campus ouvre ses portes, venez découvrir notre offre de formation.",
@@ -81,19 +68,6 @@
                 "SSB": "https://schoolofsportbusiness.fr/demande-de-candidature/"
             },
             "site": ["OC", "LIT", "LDS", "SUPIMMO", "HTBS", "SSB"]
-        },
-        {
-            "leftBlockText": "Mercredi 30 Avril",
-            "admissionTitle": "Soirée Portes ouvertes",
-            "subtext": "de 15h à 18h30, notre campus ouvre ses portes, venez découvrir notre offre de formation.",
-            "location": {
-                "PBA": "Angers"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
-            },
-            "site": ["PBA"]
         },
         {
             "leftBlockText": "Mercredi 7 Mai",
