@@ -70,6 +70,27 @@
             "site": ["OC","SUPIMMO", "HTBS", "LDS", "LIT", "SSB"]
         },
         {
+            "leftBlockText": "Jeudi 22 mai",
+            "admissionTitle": "TESTS D'ADMISSION GRATUITS",
+            "subtext": "Ce jeudi 22 mai participés aux tests d'admissions gratuitement !",
+            "location": {
+                "OC": "Angers",
+                "HTBS": "Angers",
+                "LIT": "Angers",
+                "LDS": "Angers"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/",
+                "LIT": "https://learnit-school.com/dossier-de-candidature/",
+                "LDS": "https://ladigitalschool.com/fr/candidature/",
+                "SUPIMMO": "https://sup-immo.com/demande-de-candidature/",
+                "HTBS": "https://htbs.fr/demande-de-candidature/",
+                "SSB": "https://schoolofsportbusiness.fr/demande-de-candidature/"
+            },
+            "site": ["OC", "LIT", "LDS", "HTBS", "SSB"]
+        },
+        {
             "leftBlockText": "Samedi 24 mai",
             "admissionTitle": "TESTS D'ADMISSION",
             "subtext": "Consultez toutes nos prochaines dates",
