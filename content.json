@@ -137,11 +137,11 @@
             "site": ["OC", "HTBS", "LDS", "LIT"]
         },        
         {
-            "leftBlockText": "Mercredi 7 Mai",
-            "admissionTitle": "Soirée Portes ouvertes",
-            "subtext": "De 16h à 19h, notre campus ouvre ses portes, venez découvrir notre offre de formation.",
+            "leftBlockText": "Mercredi 4 juin",
+            "admissionTitle": "Portes ouvertes",
+            "subtext": "De 14h à 20h, notre campus ouvre ses portes, venez découvrir nos offres de formation.",
             "location": {
-                "PBA": "Rennes"
+                "PBA": "Angers, Brest, Caen et Rennes"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
