@@ -1,5 +1,29 @@
 {
     "blocks": [
+                {
+            "leftBlockText": "Mercredi 4 Juin",
+            "admissionTitle": "Journée Portes ouvertes spéciale BTS & Bachelors",
+            "subtext": "de 14h à 20h,viens découvrir nos formations post-bac, rencontrer les équipes et visiter le campus.",
+            "location": {
+                "OC": "Angers, Brest et Caen",
+                "HTBS": "Angers, Brest et Caen",
+                "SUPIMMO": "Brest et Caen",
+                "LIT": "Angers, Brest",
+                "LDS": "Angers, Brest",
+                "SSB": "Brest"                            
+            },
+                                },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "LIT": "https://learnit-school.com/inscription-jpo/",
+                "LDS": "https://ladigitalschool.com/journee-portes-ouvertes-la-digital-school/",
+                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
+                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
+                "SSB": "https://schoolofsportbusiness.fr/journee-portes-ouvertes-2/"
+            },
+            "site": ["OC","SUPIMMO", "HTBS", "LDS", "LIT", "SSB"]
+        },
         {
             "leftBlockText": "Vendredi 16 mai",
             "admissionTitle": "Journée Portes ouvertes",
