@@ -236,8 +236,9 @@
         { "date": "January 31, 2025", "label": "Vendredi 31/01" },
         { "date": "February 22, 2025", "label": "Samedi 22/02" },
         { "date": "April 26, 2025", "label": "Samedi 26/04" },
+        { "date": "May 22, 2025", "label": "Samedi 22/05 - Jour de test d’admission offert" },
         { "date": "May 24, 2025", "label": "Samedi 24/05" },
-        { "date": "June 14, 2025", "label": "Samedi 27/06" }
+        { "date": "June 14, 2025", "label": "Samedi 14/06" }
     ],
     "jpoDates": {
         "jpoGroup": {
