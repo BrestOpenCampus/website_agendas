@@ -156,13 +156,13 @@
             "location": {
                 "OC": "Caen",
                 "HTBS": "Caen",
-                "SUPIMMO": "Caen",                  
+                "SUPIMMO": "Caen"              
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
                 "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
                 "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
-                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/",
+                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/"
             },
             "site": ["OC","SUPIMMO", "HTBS"]
         }
