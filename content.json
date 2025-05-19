@@ -167,6 +167,73 @@
             "site": ["OC","SUPIMMO", "HTBS"]
         }
     ],
+    "confs": [
+        {
+            "leftBlockText": "Mardi 20 Mai",
+            "admissionTitle": "Comment faire vivre un club lorsque les résultats sportifs ne sont pas au rendez-vous ?",
+            "subtext": "Ugo Walewski, Dorian Piveteau et Alan Pham vous invitent à suivre une nouvelle Open Conf le 20/05/25 <strong style='color: #EF7D08'>en direct sur facebook à 18h15</strong>",
+            "location": {
+                "OC": "Brest"              
+            },
+            "buttonText": "Voir",
+            "buttonLinks": {
+                "OC": "https://www.facebook.com/opencampus.off"
+            },
+            "site": ["OC"]
+        },
+        {
+            "leftBlockText": "Jeudi 22 Mai",
+            "admissionTitle": "IA & Cybersécurité",
+            "subtext": "Adel Younoussa et Alexis Dore vous invitent à suivre une nouvelle Open Conf le 22/05/25 <strong style='color: #EF7D08'>en direct sur facebook à 13h</strong>",
+            "location": {
+                "OC": "Brest"              
+            },
+            "buttonText": "Voir",
+            "buttonLinks": {
+                "OC": "https://www.facebook.com/opencampus.off"
+            },
+            "site": ["OC"]
+        },
+        {
+            "leftBlockText": "Mardi 3 Juin",
+            "admissionTitle": "Les femmes dans l'industrie musicale",
+            "subtext": "Charlotte Marie, Delphine Chever et Antoine Gekiere vous invitent à suivre une nouvelle Open Conf le 03/06/25 <strong style='color: #EF7D08'>en direct sur facebook à 13h45</strong>",
+            "location": {
+                "OC": "Brest"              
+            },
+            "buttonText": "Voir",
+            "buttonLinks": {
+                "OC": "https://www.facebook.com/opencampus.off"
+            },
+            "site": ["OC"]
+        },
+        {
+            "leftBlockText": "Jeudi 5 Juin",
+            "admissionTitle": "L'impact des changements récents de gouvernement sur la France et sa place à l'internationale",
+            "subtext": "Jisca kounda, Xhesika hasvtaje, Mariama doumba et Axel Chatellin vous invitent à suivre une nouvelle Open Conf le 05/06/25 <strong style='color: #EF7D08'>en direct sur facebook à 19h</strong>",
+            "location": {
+                "OC": "Brest"              
+            },
+            "buttonText": "Voir",
+            "buttonLinks": {
+                "OC": "https://www.facebook.com/opencampus.off"
+            },
+            "site": ["OC"]
+        },
+        {
+            "leftBlockText": "Mardi 17 Juin",
+            "admissionTitle": "Les impacts de la tempête Ciaran sur le secteur du tourisme à Brest",
+            "subtext": "José Menvi Mezui, Laurène Connors et Sorelle Boujeka vous invitent à suivre une nouvelle Open Conf le 17/06/25 <strong style='color: #EF7D08'>en direct sur facebook à 13h45</strong>",
+            "location": {
+                "OC": "Brest"              
+            },
+            "buttonText": "Voir",
+            "buttonLinks": {
+                "OC": "https://www.facebook.com/opencampus.off"
+            },
+            "site": ["OC"]
+        }
+    ],
     "tdaDates": [
         { "date": "October 02, 2024", "label": "Mercredi 02/10" },
         { "date": "October 04, 2024", "label": "Vendredi 04/10" },
