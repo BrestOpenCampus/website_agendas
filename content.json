@@ -149,6 +149,19 @@
             },
             "site": ["OC","SUPIMMO", "HTBS", "LDS", "LIT", "SSB"]
         },
+              {
+            "leftBlockText": "Samedi 7 juin",
+            "admissionTitle": "Portes ouvertes",
+            "subtext": "<strong style='color: #e00816'>Dernière chance pour découvrir nos BTS avant la rentrée !</strong>De 9h30 à 13h, notre campus ouvre ses portes, venez découvrir nos offres de formation.",
+            "location": {
+                "PBA": "Angers, Brest, Caen et Rennes"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+            },
+            "site": ["PBA"]
+        },
         {
             "leftBlockText": "Samedi 14 Juin",
             "admissionTitle": "Journée Portes ouvertes spéciale alternance",
@@ -350,7 +363,9 @@
                     "April 5, 2025 09:30:00",
                     "April 5, 2025 14:00:00",
                     "April 29, 2025 16:00:00",
-                    "June 4, 2025 14:00:00"
+                    "June 4, 2025 14:00:00",
+                    "June 7, 2025 09:30:00"
+
                 ],
                 "Angers": [
                     "November 9, 2024 09:30:00",
@@ -367,7 +382,9 @@
                     "April 5, 2025 09:30:00",
                     "April 5, 2025 14:00:00",
                     "April 30, 2025 15:00:00",
-                    "June 4, 2025 14:00:00"
+                    "June 4, 2025 14:00:00",
+                    "June 7, 2025 09:30:00"
+
                 ],
                 "Caen": [
                     "October 19, 2024 09:30:00",
@@ -385,7 +402,9 @@
                     "March 8, 2025 14:00:00",
                     "April 5, 2025 09:30:00",
                     "April 5, 2025 14:00:00",
-                    "June 4, 2025 14:00:00"
+                    "June 4, 2025 14:00:00",
+                    "June 7, 2025 09:30:00"
+
                 ],
                 "Rennes": [
                     "October 19, 2024 09:30:00",
@@ -404,7 +423,9 @@
                     "April 5, 2025 09:30:00",
                     "April 5, 2025 14:00:00",
                     "May 7, 2025 16:00:00",
-                    "June 4, 2025 14:00:00"
+                    "June 4, 2025 14:00:00",
+                    "June 7, 2025 09:30:00"
+
                 ]
             }
         }
