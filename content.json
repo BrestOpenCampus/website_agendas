@@ -4,6 +4,7 @@
             "leftBlockText": "Jeudi 22 mai",
             "admissionTitle": "Atelier pour trouver son alternance",
             "subtext": "Booster son Image Pro en ligne, venez découvrir notre atelier de 18h à 19h30.",
+            "date": "2025-05-22T18:00:00",
             "location": {
                 "OC": "Brest",
                 "HTBS": "Brest",
@@ -27,6 +28,7 @@
             "leftBlockText": "Jeudi 22 mai",
             "admissionTitle": "TESTS D'ADMISSION GRATUITS",
             "subtext": "Ce jeudi 22 mai participés aux tests d'admissions gratuitement !",
+            "date": "2025-05-22T18:00:00",
             "location": {
                 "OC": "Angers",
                 "HTBS": "Angers",
@@ -48,6 +50,7 @@
             "leftBlockText": "Samedi 24 mai",
             "admissionTitle": "TESTS D'ADMISSION",
             "subtext": "Consultez toutes nos prochaines dates",
+            "date": "2025-05-24T18:00:00",
             "location": {
                 "OC": "Angers, Brest et Caen",
                 "SUPIMMO" : "Brest et Caen",
@@ -71,6 +74,7 @@
             "leftBlockText": "Samedi 31 mai",
             "admissionTitle": "Atelier pour trouver son alternance",
             "subtext": "CV & Lettre de motivation, stratégies de prospection, relances, mises en situation d'entretiens, venez découvrir notre atelier de 9h à 13h00.",
+            "date": "2025-05-31T09:00:00",
             "location": {
                 "OC": "Angers",
                 "HTBS": "Angers",
@@ -94,6 +98,7 @@
             "leftBlockText": "Mercredi 4 juin",
             "admissionTitle": "Portes ouvertes spéciale BTS",
             "subtext": "De 14h à 20h, notre campus ouvre ses portes, venez découvrir nos offres de formation.",
+            "date": "2025-06-04T14:00:00",
             "location": {
                 "PBA": "Angers, Brest, Caen et Rennes"
             },
@@ -107,6 +112,7 @@
             "leftBlockText": "Mercredi 4 Juin",
             "admissionTitle": "Portes ouvertes spéciale BTS & Bachelors",
             "subtext": "De 14h à 20h, viens découvrir nos formations post-bac, rencontrer les équipes et visiter le campus.",
+            "date": "2025-06-04T14:00:00",
             "location": {
                 "OC": "Angers, Brest et Caen",
                 "HTBS": "Angers, Brest et Caen",
@@ -130,6 +136,7 @@
             "leftBlockText": "Samedi 7 Juin",
             "admissionTitle": "Journée Portes ouvertes spéciale alternance",
             "subtext": "<strong style='color: #EF7D08'>Dernière chance pour découvrir nos écoles avant la rentrée !</strong> De 9h30 à 13h, viens découvrir nos formations, rencontrer les équipes et visiter le campus.",
+            "date": "2025-06-07T14:00:00",
             "location": {
                 "OC": "Angers et Brest",
                 "HTBS": "Angers et Brest",
@@ -153,6 +160,7 @@
             "leftBlockText": "Samedi 14 Juin",
             "admissionTitle": "Journée Portes ouvertes spéciale alternance",
             "subtext": "<strong style='color: #EF7D08'>Dernière chance pour découvrir nos écoles avant la rentrée !</strong> De 9h30 à 13h, viens découvrir nos formations, rencontrer les équipes et visiter le campus.",
+            "date": "2025-06-14T09:30:00",
             "location": {
                 "OC": "Caen",
                 "HTBS": "Caen",
