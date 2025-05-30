@@ -157,6 +157,24 @@
             "site": ["OC","SUPIMMO", "HTBS", "LDS", "LIT", "SSB"]
         },
         {
+            "leftBlockText": "Mercredi 11 Juin",
+            "admissionTitle": "Afterwork mission rentrée",
+            "subtext": "Rencontre nos équipes au Buddy's bar le mercredi 11 juin et viens échanger sur ton projet pro, ton orientation ou ta recherche d'alternance, le tout autour d'un rafraîchissement offert.",
+            "date": "2025-06-11T16:00:00",
+            "location": {
+                "OC": "Angers",
+                "HTBS": "Angers",
+                "LIT": "Angers"                        
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://docs.google.com/forms/d/e/1FAIpQLScJCldmkO1NEGVOHZo6wjGuyrhJcoGDrm_958ITnfhak7SQpQ/viewform?usp=header",
+                "LIT": "https://docs.google.com/forms/d/e/1FAIpQLScJCldmkO1NEGVOHZo6wjGuyrhJcoGDrm_958ITnfhak7SQpQ/viewform?usp=header",
+                "HTBS": "https://docs.google.com/forms/d/e/1FAIpQLScJCldmkO1NEGVOHZo6wjGuyrhJcoGDrm_958ITnfhak7SQpQ/viewform?usp=header"
+            },
+            "site": ["OC", "HTBS", "LIT"]
+        },
+        {
             "leftBlockText": "Samedi 14 Juin",
             "admissionTitle": "Journée Portes ouvertes spéciale alternance",
             "subtext": "<strong style='color: #EF7D08'>Dernière chance pour découvrir nos écoles avant la rentrée !</strong> De 9h30 à 13h, viens découvrir nos formations, rencontrer les équipes et visiter le campus.",
