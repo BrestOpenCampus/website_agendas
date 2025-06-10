@@ -192,6 +192,52 @@
             },
             "site": ["OC","SUPIMMO", "HTBS"]
         }
+        {
+            "leftBlockText": "Jeudi 12 Juin",
+            "admissionTitle": "Atelier – Trouver une entreprise… autrement",
+            "subtext": "<strong>16h à 18h :</strong> Si vous en avez marre de postuler sur les mêmes sites que tout le monde, cet atelier est fait pour vous. On va brainstormer ensemble pour inventer d'autres façons de trouver une alternance ou un stage. Intervenants : Happy Manager (Nolwenn ou Jim) et Louise.",
+            "date": "2025-06-12T16:00:00",
+            "location": {
+                "OC": "Brest",
+      
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/boot-camp-alternance/"
+            },
+            "site": ["OC"]
+        }
+        {
+            "leftBlockText": "Mardi 17 Juin",
+            "admissionTitle": "Atelier 5 – Pitch et Prise de Parole",
+            "subtext": "<strong>16h à 18h :</strong> Savoir parler de soi, c’est une compétence clé. Cet atelier vous aide à pitcher votre parcours avec clarté, énergie et impact. Intervenants : Gael Hamayon et/ou Jim.",
+            "date": "2025-06-17T16:00:00",
+            "location": {
+                "OC": "Brest"
+                
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/boot-camp-alternance/"
+            },
+            "site": ["OC"]
+        }
+        {
+            "leftBlockText": "Jeudi 3 Juillet",
+            "admissionTitle": "Atelier 6 – La Posture Pro en Entretien",
+            "subtext": "<strong>16h à 17h10 :</strong> La première impression se joue souvent en quelques secondes. Cet atelier vous aide à travailler votre attitude, votre manière de vous exprimer, de vous asseoir, de regarder… bref, votre présence ! Intervenants : Louise + Méline.",
+            "date": "2025-07-03T16:00:00",
+            "location": {
+                "OC": "Brest"
+                
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/boot-camp-alternance/"
+            },
+            "site": ["OC"]
+        }
+        
     ],
     "confs": [
         {
@@ -308,7 +354,12 @@
         { "date": "May 22, 2025", "label": "Mercredi 21/05 - Jour de test d’admission offert" },
         { "date": "May 22, 2025", "label": "Jeudi 22/05 - Jour de test d’admission offert" },
         { "date": "May 24, 2025", "label": "Samedi 24/05" },
-        { "date": "June 14, 2025", "label": "Samedi 14/06" }
+        { "date": "June 12, 2025", "label": "Jeudi 12/06" },
+        { "date": "June 14, 2025", "label": "Samedi 14/06" },
+        { "date": "June 17, 2025", "label": "Mardi 17/06" },
+        { "date": "July 3, 2025", "label": "Jeudi 03/07" }
+
+
     ],
     "jpoDates": {
         "jpoGroup": {
