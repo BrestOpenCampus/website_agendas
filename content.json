@@ -177,9 +177,7 @@
         {
             "leftBlockText": "Jeudi 12 Juin",
             "admissionTitle": "Atelier – Trouver une entreprise… autrement",
-            "subtext": "<strong>16h à 18h :</strong> Si vous en avez marre de postuler sur les mêmes sites que tout le monde, cet atelier est fait pour vous. On va brainstormer ensemble pour inventer d'autres façons de trouver une alternance ou un stage. Intervenants : Happy Manager (Nolwenn ou Jim) et Louise.",
-            "date": "2025-06-12T16:00:00",
-            "location": {
+            "subtext": "<strong>16h à 18h :</strong> Marre de faire comme tout le monde pour chercher une alternance ou un stage ? Cet atelier est là pour casser les codes et explorer ensemble des méthodes originales et efficaces pour décrocher l’opportunité qui vous correspond.",
                 "OC": "Brest"
       
             },
@@ -209,8 +207,8 @@
         },
         {
             "leftBlockText": "Mardi 17 Juin",
-            "admissionTitle": "Atelier 5 – Pitch et Prise de Parole",
-            "subtext": "<strong>16h à 18h :</strong> Savoir parler de soi, c’est une compétence clé. Cet atelier vous aide à pitcher votre parcours avec clarté, énergie et impact. Intervenants : Gael Hamayon et/ou Jim.",
+            "admissionTitle": "Atelier – Pitch et Prise de Parole",
+            "subtext": "<strong>16h à 18h :</strong> Savoir parler de soi, c’est une compétence clé. Cet atelier vous aide à pitcher votre parcours avec clarté, énergie et impact.",
             "date": "2025-06-17T16:00:00",
             "location": {
                 "OC": "Brest"
@@ -224,8 +222,8 @@
         },
         {
             "leftBlockText": "Jeudi 3 Juillet",
-            "admissionTitle": "Atelier 6 – La Posture Pro en Entretien",
-            "subtext": "<strong>16h à 17h10 :</strong> La première impression se joue souvent en quelques secondes. Cet atelier vous aide à travailler votre attitude, votre manière de vous exprimer, de vous asseoir, de regarder… bref, votre présence ! Intervenants : Louise + Méline.",
+            "admissionTitle": "Atelier – La Posture Pro en Entretien",
+            "subtext": "<strong>16h à 17h10 :</strong> La première impression se joue en quelques secondes. Dans cet atelier, vous apprendrez à soigner votre posture, votre communication non verbale et votre attitude pour gagner en impact dès les premiers instants.",
             "date": "2025-07-03T16:00:00",
             "location": {
                 "OC": "Brest"
