@@ -178,6 +178,8 @@
             "leftBlockText": "Jeudi 12 Juin",
             "admissionTitle": "Atelier – Trouver une entreprise… autrement",
             "subtext": "<strong>16h à 18h :</strong> Marre de faire comme tout le monde pour chercher une alternance ou un stage ? Cet atelier est là pour casser les codes et explorer ensemble des méthodes originales et efficaces pour décrocher l’opportunité qui vous correspond.",
+            "date": "2025-06-12T16:00:00",
+            "location": {    
                 "OC": "Brest"
       
             },
