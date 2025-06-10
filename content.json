@@ -175,6 +175,21 @@
             "site": ["OC", "HTBS", "LIT"]
         },
         {
+            "leftBlockText": "Jeudi 12 Juin",
+            "admissionTitle": "Atelier – Trouver une entreprise… autrement",
+            "subtext": "<strong>16h à 18h :</strong> Si vous en avez marre de postuler sur les mêmes sites que tout le monde, cet atelier est fait pour vous. On va brainstormer ensemble pour inventer d'autres façons de trouver une alternance ou un stage. Intervenants : Happy Manager (Nolwenn ou Jim) et Louise.",
+            "date": "2025-06-12T16:00:00",
+            "location": {
+                "OC": "Brest"
+      
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/boot-camp-alternance/"
+            },
+            "site": ["OC"]
+        },
+        {
             "leftBlockText": "Samedi 14 Juin",
             "admissionTitle": "Journée Portes ouvertes spéciale alternance",
             "subtext": "<strong style='color: #EF7D08'>Dernière chance pour découvrir nos écoles avant la rentrée !</strong> De 9h30 à 13h, viens découvrir nos formations, rencontrer les équipes et visiter le campus.",
@@ -191,22 +206,7 @@
                 "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/"
             },
             "site": ["OC","SUPIMMO", "HTBS"]
-        }
-        {
-            "leftBlockText": "Jeudi 12 Juin",
-            "admissionTitle": "Atelier – Trouver une entreprise… autrement",
-            "subtext": "<strong>16h à 18h :</strong> Si vous en avez marre de postuler sur les mêmes sites que tout le monde, cet atelier est fait pour vous. On va brainstormer ensemble pour inventer d'autres façons de trouver une alternance ou un stage. Intervenants : Happy Manager (Nolwenn ou Jim) et Louise.",
-            "date": "2025-06-12T16:00:00",
-            "location": {
-                "OC": "Brest",
-      
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/boot-camp-alternance/"
-            },
-            "site": ["OC"]
-        }
+        },
         {
             "leftBlockText": "Mardi 17 Juin",
             "admissionTitle": "Atelier 5 – Pitch et Prise de Parole",
@@ -221,7 +221,7 @@
                 "OC": "https://reseau-opencampus.com/boot-camp-alternance/"
             },
             "site": ["OC"]
-        }
+        },
         {
             "leftBlockText": "Jeudi 3 Juillet",
             "admissionTitle": "Atelier 6 – La Posture Pro en Entretien",
