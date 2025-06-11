@@ -177,8 +177,8 @@
         {
             "leftBlockText": "Jeudi 12 Juin",
             "admissionTitle": "Atelier – Trouver une entreprise… autrement",
-            "subtext": "<strong>16h à 18h :</strong> Marre de faire comme tout le monde pour chercher une alternance ou un stage ? Cet atelier est là pour casser les codes et explorer ensemble des méthodes originales et efficaces pour décrocher l’opportunité qui vous correspond.",
-            "date": "2025-06-12T16:00:00",
+            "subtext": "<strong>18h à 19h :</strong> Marre de faire comme tout le monde pour chercher une alternance ou un stage ? Cet atelier est là pour casser les codes et explorer ensemble des méthodes originales et efficaces pour décrocher l’opportunité qui vous correspond.",
+            "date": "2025-06-12T18:00:00",
             "location": {    
                 "OC": "Brest"
       
@@ -210,8 +210,8 @@
         {
             "leftBlockText": "Mardi 17 Juin",
             "admissionTitle": "Atelier – Pitch et Prise de Parole",
-            "subtext": "<strong>16h à 18h :</strong> Savoir parler de soi, c’est une compétence clé. Cet atelier vous aide à pitcher votre parcours avec clarté, énergie et impact.",
-            "date": "2025-06-17T16:00:00",
+            "subtext": "<strong>17h30 à 19h30 :</strong> Savoir parler de soi, c’est une compétence clé. Cet atelier vous aide à pitcher votre parcours avec clarté, énergie et impact.",
+            "date": "2025-06-17T17:30:00",
             "location": {
                 "OC": "Brest"
                 
@@ -225,8 +225,23 @@
         {
             "leftBlockText": "Jeudi 3 Juillet",
             "admissionTitle": "Atelier – La Posture Pro en Entretien",
-            "subtext": "<strong>16h à 17h10 :</strong> La première impression se joue en quelques secondes. Dans cet atelier, vous apprendrez à soigner votre posture, votre communication non verbale et votre attitude pour gagner en impact dès les premiers instants.",
-            "date": "2025-07-03T16:00:00",
+            "subtext": "<strong>18h à 19h30 :</strong> La première impression se joue en quelques secondes. Dans cet atelier, vous apprendrez à soigner votre posture, votre communication non verbale et votre attitude pour gagner en impact dès les premiers instants.",
+            "date": "2025-07-03T18:00:00",
+            "location": {
+                "OC": "Brest"
+                
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/boot-camp-alternance/"
+            },
+            "site": ["OC"]
+        },
+        {
+            "leftBlockText": "Mardi 8 Juillet",
+            "admissionTitle": "Contact Challenge : oser créer des liens",
+            "subtext": "<strong>à partir de 16h :</strong> Dans cet atelier, vous travaillerez votre capacité à oser contacter les gens pour obtenir des infos, des conseils ou des opportunités.",
+            "date": "2025-07-08T16:00:00",
             "location": {
                 "OC": "Brest"
                 
