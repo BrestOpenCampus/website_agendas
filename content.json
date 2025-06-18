@@ -1,24 +1,6 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Mercredi 11 Juin",
-            "admissionTitle": "Afterwork mission rentrée",
-            "subtext": "Rencontre nos équipes au Buddy's bar le mercredi 11 juin de 19h30 à 21h et viens échanger sur ton projet pro, ton orientation ou ta recherche d'alternance, le tout autour d'un rafraîchissement offert.",
-            "date": "2025-06-11T19:30:00",
-            "location": {
-                "OC": "Angers",
-                "HTBS": "Angers",
-                "LIT": "Angers"                        
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://docs.google.com/forms/d/e/1FAIpQLScJCldmkO1NEGVOHZo6wjGuyrhJcoGDrm_958ITnfhak7SQpQ/viewform?usp=header",
-                "LIT": "https://docs.google.com/forms/d/e/1FAIpQLScJCldmkO1NEGVOHZo6wjGuyrhJcoGDrm_958ITnfhak7SQpQ/viewform?usp=header",
-                "HTBS": "https://docs.google.com/forms/d/e/1FAIpQLScJCldmkO1NEGVOHZo6wjGuyrhJcoGDrm_958ITnfhak7SQpQ/viewform?usp=header"
-            },
-            "site": ["OC", "HTBS", "LIT"]
-        },
-        {
             "leftBlockText": "Jeudi 12 Juin",
             "admissionTitle": "Atelier – Trouver une entreprise… autrement",
             "subtext": "<strong>18h à 19h :</strong> Marre de faire comme tout le monde pour chercher une alternance ou un stage ? Cet atelier est là pour casser les codes et explorer ensemble des méthodes originales et efficaces pour décrocher l’opportunité qui vous correspond.",
@@ -72,14 +54,23 @@
             "subtext": "<strong>18h à 19h30 :</strong> La première impression se joue en quelques secondes. Dans cet atelier, vous apprendrez à soigner votre posture, votre communication non verbale et votre attitude pour gagner en impact dès les premiers instants.",
             "date": "2025-07-03T18:00:00",
             "location": {
-                "OC": "Brest"
-                
+                "OC": "Brest",
+                "HTBS": "Brest",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "SUP IMMO": "Brest",
+                "SSB": "Brest"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/boot-camp-alternance/"
+                "OC": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "HTBS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LIT": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LDS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SUP IMMO": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SSB": "https://reseau-opencampus.com/boot-camp-alternance/"
             },
-            "site": ["OC"]
+            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
         {
             "leftBlockText": "Mardi 8 Juillet",
@@ -87,14 +78,48 @@
             "subtext": "<strong>à partir de 16h :</strong> Dans cet atelier, vous travaillerez votre capacité à oser contacter les gens pour obtenir des infos, des conseils ou des opportunités.",
             "date": "2025-07-08T16:00:00",
             "location": {
-                "OC": "Brest"
+                "OC": "Brest",
+                "HTBS": "Brest",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "SUP IMMO": "Brest",
+                "SSB": "Brest"
                 
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/boot-camp-alternance/"
+                "OC": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "HTBS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LIT": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LDS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SUP IMMO": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SSB": "https://reseau-opencampus.com/boot-camp-alternance/"
             },
-            "site": ["OC"]
+            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
+        },
+        {
+            "leftBlockText": "Septembre 2025",
+            "admissionTitle": "Rentrée des classes 2025",
+            "subtext": "Vous pouvez encore candidater directement sur ce site ou nous contacter au 06 10 31 41 33",
+            "date": "2025-07-03T16:00:00",
+            "location": {
+                "OC": "Angers, Brest, Caen",
+                "HTBS": "Angers, Brest, Caen",
+                "LIT": "Angers, Brest, Caen",
+                "LDS": "Angers, Brest, Caen",
+                "SUP IMMO": "Angers, Brest, Caen",
+                "SSB": "Angers, Brest, Caen"
+            },
+            "buttonText": "Candidater",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/",
+                "HTBS": "https://htbs.fr/demande-de-candidature/",
+                "LIT": "https://learnit-school.com/dossier-de-candidature/",
+                "LDS": "https://ladigitalschool.com/candidature/",
+                "SUP IMMO": "https://sup-immo.com/demande-de-candidature/",
+                "SSB": "https://schoolofsportbusiness.fr/demande-de-candidature/"
+            },
+            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
         {
             "leftBlockText": "Septembre 2025",
@@ -106,7 +131,7 @@
             },
             "buttonText": "Candidater",
             "buttonLinks": {
-                "PBA": "https://reseau-opencampus.com/demande-dossier-candidature-goc/"
+                "PBA": "https://polebtsalternance.fr/telechargez-le-dossier-de-candidature/"
             },
             "site": ["PBA"]
         }        
