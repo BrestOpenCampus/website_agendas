@@ -1,50 +1,44 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Jeudi 12 Juin",
-            "admissionTitle": "Atelier – Trouver une entreprise… autrement",
-            "subtext": "<strong>18h à 19h :</strong> Marre de faire comme tout le monde pour chercher une alternance ou un stage ? Cet atelier est là pour casser les codes et explorer ensemble des méthodes originales et efficaces pour décrocher l’opportunité qui vous correspond.",
-            "date": "2025-06-12T18:00:00",
-            "location": {    
-                "OC": "Brest"
-      
+            "leftBlockText": "Mercredi 25 Juin",
+            "admissionTitle": "Défilé de mode à Brest",
+            "subtext": "<strong>18h à 19h30 :</strong> Organisé de A à Z par 17 étudiants, ce défilé est l’aboutissement de plusieurs mois de travail intense. Thématique 2025 : Les profondeurs de la mode ",
+            "date": "2025-06-25T18:00:00",
+            "location": {
+                "OC": "Brest",
             },
-            "buttonText": "S'inscrire",
+            "buttonText": "COMPLET",
             "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/boot-camp-alternance/"
+                "OC": "#",
             },
             "site": ["OC"]
         },
         {
-            "leftBlockText": "Samedi 14 Juin",
-            "admissionTitle": "Journée Portes ouvertes spéciale alternance",
-            "subtext": "<strong style='color: #EF7D08'>Dernière chance pour découvrir nos écoles avant la rentrée !</strong> De 9h30 à 13h, viens découvrir nos formations, rencontrer les équipes et visiter le campus.",
-            "date": "2025-06-14T09:30:00",
+            "leftBlockText": "Mercredi 25 Juin",
+            "admissionTitle": "Défilé de mode à Caen",
+            "subtext": "<strong>18h à 19h30 :</strong> Entièrement organisé par les étudiants, ce défilé accueillera l’icône de la mode Vincent McDoom. Thématique 2025 : Les profondeurs de la mode",
+            "date": "2025-06-25T18:00:00",
             "location": {
                 "OC": "Caen",
-                "HTBS": "Caen",
-                "SUPIMMO": "Caen"              
             },
-            "buttonText": "S'inscrire",
+            "buttonText": "En savoir plus",
             "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "HTBS": "https://htbs.fr/inscription-journee-portes-ouvertes/",
-                "SUPIMMO" : "https://sup-immo.com/inscription-jpo-2/"
+                "OC": "https://www.instagram.com/p/DLDA4AlvLUW/",
             },
-            "site": ["OC","SUPIMMO", "HTBS"]
+            "site": ["OC"]
         },
         {
-            "leftBlockText": "Mardi 17 Juin",
-            "admissionTitle": "Atelier – Pitch et Prise de Parole",
-            "subtext": "<strong>17h30 à 19h30 :</strong> Savoir parler de soi, c’est une compétence clé. Cet atelier vous aide à pitcher votre parcours avec clarté, énergie et impact.",
-            "date": "2025-06-17T17:30:00",
+            "leftBlockText": "Jeudi 26 Juin",
+            "admissionTitle": "Défilé de mode à Angers",
+            "subtext": "<strong>à partir de 18h30 :</strong> 27 étudiants sont mobilisés dans ce projet : créateurs, mannequins, responsables logistique, scénographes, chargés de communication… Une aventure collective intense et formatrice.. Thématique 2025 : Les profondeurs de la mode ",
+            "date": "2025-06-26T18:00:00",
             "location": {
-                "OC": "Brest"
-                
+                "OC": "Angers",
             },
-            "buttonText": "S'inscrire",
+            "buttonText": "En savoir plus",
             "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/boot-camp-alternance/"
+                "OC": "https://www.instagram.com/p/DLDA4AlvLUW/",
             },
             "site": ["OC"]
         },
