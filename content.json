@@ -3,14 +3,14 @@
         {
             "leftBlockText": "Mercredi 25 Juin",
             "admissionTitle": "Défilé de mode à Brest",
-            "subtext": "<strong>18h à 19h30 :</strong> Organisé de A à Z par 17 étudiants, ce défilé est l’aboutissement de plusieurs mois de travail intense. Thématique 2025 : Les profondeurs de la mode ",
+            "subtext": "<strong>à 18h :</strong> Organisé de A à Z par 17 étudiants, ce défilé est l’aboutissement de plusieurs mois de travail intense. Thématique 2025 : Les profondeurs de la mode ",
             "date": "2025-06-25T18:00:00",
             "location": {
                 "OC": "Brest",
             },
             "buttonText": "COMPLET",
             "buttonLinks": {
-                "OC": "#",
+                "OC": "https://www.instagram.com/p/DLDA4AlvLUW/",
             },
             "site": ["OC"]
         },
