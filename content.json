@@ -209,13 +209,13 @@
             "subtext": "Ugo Walewski, Dorian Piveteau et Alan Pham vous invitent à suivre une nouvelle Open Conf le 20/05/25 <strong style='color: #EF7D08'>en direct sur facebook à 18h15</strong>",
             "date": "2025-05-20T18:15:00",
             "location": {
-                "OC": "Brest"              
+                "PBA": "Brest"              
             },
             "buttonText": "Voir",
             "buttonLinks": {
-                "OC": "https://www.facebook.com/opencampus.off"
+                "PBA": "https://www.facebook.com/opencampus.off"
             },
-            "site": ["OC"]
+            "site": ["PBA"]
         }
     ],
     "tdaDates": [
