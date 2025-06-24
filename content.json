@@ -204,19 +204,19 @@
     ],
     "summer": [
         {
-            "leftBlockText": "Mardi 20 Mai",
-            "admissionTitle": "Comment faire vivre un club lorsque les résultats sportifs ne sont pas au rendez-vous ?",
-            "subtext": "Ugo Walewski, Dorian Piveteau et Alan Pham vous invitent à suivre une nouvelle Open Conf le 20/05/25 <strong style='color: #EF7D08'>en direct sur facebook à 18h15</strong>",
-            "date": "2025-05-20T18:15:00",
+            "leftBlockText": "Septembre 2025",
+            "admissionTitle": "Rentrée des classes 2025",
+            "subtext": "Nous n'avons plus d'évènements jusqu'à la rentrée prochaine. Vous pouvez encore candidater directement sur ce site ou nous contacter au 02 56 31 18 62",
+            "date": "2025-07-03T16:00:00",
             "location": {
-                "PBA": "Brest"              
+                "PBA": "Angers, Brest, Caen et Rennes"
             },
-            "buttonText": "Voir",
+            "buttonText": "Candidater",
             "buttonLinks": {
-                "PBA": "https://www.facebook.com/opencampus.off"
+                "PBA": "https://polebtsalternance.fr/telechargez-le-dossier-de-candidature/"
             },
             "site": ["PBA"]
-        }
+        }  
     ],
     "tdaDates": [
         { "date": "October 02, 2024", "label": "Mercredi 02/10" },
