@@ -202,6 +202,22 @@
             "site": ["OC"]
         }
     ],
+    "summer": [
+        {
+            "leftBlockText": "Mardi 20 Mai",
+            "admissionTitle": "Comment faire vivre un club lorsque les résultats sportifs ne sont pas au rendez-vous ?",
+            "subtext": "Ugo Walewski, Dorian Piveteau et Alan Pham vous invitent à suivre une nouvelle Open Conf le 20/05/25 <strong style='color: #EF7D08'>en direct sur facebook à 18h15</strong>",
+            "date": "2025-05-20T18:15:00",
+            "location": {
+                "OC": "Brest"              
+            },
+            "buttonText": "Voir",
+            "buttonLinks": {
+                "OC": "https://www.facebook.com/opencampus.off"
+            },
+            "site": ["OC"]
+        }
+    ],
     "tdaDates": [
         { "date": "October 02, 2024", "label": "Mercredi 02/10" },
         { "date": "October 04, 2024", "label": "Vendredi 04/10" },
