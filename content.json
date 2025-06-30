@@ -225,9 +225,9 @@
             "location": {
                 "PBA": "RENNES"
             },
-            "buttonText": "Candidater",
+            "buttonText": "S'inscrire",
             "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/telechargez-le-dossier-de-candidature/"
+                "PBA": "#Form"
             },
             "site": ["PBA"]
         },
@@ -239,9 +239,9 @@
             "location": {
                 "PBA": "RENNES"
             },
-            "buttonText": "Candidater",
+            "buttonText": "S'inscrire",
             "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/telechargez-le-dossier-de-candidature/"
+                "PBA": "#Form"
             },
             "site": ["PBA"]
         },
@@ -253,9 +253,9 @@
             "location": {
                 "PBA": "RENNES"
             },
-            "buttonText": "Candidater",
+            "buttonText": "S'inscrire",
             "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/telechargez-le-dossier-de-candidature/"
+                "PBA": "#Form"
             },
             "site": ["PBA"]
         },
@@ -267,9 +267,9 @@
             "location": {
                 "PBA": "RENNES"
             },
-            "buttonText": "Candidater",
+            "buttonText": "S'inscrire",
             "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/telechargez-le-dossier-de-candidature/"
+                "PBA": "#Form"
             },
             "site": ["PBA"]
         }
