@@ -211,6 +211,10 @@
             "location": {
                 "PBA": "RENNES"
             },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "#Form"
+            },
             "site": ["PBA"]
         },
         {
