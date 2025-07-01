@@ -1,48 +1,6 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Mercredi 25 Juin",
-            "admissionTitle": "Défilé de mode à Brest",
-            "subtext": "<strong>à 18h30 :</strong> Organisé de A à Z par 17 étudiants, ce défilé est l’aboutissement de plusieurs mois de travail intense. Thématique 2025 : Les profondeurs de la mode ",
-            "date": "2025-06-25T18:30:00",
-            "location": {
-                "OC": "Brest"
-            },
-            "buttonText": "COMPLET",
-            "buttonLinks": {
-                "OC": "https://www.instagram.com/p/DLDA4AlvLUW/"
-            },
-            "site": ["OC"]
-        },
-        {
-            "leftBlockText": "Mercredi 25 Juin",
-            "admissionTitle": "Défilé de mode à Caen",
-            "subtext": "<strong>18h à 19h30 :</strong> Entièrement organisé par les étudiants, ce défilé accueillera l’icône de la mode <strong>Vincent McDoom</strong>. Thématique 2025 : Les profondeurs de la mode",
-            "date": "2025-06-25T18:00:00",
-            "location": {
-                "OC": "Caen"
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {
-                "OC": "https://www.instagram.com/p/DLDA4AlvLUW/"
-            },
-            "site": ["OC"]
-        },
-        {
-            "leftBlockText": "Jeudi 26 Juin",
-            "admissionTitle": "Défilé de mode à Angers",
-            "subtext": "<strong>à partir de 18h30 :</strong> 27 étudiants sont mobilisés dans ce projet : créateurs, mannequins, responsables logistique, scénographes, chargés de communication… Une aventure collective intense et formatrice.. Thématique 2025 : Les profondeurs de la mode ",
-            "date": "2025-06-26T18:00:00",
-            "location": {
-                "OC": "Caves des Arènes – Doué-la-Fontaine"
-            },
-            "buttonText": "Réservez votre place",
-            "buttonLinks": {
-                "OC": "https://www.helloasso.com/associations/bde-aoc/evenements/defile-bain-de-minuit-2"
-            },
-            "site": ["OC"]
-        },
-        {
             "leftBlockText": "Jeudi 3 Juillet",
             "admissionTitle": "Atelier – La Posture Pro en Entretien",
             "subtext": "<strong>18h à 19h30 :</strong> La première impression se joue en quelques secondes. Dans cet atelier, vous apprendrez à soigner votre posture, votre communication non verbale et votre attitude pour gagner en impact dès les premiers instants.",
@@ -131,62 +89,6 @@
         }        
     ],
     "confs": [
-        {
-            "leftBlockText": "Mardi 20 Mai",
-            "admissionTitle": "Comment faire vivre un club lorsque les résultats sportifs ne sont pas au rendez-vous ?",
-            "subtext": "Ugo Walewski, Dorian Piveteau et Alan Pham vous invitent à suivre une nouvelle Open Conf le 20/05/25 <strong style='color: #EF7D08'>en direct sur facebook à 18h15</strong>",
-            "date": "2025-05-20T18:15:00",
-            "location": {
-                "OC": "Brest"              
-            },
-            "buttonText": "Voir",
-            "buttonLinks": {
-                "OC": "https://www.facebook.com/opencampus.off"
-            },
-            "site": ["OC"]
-        },
-        {
-            "leftBlockText": "Jeudi 22 Mai",
-            "admissionTitle": "IA & Cybersécurité",
-            "subtext": "Adel Younoussa et Alexis Dore vous invitent à suivre une nouvelle Open Conf le 22/05/25 <strong style='color: #EF7D08'>en direct sur facebook à 13h</strong>",
-            "date": "2025-05-22T13:00:00",
-            "location": {
-                "OC": "Brest"              
-            },
-            "buttonText": "Voir",
-            "buttonLinks": {
-                "OC": "https://www.facebook.com/opencampus.off"
-            },
-            "site": ["OC"]
-        },
-        {
-            "leftBlockText": "Mardi 3 Juin",
-            "admissionTitle": "Les femmes dans l'industrie musicale",
-            "subtext": "Charlotte Marie, Delphine Chever et Antoine Gekiere vous invitent à suivre une nouvelle Open Conf le 03/06/25 <strong style='color: #EF7D08'>en direct sur facebook à 13h45</strong>",
-            "date": "2025-06-03T13:45:00",
-            "location": {
-                "OC": "Brest"              
-            },
-            "buttonText": "Voir",
-            "buttonLinks": {
-                "OC": "https://www.facebook.com/opencampus.off"
-            },
-            "site": ["OC"]
-        },
-        {
-            "leftBlockText": "Jeudi 5 Juin",
-            "admissionTitle": "L'impact des changements récents de gouvernement sur la France et sa place à l'internationale",
-            "subtext": "Jisca kounda, Xhesika hasvtaje, Mariama doumba et Axel Chatellin vous invitent à suivre une nouvelle Open Conf le 05/06/25 <strong style='color: #EF7D08'>en direct sur facebook à 19h</strong>",
-            "date": "2025-06-05T18:19:00",
-            "location": {
-                "OC": "Brest"              
-            },
-            "buttonText": "Voir",
-            "buttonLinks": {
-                "OC": "https://www.facebook.com/opencampus.off"
-            },
-            "site": ["OC"]
-        },
         {
             "leftBlockText": "Mardi 17 Juin",
             "admissionTitle": "Les impacts de la tempête Ciaran sur le secteur du tourisme à Brest",
