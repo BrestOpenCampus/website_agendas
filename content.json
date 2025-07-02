@@ -106,6 +106,20 @@
     ],
     "summer": [
         {
+            "leftBlockText": "Tous les mardis, mercredis et jeudis",
+            "admissionTitle": "Atelier 100% Alternance",
+            "subtext": "Tous les mardis, mercredis et jeudis, sur ton campus de Caen participe à des ateliers pratiques pour booster ta rentrée : Espace CV & lettre de motivation, Challenge LinkedIn pour valoriser ton profil, Zone Prépa entretien & rencontres pros. Repars avec un CV prêt à l’emploi, un profil LinkedIn au top, de la motivation... et peut-être même une opportunité d’alternance !",
+            "date": "2025-08-31T14:00:00",
+            "location": {
+                "PBA": "Caen"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "#Form"
+            },
+            "site": ["PBA"]
+        },
+        {
             "leftBlockText": "Mardi 15 Juillet",
             "admissionTitle": "Atelier 100% Alternance",
             "subtext": "Viens vivre une demi-journée 100% alternance sur ton campus ! Nous organisons des après-midis par BTS pour t'aider à préparer ta rentrée et passer un moment sympa avec d'autres étudiants !\nAtelier CV, LinkedIn Challenge, Sortie terrain (visite / rencontre pros). Repars avec ton CV, ton profil LinkedIn et peut-être... une offre !",
