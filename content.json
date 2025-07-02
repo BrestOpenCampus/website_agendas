@@ -176,6 +176,12 @@
             "site": ["PBA"]
         }
     ],
+     "summerDatesCaen": [
+        { "date": "October 02, 2024", "label": "Mercredi 02/10" },
+        { "date": "October 04, 2024", "label": "Vendredi 04/10" },
+        { "date": "October 09, 2024", "label": "Mercredi 09/10" },
+        { "date": "October 11, 2024", "label": "Vendredi 11/10" }
+     ],
     "tdaDates": [
         { "date": "October 02, 2024", "label": "Mercredi 02/10" },
         { "date": "October 04, 2024", "label": "Vendredi 04/10" },
