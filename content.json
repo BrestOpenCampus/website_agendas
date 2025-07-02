@@ -177,10 +177,9 @@
         }
     ],
      "summerDatesCaen": [
-        { "date": "October 02, 2024", "label": "Mercredi 02/10" },
-        { "date": "October 04, 2024", "label": "Vendredi 04/10" },
-        { "date": "October 09, 2024", "label": "Mercredi 09/10" },
-        { "date": "October 11, 2024", "label": "Vendredi 11/10" }
+        { "date": "July 08, 2025", "label": "Mardi 08/07" },
+        { "date": "July 09, 2025", "label": "Mercredi 09/07" },
+        { "date": "July 10, 2025", "label": "Jeudi 10/07" }
      ],
     "tdaDates": [
         { "date": "October 02, 2024", "label": "Mercredi 02/10" },
