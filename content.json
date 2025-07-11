@@ -6,11 +6,11 @@
             "subtext": "<strong>18h à 19h30 :</strong>Tous les mardis et jeudis, sur ton campus de Brest participe à des ateliers pratiques pour booster ta rentrée : Espace CV & lettre de motivation, Challenge LinkedIn pour valoriser ton profil, Zone Prépa entretien & rencontres pros. Repars avec un CV prêt à l’emploi, un profil LinkedIn au top, de la motivation... et peut-être même une opportunité d’alternance !",
             "date": "2025-07-15T12:00:00",
             "location": {
-                "OC": "Brest",
+                "OC": "Brest"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/summer-camp-2025/",
+                "OC": "https://reseau-opencampus.com/summer-camp-2025/"
 
             },
             "site": ["OC"]
