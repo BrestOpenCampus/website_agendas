@@ -241,7 +241,13 @@
         { "date": "June 12, 2025", "label": "Jeudi 12/06" },
         { "date": "June 14, 2025", "label": "Samedi 14/06" },
         { "date": "June 17, 2025", "label": "Mardi 17/06" },
-        { "date": "July 3, 2025", "label": "Jeudi 03/07" }
+        { "date": "July 3, 2025", "label": "Jeudi 03/07" },
+        { "date": "July 15, 2025", "label": "Mardi 15/07" },
+        { "date": "July 17, 2025", "label": "Jeudi 17/07" },
+        { "date": "July 22, 2025", "label": "Mardi 22/07" },
+        { "date": "July 24, 2025", "label": "Jeudi 24/07" },
+        { "date": "July 29, 2025", "label": "Mardi 29/07" },
+        { "date": "July 31, 2025", "label": "Jeudi 31/07" }
 
 
     ],
