@@ -4,7 +4,7 @@
             "leftBlockText": "Tous les mardis et jeudis",
             "admissionTitle": "Atelier 100% Alternance",
             "subtext": "<strong>10h à 12h :</strong>Tous les mardis et jeudis, sur ton campus de Brest participe à des ateliers pratiques pour booster ta rentrée : Espace CV & lettre de motivation, Challenge LinkedIn pour valoriser ton profil, Zone Prépa entretien & rencontres pros. Repars avec un CV prêt à l’emploi, un profil LinkedIn au top, de la motivation... et peut-être même une opportunité d’alternance !",
-            "date": "2025-07-15T10:00:00",
+            "date": "2025-08-31T10:00:00",
             "location": {
                 "OC": "Brest"
             },
@@ -101,7 +101,7 @@
                 "PBA": "https://polebtsalternance.fr/telechargez-le-dossier-de-candidature/"
             },
             "site": ["PBA"]
-        }        
+        },        
     ],
     "confs": [
         {
