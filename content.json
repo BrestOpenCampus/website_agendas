@@ -102,12 +102,12 @@
             "site": ["PBA"]
         },
         {
-            "leftBlockText": "Tous les mardis, mercredi et jeudis",
+            "leftBlockText": "Cet été",
             "admissionTitle": "Atelier 100% Alternance",
-            "subtext": "Tous les mardis, mercredi et jeudis, sur ton campus de Caen participe à des ateliers pratiques pour booster ta rentrée : Espace CV & lettre de motivation, Challenge LinkedIn pour valoriser ton profil, Zone Prépa entretien & rencontres pros. Repars avec un CV prêt à l’emploi, un profil LinkedIn au top, de la motivation... et peut-être même une opportunité d’alternance !",
+            "subtext": "Cet été, nos campus sont toujours ouverts pour t'aider à préparer ta rentrée. Viens participer à des ateliers pour trouver ton alternance !",
             "date": "2025-08-31T10:00:00",
             "location": {
-                "PBA": "Caen"
+                "PBA": "Angers, Brest, Caen et Rennes"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
