@@ -88,20 +88,6 @@
             "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
         {
-            "leftBlockText": "Septembre 2025",
-            "admissionTitle": "Rentrée des classes 2025",
-            "subtext": "Nous n'avons plus d'évènements jusqu'à la rentrée prochaine. Vous pouvez encore candidater directement sur ce site ou nous contacter au 06 21 18 48 23",
-            "date": "2025-10-03T16:00:00",
-            "location": {
-                "PBA": "Angers, Brest, Caen et Rennes"
-            },
-            "buttonText": "Candidater",
-            "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/telechargez-le-dossier-de-candidature/"
-            },
-            "site": ["PBA"]
-        },
-        {
             "leftBlockText": "Cet été",
             "admissionTitle": "Atelier 100% Alternance",
             "subtext": "Cet été, nos campus sont toujours ouverts pour t'aider à préparer ta rentrée. Viens participer à des ateliers pour trouver ton alternance !",
@@ -114,7 +100,21 @@
                 "PBA": "https://polebtsalternance.fr/formulaire-inscription-summer-camp/"
             },
             "site": ["PBA"]
-        }      
+        },
+        {
+            "leftBlockText": "Septembre 2025",
+            "admissionTitle": "Rentrée des classes 2025",
+            "subtext": "Nous n'avons plus d'évènements jusqu'à la rentrée prochaine. Vous pouvez encore candidater directement sur ce site ou nous contacter au 06 21 18 48 23",
+            "date": "2025-10-03T16:00:00",
+            "location": {
+                "PBA": "Angers, Brest, Caen et Rennes"
+            },
+            "buttonText": "Candidater",
+            "buttonLinks": {
+                "PBA": "https://polebtsalternance.fr/telechargez-le-dossier-de-candidature/"
+            },
+            "site": ["PBA"]
+        }     
     ],
     "confs": [
         {
