@@ -11,7 +11,6 @@
             "buttonText": "S'inscrire",
             "buttonLinks": {
                 "OC": "https://reseau-opencampus.com/summer-camp-2025/"
-
             },
             "site": ["OC"]
         },
@@ -101,7 +100,21 @@
                 "PBA": "https://polebtsalternance.fr/telechargez-le-dossier-de-candidature/"
             },
             "site": ["PBA"]
-        }        
+        },
+        {
+            "leftBlockText": "Tous les mardis, mercredi et jeudis",
+            "admissionTitle": "Atelier 100% Alternance",
+            "subtext": "Tous les mardis, mercredi et jeudis, sur ton campus de Caen participe à des ateliers pratiques pour booster ta rentrée : Espace CV & lettre de motivation, Challenge LinkedIn pour valoriser ton profil, Zone Prépa entretien & rencontres pros. Repars avec un CV prêt à l’emploi, un profil LinkedIn au top, de la motivation... et peut-être même une opportunité d’alternance !",
+            "date": "2025-08-31T10:00:00",
+            "location": {
+                "PBA": "Caen"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "https://polebtsalternance.fr/formulaire-inscription-summer-camp/"
+            },
+            "site": ["PBA"]
+        }      
     ],
     "confs": [
         {
