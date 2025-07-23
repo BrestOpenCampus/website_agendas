@@ -70,11 +70,11 @@
             "date": "2025-10-03T16:00:00",
             "location": {
                 "OC": "Angers, Brest, Caen",
-                "HTBS": "Angers, Brest, Caen",
-                "LIT": "Angers, Brest, Caen",
-                "LDS": "Angers, Brest, Caen",
-                "SUP IMMO": "Angers, Brest, Caen",
-                "SSB": "Angers, Brest, Caen"
+                "HTBS": "Angers, Brest",
+                "LIT": "Angers, Brest",
+                "LDS": "Brest",
+                "SUP IMMO": "Brest, Caen",
+                "SSB": "Brest"
             },
             "buttonText": "Candidater",
             "buttonLinks": {
