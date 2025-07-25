@@ -1,438 +1,412 @@
 {
-  "formations": [
-    {
-      "type": "BTS",
-      "nom": "BTS MCO",
-      "lieux": ["Brest"],
-      "ecole": "IFAG",
-      "lien": "https://reseau-opencampus.com/ifag-bts-mco/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 2",
-      "duree": "2 ans",
-      "admission": "Initial",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/38362/",
-      "date-ajout": "01/01/2024",
-      "site": ["OC"]
-    },
-    {
-      "type": "Bachelor",
-      "nom": "BACHELOR Responsable d'activité",
-      "lieux": ["Brest"],
-      "ecole": "IFAG",
-      "lien": "https://reseau-opencampus.com/ifag-bachelor-en-1-an/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 3",
-      "duree": "1 an",
-      "admission": "Initial, Alternance" ,
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "60  crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/34734/",
-      "date-ajout": "30/06/2020",
-      "site": ["OC"]
-
-    },
-    {
-      "type": "Mastere",
-      "nom": "MASTERE Manager Business Unit",
-      "lieux": ["Brest"],
-      "ecole": "IFAG",
-      "lien": "https://reseau-opencampus.com/ifag-mastere/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 5",
-      "duree": "2 ans",
-      "admission":  "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/37635/",
-      "date-ajout": "31/05/2023",
-      "site": ["OC"]
-
-    },
-    {
-      "type": "BTS",
-      "nom": "BTS SIO",
-      "lieux": ["Angers", "Brest"],
-      "ecole": "Learn IT",
-      "lien": "https://reseau-opencampus.com/learn-it-bts-sio/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 2",
-      "duree": "2 ans",
-      "admission": "Initial",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/35340/",
-      "date-ajout": "01/09/2020",
-      "site": ["OC"]
-    },
-    {
-      "type": "Bachelor",
-      "nom": "BACHELOR Développeur, Solution et Application",
-      "lieux": ["Angers", "Brest"],
-      "ecole": "Learn IT",
-      "lien": "https://reseau-opencampus.com/learn-it-bachelor-informatique-1-an/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 3",
-      "duree": "1 an",
-      "admission":  "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "60  crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/37873/",
-      "date-ajout": "18/12/2023",
-      "site": ["OC"]
-    },
+    "blocks": [
         {
-      "type": "Bachelor",
-      "nom": "BACHELOR Administrateur Système et Réseau",
-      "lieux": ["Angers", "Brest"],
-      "ecole": "Learn IT",
-      "lien": "https://reseau-opencampus.com/learn-it-bachelor-informatique-1-an/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 3",
-      "duree": "1 an",
-      "admission":  "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "60  crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/37680/",
-      "date-ajout": "01/09/2023",
-      "site": ["OC"]
-    },
-    {
-      "type": "Mastere",
-      "nom": "MASTERE Manager développement Programmation & Data/IA",
-      "lieux": ["Angers", "Brest"],
-      "ecole": "Learn IT",
-      "lien": "https://reseau-opencampus.com/learn-it-mastere-informatique/",
-      "date": "Septembre 2025",
-      "niveau":"BAC + 5",
-      "duree": "2 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/38822/",
-      "date-ajout": "27/03/2024",
-      "site": ["OC"]
-    },
-    {
-      "type": "Mastere",
-      "nom": "MASTERE Manager Infrastructure, Réseau & Cybersécurité",
-      "lieux": ["Angers", "Brest"],
-      "ecole": "Learn IT",
-      "lien": "https://reseau-opencampus.com/learn-it-mastere-informatique/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 5",
-      "duree": "2 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/38823/",
-      "date-ajout": "27/03/2024",
-      "site": ["OC"]
-    },
-    {
-      "type": "Bachelor",
-      "nom": "BACHELOR Marketing & Evénementiel sportif",
-      "lieux": ["Brest"],
-      "ecole": "School of Sport Business",
-      "lien": "https://reseau-opencampus.com/school-of-sport-business-bachelor-en-1-an/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 3",
-      "duree": "3 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "180 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/34317/",
-      "date-ajout": "18/11/2019",
-      "site": ["OC"]
-    },
-    {
-      "type": "Mastere",
-      "nom": "MASTERE Management de Sport & E-Business",
-      "lieux": ["Brest"],
-      "ecole": "School of Sport Business",
-      "lien": "https://reseau-opencampus.com/school-sport-business-mastere/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 5",
-      "duree": "2 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/36982/",
-      "date-ajout": "24/10/2022",
-      "site": ["OC"]
-    },
-    {
-      "type": "BTS",
-      "nom": "BTS NDRC",
-      "lieux": ["Angers", "Brest"],
-      "ecole": "La Digital School",
-      "lien": "https://reseau-opencampus.com/lds-bts-ndrc/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 2",
-      "duree": "2 ans",
-      "admission": "Initial",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/38368/",
-      "date-ajout": "01/01/2024",
-      "site": ["OC"]
-    },
-    {
-      "type": "Bachelor",
-      "nom": "BACHELOR Animation 3D & Game Design",
-      "lieux": ["Brest"],
-      "ecole": "La Digital School",
-      "lien": "https://reseau-opencampus.com/lds-bachelor-animation-3d-et-game-design/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 3",
-      "duree": "3 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit":"180 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/34340/",
-      "date-ajout": "16/12/2019",
-      "site": ["OC"]
-    },
-    {
-      "type": "Bachelor",
-      "nom": "BACHELOR Chef de Projet Digital",
-      "lieux": ["Angers", "Brest"],
-      "ecole": "La Digital School",
-      "lien": "https://reseau-opencampus.com/lds-bachelor-chef-de-projet-digital-1an/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 3",
-      "duree": "1 an",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "60  crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/40377/",
-      "date-ajout": "28/03/2025",
-      "site": ["OC"]
-    },
-    {
-      "type": "Mastere",
-      "nom": "MASTERE Expert en Digital",
-      "lieux": ["Angers", "Brest"],
-      "ecole": "La Digital School",
-      "lien": "https://reseau-opencampus.com/la-digital-school-expert-digital/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 5",
-      "duree": "2 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/40377/  + https://www.francecompetences.fr/recherche/rncp/36905/",
-      "date-ajout": "28/03/2025",
-      "site": ["OC"]
-    },
-    {
-      "type": "BTS",
-      "nom": "BTS Tourisme",
-      "lieux": ["Angers", "Brest", "Caen"],
-      "ecole": "Hospitality & Tourism Business School",
-      "lien": "https://reseau-opencampus.com/htbs-bts-tourisme/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 2",
-      "duree": "2 ans",
-      "admission": "Initial",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/37890/",
-      "date-ajout": "01/09/2023",
-      "site": ["OC"]
-    },
-    {
-      "type": "Bachelor",
-      "nom": "BACHELOR Marketing Hôtelier & Touristique",
-      "lieux": ["Angers", "Brest", "Caen"],
-      "ecole": "Hospitality & Tourism Business School",
-      "lien": "https://reseau-opencampus.com/htbs-bretagne-bachelor-marketing-hotelier-touristique-1-an/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 3",
-      "duree":"1 an",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "60  crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/34465/",
-      "date-ajout": "02/03/2020",
-      "site": ["OC"]
-    },
-    {
-      "type": "Mastere",
-      "nom": "MASTERE Dirigeant Manager en Hôtellerie & Tourisme",
-      "lieux": ["Angers", "Brest", "Caen"],
-      "ecole": "Hospitality & Tourism Business School",
-      "lien": "https://reseau-opencampus.com/htbs-bretagne-mastere-hotellerie-tourisme/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 5",
-      "duree": "2 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/35208/",
-      "date-ajout": "20/01/2021",
-      "site": ["OC"]
-    },
-    {
-      "type": "BTS",
-      "nom": "BTS Professions Immobilières",
-      "lieux": ["Brest","Caen"],
-      "ecole": "SUP IMMO",
-      "lien": "https://reseau-opencampus.com/sup-immo-bts-professions-immobilieres/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 2",
-      "duree": "2 ans",
-      "admission": "Initial",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/38380/",
-      "date-ajout": "01/01/2024",
-      "site": ["OC"]
-    },
-    {
-      "type": "Bachelor",
-      "nom": "BACHELOR Négociateur Immobilier et Entrepreneuriat Immobilier",
-      "lieux": ["Brest", "Caen"],
-      "ecole": "SUP IMMO",
-      "lien": "https://reseau-opencampus.com/sup-immo-bachelor-en-1-an/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 3",
-      "duree": "1 an",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "60  crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/36382/",
-      "date-ajout": "25/04/2022",
-      "site": ["OC"]
-    },
-    {
-      "type": "Mastere",
-      "nom": "MASTERE Dirigeant Manager en Immobilier",
-      "lieux": ["Brest","Caen"],
-      "ecole": "SUP IMMO",
-      "lien": "https://reseau-opencampus.com/sup-immo-mastere-immobilier/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 5",
-      "duree": "2 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/40257/ + https://www.francecompetences.fr/recherche/rncp/35438/",
-      "date-ajout": "20/01/2021 +  17-03-2021 ",
-      "site": ["OC"]
-    },
-    {
-      "type": "Bachelor",
-      "nom": "BACHELOR Responsable de Communication",
-      "lieux": ["Brest", "Caen"],
-      "ecole": "SUP'DE COM",
-      "lien": "https://reseau-opencampus.com/supdecom-bachelor-communication/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 3",
-      "duree": "3 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "180 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/34919/",
-      "date-ajout": "14/09/2020",
-      "site": ["OC"]
-    },
-    {
-      "type": "Mastere",
-      "nom": "MASTERE Manager de la Communication",
-      "lieux": ["Brest","Caen"],
-      "ecole": "SUP'DE COM",
-      "lien": "https://reseau-opencampus.com/supdecom-mastere-communication/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 5",
-      "duree": "2 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/37156/",
-      "date-ajout": "14/12/2022",
-      "site": ["OC"]
-    },
-    {
-      "type": "Bachelor",
-      "nom": "BACHELOR Styliste Modéliste",
-      "lieux": ["Angers", "Brest", "Caen"],
-      "ecole": "SUPDEMOD",
-      "lien": "https://reseau-opencampus.com/supdemod-bachelor-styliste-modeliste/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 3",
-      "duree": "3 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "180 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/37081/",
-      "date-ajout": "23/11/2022",
-      "site": ["OC"]
-    },
-    {
-      "type": "Bachelor",
-      "nom": "BACHELOR Marketing de la Mode & du Luxe",
-      "lieux": ["Angers", "Brest", "Caen"],
-      "ecole": "SUPDEMOD",
-      "lien": "https://reseau-opencampus.com/supdemod-bachelor-marketing-mode-luxe/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 3",
-      "duree":"3 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "180 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/34465/",
-      "date-ajout": "02/03/2020",
-      "site": ["OC"]
-    },
-    {
-      "type": "Mastere",
-      "nom": "MASTERE Manager du Développement de Mode et Luxe",
-      "lieux": ["Angers", "Brest", "Caen"],
-      "ecole": "SUPDEMOD",
-      "lien": "https://reseau-opencampus.com/supdemod-mastere-manager-developpement-produits-mode-luxe/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 5",
-      "duree": "2 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/40257/",
-      "date-ajout": "20/01/2021",
-      "site": ["OC"]
-    },
-    {
-      "type": "BTS",
-      "nom": "BAC + 2 Responsable de Petite et Moyenne Structure",
-      "lieux": ["Brest"],
-      "ecole": "PPI",
-      "lien": "https://reseau-opencampus.com/formation-bac2-commerce-communication-management/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 2",
-      "duree": "2 ans",
-      "admission": "Initial",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/38575/",
-      "date-ajout": "23/01/2024",
-      "site": ["OC"]
-    },
-    {
-      "type": "BTS",
-      "nom": "BTS MCO",
-      "lieux": ["Brest", "Angers", "Caen", "Rennes"],
-      "ecole": "Pôle BTS Alternance",
-      "lien": "https://polebtsalternance.fr/nos-bts/pole-commerce/bts-management-commercial-operationnel/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 2",
-      "duree": "2 ans de formation, 1350h",
-      "admission": "Disponible en alternance",
-      "diplome": "Diplome de niveau 5 - RNCP 3862 ↗",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/38362/",
-      "date-ajout": "Cette certification prépare au métier de niveau 5, code NSF 310 et 312, enregistré pour 5 ans au RNCP le 01/01/2024 jusqu’au 31/12/2028, délivré par le <strong>Ministère de l’enseignement superieur et de la recherche.</strong>",
-      "site": ["PBA"]
-    }  
-  ]
+            "leftBlockText": "Tous les mardis et jeudis",
+            "admissionTitle": "Atelier 100% Alternance",
+            "subtext": "<strong>10h à 12h :</strong>Tous les mardis et jeudis, sur ton campus de Brest participe à des ateliers pratiques pour booster ta rentrée : Espace CV & lettre de motivation, Challenge LinkedIn pour valoriser ton profil, Zone Prépa entretien & rencontres pros. Repars avec un CV prêt à l’emploi, un profil LinkedIn au top, de la motivation... et peut-être même une opportunité d’alternance !",
+            "date": "2025-08-31T10:00:00",
+            "location": {
+                "OC": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/summer-camp-2025/"
+            },
+            "site": ["OC"]
+        },
+        {
+            "leftBlockText": "Jeudi 3 Juillet",
+            "admissionTitle": "Atelier – La Posture Pro en Entretien",
+            "subtext": "<strong>18h à 19h30 :</strong> La première impression se joue en quelques secondes. Dans cet atelier, vous apprendrez à soigner votre posture, votre communication non verbale et votre attitude pour gagner en impact dès les premiers instants.",
+            "date": "2025-07-03T18:00:00",
+            "location": {
+                "OC": "Brest",
+                "HTBS": "Brest",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "SUP IMMO": "Brest",
+                "SSB": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "HTBS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LIT": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LDS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SUP IMMO": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SSB": "https://reseau-opencampus.com/boot-camp-alternance/"
+            },
+            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
+        },
+        {
+            "leftBlockText": "Mardi 8 Juillet",
+            "admissionTitle": "Contact Challenge : oser créer des liens",
+            "subtext": "<strong>à partir de 16h :</strong> Dans cet atelier, vous travaillerez votre capacité à oser contacter les gens pour obtenir des infos, des conseils ou des opportunités.",
+            "date": "2025-07-08T16:00:00",
+            "location": {
+                "OC": "Brest",
+                "HTBS": "Brest",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "SUP IMMO": "Brest",
+                "SSB": "Brest"
+                
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "HTBS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LIT": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LDS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SUP IMMO": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SSB": "https://reseau-opencampus.com/boot-camp-alternance/"
+            },
+            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
+        },
+        {
+            "leftBlockText": "Septembre 2025",
+            "admissionTitle": "Rentrée des classes 2025",
+            "subtext": "Vous pouvez encore candidater directement sur ce site ou nous contacter au 06 10 31 41 33",
+            "date": "2025-10-03T16:00:00",
+            "location": {
+                "OC": "Angers, Brest, Caen",
+                "HTBS": "Angers, Brest",
+                "LIT": "Angers, Brest",
+                "LDS": "Brest",
+                "SUP IMMO": "Brest, Caen",
+                "SSB": "Brest"
+            },
+            "buttonText": "Candidater",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/",
+                "HTBS": "https://htbs.fr/demande-de-candidature/",
+                "LIT": "https://learnit-school.com/dossier-de-candidature/",
+                "LDS": "https://ladigitalschool.com/candidature/",
+                "SUP IMMO": "https://sup-immo.com/demande-de-candidature/",
+                "SSB": "https://schoolofsportbusiness.fr/demande-de-candidature/"
+            },
+            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
+        },
+        {
+            "leftBlockText": "Cet été",
+            "admissionTitle": "Atelier 100% Alternance",
+            "subtext": "Cet été, nos campus sont toujours ouverts pour t'aider à préparer ta rentrée. Viens participer à des ateliers pour trouver ton alternance !",
+            "date": "2025-08-31T10:00:00",
+            "location": {
+                "PBA": "Angers, Brest, Caen et Rennes"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "https://polebtsalternance.fr/formulaire-inscription-summer-camp/"
+            },
+            "site": ["PBA"]
+        },
+        {
+            "leftBlockText": "Septembre 2025",
+            "admissionTitle": "Rentrée des classes 2025",
+            "subtext": "Nous n'avons plus d'évènements jusqu'à la rentrée prochaine. Vous pouvez encore candidater directement sur ce site ou nous contacter au 06 21 18 48 23",
+            "date": "2025-10-03T16:00:00",
+            "location": {
+                "PBA": "Angers, Brest, Caen et Rennes"
+            },
+            "buttonText": "Candidater",
+            "buttonLinks": {
+                "PBA": "https://polebtsalternance.fr/telechargez-le-dossier-de-candidature/"
+            },
+            "site": ["PBA"]
+        }     
+    ],
+    "confs": [
+        {
+            "leftBlockText": "Mardi 17 Juin",
+            "admissionTitle": "Les impacts de la tempête Ciaran sur le secteur du tourisme à Brest",
+            "subtext": "José Menvi Mezui, Laurène Connors et Sorelle Boujeka vous invitent à suivre une nouvelle Open Conf le 17/06/25 <strong style='color: #EF7D08'>en direct sur facebook à 13h45</strong>",
+            "date": "2025-06-17T13:45:00",
+            "location": {
+                "OC": "Brest"              
+            },
+            "buttonText": "Voir",
+            "buttonLinks": {
+                "OC": "https://www.facebook.com/opencampus.off"
+            },
+            "site": ["OC"]
+        }
+    ],
+    "summer": [
+        {
+            "leftBlockText": "Tous les mardis, mercredis et jeudis",
+            "admissionTitle": "Atelier 100% Alternance",
+            "subtext": "Tous les mardis, mercredis et jeudis, sur ton campus de Caen participe à des ateliers pratiques pour booster ta rentrée : Espace CV & lettre de motivation, Challenge LinkedIn pour valoriser ton profil, Zone Prépa entretien & rencontres pros. Repars avec un CV prêt à l’emploi, un profil LinkedIn au top, de la motivation... et peut-être même une opportunité d’alternance !",
+            "date": "2025-08-31T14:00:00",
+            "location": {
+                "PBA": "Caen"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "#Form"
+            },
+            "site": ["PBA"]
+        },
+        {
+            "leftBlockText": "Mardi 15 Juillet",
+            "admissionTitle": "Atelier 100% Alternance",
+            "subtext": "Viens vivre une demi-journée 100% alternance sur ton campus ! Nous organisons des après-midis par BTS pour t'aider à préparer ta rentrée et passer un moment sympa avec d'autres étudiants !\nAtelier CV, LinkedIn Challenge, Sortie terrain (visite / rencontre pros). Repars avec ton CV, ton profil LinkedIn et peut-être... une offre !",
+            "date": "2025-07-15T14:00:00",
+            "location": {
+                "PBA": "RENNES"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "#Form"
+            },
+            "site": ["PBA"]
+        },
+        {
+            "leftBlockText": "Jeudi 17 Juillet",
+            "admissionTitle": "Après-midi - BTS CG",
+            "subtext": "Viens vivre une demi-journée 100% alternance sur ton campus ! Nous organisons des après-midis par BTS pour t'aider à préparer ta rentrée et passer un moment sympa avec d'autres étudiants !\nAtelier CV, LinkedIn Challenge, Sortie terrain (visite / rencontre pros). Repars avec ton CV, ton profil LinkedIn et peut-être... une offre !",
+            "date": "2025-07-17T14:00:00",
+            "location": {
+                "PBA": "RENNES"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "#Form"
+            },
+            "site": ["PBA"]
+        },
+        {
+            "leftBlockText": "Mardi 22 Juillet",
+            "admissionTitle": "Après-midi - BTS NDRC",
+            "subtext": "Viens vivre une demi-journée 100% alternance sur ton campus ! Nous organisons des après-midis par BTS pour t'aider à préparer ta rentrée et passer un moment sympa avec d'autres étudiants !\nAtelier CV, LinkedIn Challenge, Sortie terrain (visite / rencontre pros). Repars avec ton CV, ton profil LinkedIn et peut-être... une offre !",
+            "date": "2025-07-22T14:00:00",
+            "location": {
+                "PBA": "RENNES"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "#Form"
+            },
+            "site": ["PBA"]
+        },
+        {
+            "leftBlockText": "Jeudi 24 Juillet",
+            "admissionTitle": "Après-midi - BTS Audiovisuel",
+            "subtext": "Viens vivre une demi-journée 100% alternance sur ton campus ! Nous organisons des après-midis par BTS pour t'aider à préparer ta rentrée et passer un moment sympa avec d'autres étudiants !\nAtelier CV, LinkedIn Challenge, Sortie terrain (visite / rencontre pros). Repars avec ton CV, ton profil LinkedIn et peut-être... une offre !",
+            "date": "2025-07-24T14:00:00",
+            "location": {
+                "PBA": "RENNES"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "#Form"
+            },
+            "site": ["PBA"]
+        },
+        {
+            "leftBlockText": "Samedi 26 Juillet",
+            "admissionTitle": "Après-midi - BTS Communication",
+            "subtext": "Viens vivre une demi-journée 100% alternance sur ton campus ! Nous organisons des après-midis par BTS pour t'aider à préparer ta rentrée et passer un moment sympa avec d'autres étudiants !\nAtelier CV, LinkedIn Challenge, Sortie terrain (visite / rencontre pros). Repars avec ton CV, ton profil LinkedIn et peut-être... une offre !",
+            "date": "2025-07-26T14:00:00",
+            "location": {
+                "PBA": "RENNES"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "#Form"
+            },
+            "site": ["PBA"]
+        }
+    ],
+     "summerDatesCaen": [
+        { "date": "July 08, 2025", "label": "Mardi 08/07" },
+        { "date": "July 09, 2025", "label": "Mercredi 09/07" },
+        { "date": "July 10, 2025", "label": "Jeudi 10/07" }
+     ],
+    "tdaDates": [
+        { "date": "October 02, 2024", "label": "Mercredi 02/10" },
+        { "date": "October 04, 2024", "label": "Vendredi 04/10" },
+        { "date": "October 09, 2024", "label": "Mercredi 09/10" },
+        { "date": "October 11, 2024", "label": "Vendredi 11/10" },
+        { "date": "October 16, 2024", "label": "Mercredi 16/10" },
+        { "date": "October 18, 2024", "label": "Vendredi 18/10" },
+        { "date": "October 23, 2024", "label": "Mercredi 23/10" },
+        { "date": "October 25, 2024", "label": "Vendredi 25/10" },
+        { "date": "October 30, 2024", "label": "Mercredi 30/10" },
+        { "date": "November 01, 2024", "label": "Vendredi 01/11" },
+        { "date": "November 06, 2024", "label": "Mercredi 06/11" },
+        { "date": "November 08, 2024", "label": "Vendredi 08/11" },
+        { "date": "November 13, 2024", "label": "Mercredi 13/11" },
+        { "date": "November 15, 2024", "label": "Vendredi 15/11" },
+        { "date": "November 20, 2024", "label": "Mercredi 20/11" },
+        { "date": "November 22, 2024", "label": "Vendredi 22/11" },
+        { "date": "November 27, 2024", "label": "Mercredi 27/11" },
+        { "date": "November 29, 2024", "label": "Vendredi 29/11" },
+        { "date": "December 04, 2024", "label": "Mercredi 04/12" },
+        { "date": "December 06, 2024", "label": "Vendredi 06/12" },
+        { "date": "December 11, 2024", "label": "Mercredi 11/12" },
+        { "date": "December 13, 2024", "label": "Vendredi 13/12" },
+        { "date": "December 14, 2024", "label": "Samedi 14/12" },
+        { "date": "December 18, 2024", "label": "Mercredi 18/12" },
+        { "date": "December 20, 2024", "label": "Vendredi 20/12" },
+        { "date": "December 25, 2024", "label": "Mercredi 25/12" },
+        { "date": "December 27, 2024", "label": "Vendredi 27/12" },
+        { "date": "January 01, 2025", "label": "Mercredi 01/01" },
+        { "date": "January 03, 2025", "label": "Vendredi 03/01" },
+        { "date": "January 08, 2025", "label": "Mercredi 08/01" },
+        { "date": "January 10, 2025", "label": "Vendredi 10/01" },
+        { "date": "January 15, 2025", "label": "Mercredi 15/01" },
+        { "date": "January 17, 2025", "label": "Vendredi 17/01" },
+        { "date": "January 22, 2025", "label": "Mercredi 22/01" },
+        { "date": "January 24, 2025", "label": "Vendredi 24/01" },
+        { "date": "January 29, 2025", "label": "Mercredi 29/01" },
+        { "date": "January 31, 2025", "label": "Vendredi 31/01" },
+        { "date": "February 22, 2025", "label": "Samedi 22/02" },
+        { "date": "April 26, 2025", "label": "Samedi 26/04" },
+        { "date": "May 22, 2025", "label": "Mercredi 21/05 - Jour de test d’admission offert" },
+        { "date": "May 22, 2025", "label": "Jeudi 22/05 - Jour de test d’admission offert" },
+        { "date": "May 24, 2025", "label": "Samedi 24/05" },
+        { "date": "June 12, 2025", "label": "Jeudi 12/06" },
+        { "date": "June 14, 2025", "label": "Samedi 14/06" },
+        { "date": "June 17, 2025", "label": "Mardi 17/06" },
+        { "date": "July 3, 2025", "label": "Jeudi 03/07" },
+        { "date": "July 15, 2025", "label": "Mardi 15/07" },
+        { "date": "July 17, 2025", "label": "Jeudi 17/07" },
+        { "date": "July 22, 2025", "label": "Mardi 22/07" },
+        { "date": "July 24, 2025", "label": "Jeudi 24/07" },
+        { "date": "July 29, 2025", "label": "Mardi 29/07" },
+        { "date": "July 31, 2025", "label": "Jeudi 31/07" }
+
+
+    ],
+    "jpoDates": {
+        "jpoGroup": {
+            "OC": {
+                "Brest": [
+                    "October 19, 2024 09:30:00",
+                    "November 16, 2024 09:30:00",
+                    "December 7, 2024 09:30:00",
+                    "December 19, 2024 17:00:00",
+                    "January 11, 2025 09:30:00",
+                    "January 22, 2025 16:00:00",
+                    "February 1, 2025 09:30:00",
+                    "March 1, 2025 09:30:00",
+                    "April 5, 2025 09:30:00",
+                    "April 25, 2025 17:00:00",
+                    "April 28, 2025 18:00:00",
+                    "May 16, 2025 15:00:00",
+                    "May 17, 2025 09:30:00",
+                    "June 4, 2025 14:00:00",
+                    "June 7, 2025 09:30:00"
+                ],
+                "Angers": [
+                    "November 9, 2024 09:30:00",
+                    "December 14, 2024 09:30:00",
+                    "January 11, 2025 09:30:00",
+                    "January 22, 2025 16:00:00",
+                    "February 1, 2025 09:30:00",
+                    "March 15, 2025 09:30:00",
+                    "April 5, 2025 09:30:00",
+                    "May 16, 2025 15:00:00",
+                    "May 17, 2025 09:30:00",
+                    "June 4, 2025 14:00:00",
+                    "June 7, 2025 09:30:00"
+                ],
+                "Caen": [
+                    "October 19, 2024 09:30:00",
+                    "November 16, 2024 09:30:00",
+                    "December 14, 2024 09:30:00",
+                    "January 18, 2025 09:30:00",
+                    "February 1, 2025 09:30:00",
+                    "March 1, 2025 09:30:00",
+                    "April 5, 2025 09:30:00",
+                    "May 16, 2025 15:00:00",
+                    "May 17, 2025 09:30:00",
+                    "June 4, 2025 14:00:00",
+                    "June 14, 2025 09:30:00"
+                ]
+            },
+            "PBA": {
+                "Brest": [
+                    "October 19, 2024 09:30:00",
+                    "October 19, 2024 14:00:00",
+                    "November 9, 2024 09:30:00",
+                    "November 9, 2024 14:00:00",
+                    "December 7, 2024 09:30:00",
+                    "December 7, 2024 14:00:00",
+                    "December 19, 2024 17:00:00",
+                    "January 11, 2025 09:30:00",
+                    "January 11, 2025 14:00:00",
+                    "January 22, 2025 16:00:00",
+                    "February 8, 2025 09:30:00",
+                    "February 8, 2025 14:00:00",
+                    "February 19, 2025 16:00:00",
+                    "March 8, 2025 09:30:00",
+                    "March 8, 2025 14:00:00",
+                    "April 5, 2025 09:30:00",
+                    "April 5, 2025 14:00:00",
+                    "April 29, 2025 16:00:00",
+                    "June 4, 2025 14:00:00"
+
+                ],
+                "Angers": [
+                    "November 9, 2024 09:30:00",
+                    "November 9, 2024 14:00:00",
+                    "December 14, 2024 09:30:00",
+                    "December 14, 2024 14:00:00",
+                    "January 18, 2025 09:30:00",
+                    "January 18, 2025 14:00:00",
+                    "February 8, 2025 09:30:00",
+                    "February 8, 2025 14:00:00",
+                    "February 19, 2025 16:00:00",
+                    "March 8, 2025 09:30:00",
+                    "March 8, 2025 14:00:00",
+                    "April 5, 2025 09:30:00",
+                    "April 5, 2025 14:00:00",
+                    "April 30, 2025 15:00:00",
+                    "June 4, 2025 14:00:00"
+
+                ],
+                "Caen": [
+                    "October 19, 2024 09:30:00",
+                    "October 19, 2024 14:00:00",
+                    "November 9, 2024 09:30:00",
+                    "November 9, 2024 14:00:00",
+                    "December 14, 2024 09:30:00",
+                    "December 14, 2024 14:00:00",
+                    "January 18, 2025 09:30:00",
+                    "January 18, 2025 14:00:00",
+                    "February 8, 2025 09:30:00",
+                    "February 8, 2025 14:00:00",
+                    "February 19, 2025 16:00:00",
+                    "March 8, 2025 09:30:00",
+                    "March 8, 2025 14:00:00",
+                    "April 5, 2025 09:30:00",
+                    "April 5, 2025 14:00:00",
+                    "June 4, 2025 14:00:00"
+
+                ],
+                "Rennes": [
+                    "October 19, 2024 09:30:00",
+                    "October 19, 2024 14:00:00",
+                    "November 23, 2024 09:30:00",
+                    "November 23, 2024 14:00:00",
+                    "December 14, 2024 09:30:00",
+                    "December 14, 2024 14:00:00",
+                    "January 18, 2025 09:30:00",
+                    "January 18, 2025 14:00:00",
+                    "February 8, 2025 09:30:00",
+                    "February 8, 2025 14:00:00",
+                    "February 19, 2025 16:00:00",
+                    "March 8, 2025 09:30:00",
+                    "March 8, 2025 14:00:00",
+                    "April 5, 2025 09:30:00",
+                    "April 5, 2025 14:00:00",
+                    "May 7, 2025 16:00:00",
+                    "June 4, 2025 14:00:00"
+
+                ]
+            }
+        }
+    }
 }
