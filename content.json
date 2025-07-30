@@ -64,6 +64,106 @@
             "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
         {
+            "leftBlockText": "Mardi 5 Août", 
+            "admissionTitle": "Personal Branding : se vendre sans se trahir",
+            "subtext": "<strong>De 10h à 12h :</strong> Participez à un atelier de recherche d'alternance. L’objectif : construire une image professionnelle cohérente et authentique, qui vous ressemble et qui parle à ceux que vous voulez convaincre.",
+            "date": "2025-08-05T16:00:00",
+            "location": {
+                "OC": "Brest",
+                "HTBS": "Brest",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "SUP IMMO": "Brest",
+                "SSB": "Brest"
+                
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "HTBS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LIT": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LDS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SUP IMMO": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SSB": "https://reseau-opencampus.com/boot-camp-alternance/"
+            },
+            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
+        },
+        {
+            "leftBlockText": "Mardi 19 Août", 
+            "admissionTitle": "Pitch et prise de parole",
+            "subtext": "<strong>De 10h à 12h :</strong> Participez à un atelier de recherche d'alternance. L’objectif : savoir structurer un pitch percutant, adapter votre discours à l’auditoire et incarner votre message avec justesse, à l’oral comme à l’écran.",
+            "date": "2025-08-19T16:00:00",
+            "location": {
+                "OC": "Brest",
+                "HTBS": "Brest",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "SUP IMMO": "Brest",
+                "SSB": "Brest"
+                
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "HTBS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LIT": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LDS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SUP IMMO": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SSB": "https://reseau-opencampus.com/boot-camp-alternance/"
+            },
+            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
+        },
+        {
+            "leftBlockText": "Mardi 26 Août", 
+            "admissionTitle": "La posture pro en entretien",
+            "subtext": "<strong>De 10h à 12h :</strong> Participez à un atelier de recherche d'alternance. L’objectif : maîtriser les codes de l’entretien sans tomber dans la récitation, affirmer votre valeur tout en restant à l’écoute.",
+            "date": "2025-08-26T16:00:00",
+            "location": {
+                "OC": "Brest",
+                "HTBS": "Brest",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "SUP IMMO": "Brest",
+                "SSB": "Brest"
+                
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "HTBS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LIT": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LDS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SUP IMMO": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SSB": "https://reseau-opencampus.com/boot-camp-alternance/"
+            },
+            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
+        },
+        {
+            "leftBlockText": "Mardi 2 Septembre", 
+            "admissionTitle": "Trouver une entreprise autrement",
+            "subtext": "<strong>De 10h à 12h :</strong> Participez à un atelier de recherche d'alternance. L’objectif : activer des leviers peu utilisés — réseau, candidatures spontanées, présence en ligne — pour contourner la concurrence et créer vos propres occasions.",
+            "date": "2025-09-02T16:00:00",
+            "location": {
+                "OC": "Brest",
+                "HTBS": "Brest",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "SUP IMMO": "Brest",
+                "SSB": "Brest"
+                
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "HTBS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LIT": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "LDS": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SUP IMMO": "https://reseau-opencampus.com/boot-camp-alternance/",
+                "SSB": "https://reseau-opencampus.com/boot-camp-alternance/"
+            },
+            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
+        },
+        {
             "leftBlockText": "Septembre 2025",
             "admissionTitle": "Rentrée des classes 2025",
             "subtext": "Vous pouvez encore candidater directement sur ce site ou nous contacter au 06 10 31 41 33",
