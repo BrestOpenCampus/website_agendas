@@ -1,69 +1,6 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Tous les mardis et jeudis",
-            "admissionTitle": "Atelier 100% Alternance",
-            "subtext": "<strong>10h à 12h :</strong>Tous les mardis et jeudis, sur ton campus de Brest participe à des ateliers pratiques pour booster ta rentrée : Espace CV & lettre de motivation, Challenge LinkedIn pour valoriser ton profil, Zone Prépa entretien & rencontres pros. Repars avec un CV prêt à l’emploi, un profil LinkedIn au top, de la motivation... et peut-être même une opportunité d’alternance !",
-            "date": "2025-08-31T10:00:00",
-            "location": {
-                "OC": "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/summer-camp-2025/"
-            },
-            "site": ["OC"]
-        },
-        {
-            "leftBlockText": "Jeudi 3 Juillet",
-            "admissionTitle": "Atelier – La Posture Pro en Entretien",
-            "subtext": "<strong>18h à 19h30 :</strong> La première impression se joue en quelques secondes. Dans cet atelier, vous apprendrez à soigner votre posture, votre communication non verbale et votre attitude pour gagner en impact dès les premiers instants.",
-            "date": "2025-07-03T18:00:00",
-            "location": {
-                "OC": "Brest",
-                "HTBS": "Brest",
-                "LIT": "Brest",
-                "LDS": "Brest",
-                "SUP IMMO": "Brest",
-                "SSB": "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "HTBS": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "LIT": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "LDS": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "SUP IMMO": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "SSB": "https://reseau-opencampus.com/boot-camp-alternance/"
-            },
-            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
-        },
-        {
-            "leftBlockText": "Mardi 8 Juillet",
-            "admissionTitle": "Contact Challenge : oser créer des liens",
-            "subtext": "<strong>à partir de 16h :</strong> Dans cet atelier, vous travaillerez votre capacité à oser contacter les gens pour obtenir des infos, des conseils ou des opportunités.",
-            "date": "2025-07-08T16:00:00",
-            "location": {
-                "OC": "Brest",
-                "HTBS": "Brest",
-                "LIT": "Brest",
-                "LDS": "Brest",
-                "SUP IMMO": "Brest",
-                "SSB": "Brest"
-                
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "HTBS": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "LIT": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "LDS": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "SUP IMMO": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "SSB": "https://reseau-opencampus.com/boot-camp-alternance/"
-            },
-            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
-        },
-        {
             "leftBlockText": "Mardi 5 Août", 
             "admissionTitle": "Personal Branding : se vendre sans se trahir",
             "subtext": "<strong>De 10h à 12h :</strong> Participez à un atelier de recherche d'alternance. L’objectif : construire une image professionnelle cohérente et authentique, qui vous ressemble et qui parle à ceux que vous voulez convaincre.",
