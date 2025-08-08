@@ -187,7 +187,7 @@
               {
             "leftBlockText": "Mercredi 27 août",
             "admissionTitle": "Atelier en route vers l'alternance",
-            "subtext": "Au programme : Briser la glace avec les futurs camarades/n Chercher ensemble des offres d’alternance en petits groupes/n Participer à des activités ludiques et de team building /nLe tout dans une ambiance conviviale et motivante !",
+            "subtext": "Au programme : Briser la glace avec les futurs camarades /n Chercher ensemble des offres d’alternance en petits groupes /n Participer à des activités ludiques et de team building /n Le tout dans une ambiance conviviale et motivante !",
             "date": "2025-08-27T14:00:00",
             "location": {
                 "PBA": "Rennes"
@@ -461,6 +461,7 @@
         }
     }
 }
+
 
 
 
