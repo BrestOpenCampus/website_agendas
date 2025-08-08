@@ -253,6 +253,20 @@
                 "PBA": "#Form"
             },
             "site": ["PBA"]
+        },
+        {
+            "leftBlockText": "Mercredi 27 Août",
+            "admissionTitle": "Après-midi - En route vers l'alternance",
+            "subtext": "Mercredi 27 août de 14h à 17h viens vivre une après midi 'en route vers l'alternance'. Au programme : Briser la glace avec les futurs camarades, Chercher ensemble des offres d’alternance en petits groupes,  Participer à des activités ludiques et de team building Le tout dans une ambiance conviviale et motivante !",
+            "date": "2025-08-27T14:00:00",
+            "location": {
+                "PBA": "RENNES"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {
+                "PBA": "#Form"
+            },
+            "site": ["PBA"]
         }
     ],
      "summerDatesCaen": [
@@ -447,3 +461,4 @@
         }
     }
 }
+
