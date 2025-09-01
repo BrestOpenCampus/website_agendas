@@ -1,81 +1,6 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Mardi 5 Août", 
-            "admissionTitle": "Personal Branding : se vendre sans se trahir",
-            "subtext": "<strong>De 10h à 12h :</strong> Participez à un atelier de recherche d'alternance. L’objectif : construire une image professionnelle cohérente et authentique, qui vous ressemble et qui parle à ceux que vous voulez convaincre.",
-            "date": "2025-08-05T16:00:00",
-            "location": {
-                "OC": "Brest",
-                "HTBS": "Brest",
-                "LIT": "Brest",
-                "LDS": "Brest",
-                "SUP IMMO": "Brest",
-                "SSB": "Brest"
-                
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "HTBS": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "LIT": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "LDS": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "SUP IMMO": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "SSB": "https://reseau-opencampus.com/boot-camp-alternance/"
-            },
-            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
-        },
-        {
-            "leftBlockText": "Mardi 19 Août", 
-            "admissionTitle": "Pitch et prise de parole",
-            "subtext": "<strong>De 10h à 12h :</strong> Participez à un atelier de recherche d'alternance. L’objectif : savoir structurer un pitch percutant, adapter votre discours à l’auditoire et incarner votre message avec justesse, à l’oral comme à l’écran.",
-            "date": "2025-08-19T16:00:00",
-            "location": {
-                "OC": "Brest",
-                "HTBS": "Brest",
-                "LIT": "Brest",
-                "LDS": "Brest",
-                "SUP IMMO": "Brest",
-                "SSB": "Brest"
-                
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "HTBS": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "LIT": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "LDS": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "SUP IMMO": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "SSB": "https://reseau-opencampus.com/boot-camp-alternance/"
-            },
-            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
-        },
-        {
-            "leftBlockText": "Mardi 26 Août", 
-            "admissionTitle": "La posture pro en entretien",
-            "subtext": "<strong>De 10h à 12h :</strong> Participez à un atelier de recherche d'alternance. L’objectif : maîtriser les codes de l’entretien sans tomber dans la récitation, affirmer votre valeur tout en restant à l’écoute.",
-            "date": "2025-08-26T16:00:00",
-            "location": {
-                "OC": "Brest",
-                "HTBS": "Brest",
-                "LIT": "Brest",
-                "LDS": "Brest",
-                "SUP IMMO": "Brest",
-                "SSB": "Brest"
-                
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "HTBS": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "LIT": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "LDS": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "SUP IMMO": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "SSB": "https://reseau-opencampus.com/boot-camp-alternance/"
-            },
-            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
-        },
-        {
             "leftBlockText": "Mardi 2 Septembre", 
             "admissionTitle": "Trouver une entreprise autrement",
             "subtext": "<strong>De 10h à 12h :</strong> Participez à un atelier de recherche d'alternance. L’objectif : activer des leviers peu utilisés — réseau, candidatures spontanées, présence en ligne — pour contourner la concurrence et créer vos propres occasions.",
@@ -125,20 +50,6 @@
             "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
         {
-            "leftBlockText": "Cet été",
-            "admissionTitle": "Atelier 100% Alternance",
-            "subtext": "Cet été, nos campus sont toujours ouverts pour t'aider à préparer ta rentrée. Viens participer à des ateliers pour trouver ton alternance !",
-            "date": "2025-08-31T10:00:00",
-            "location": {
-                "PBA": "Angers, Brest, Caen et Rennes"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/formulaire-inscription-summer-camp/"
-            },
-            "site": ["PBA"]
-        },
-        {
             "leftBlockText": "Septembre 2025",
             "admissionTitle": "Rentrée des classes 2025",
             "subtext": "Nous n'avons plus d'évènements jusqu'à la rentrée prochaine. Vous pouvez encore candidater directement sur ce site ou nous contacter au 06 21 18 48 23",
@@ -177,76 +88,6 @@
             "date": "2025-08-31T14:00:00",
             "location": {
                 "PBA": "Caen"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "PBA": "#Form"
-            },
-            "site": ["PBA"]
-        },
-              {
-            "leftBlockText": "Mercredi 27 août",
-            "admissionTitle": "Atelier en route vers l'alternance",
-            "subtext": "Au programme :<br>Briser la glace avec les futurs camarades<br>Chercher ensemble des offres d’alternance en petits groupes<br>Participer à des activités ludiques et de team building<br>Le tout dans une ambiance conviviale et motivante !",
-            "date": "2025-08-27T14:00:00",
-            "location": {
-                "PBA": "Rennes"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "PBA": "#Form"
-            },
-            "site": ["PBA"]
-        },
-        {
-            "leftBlockText": "Mardi 15 Juillet",
-            "admissionTitle": "Atelier 100% Alternance",
-            "subtext": "Viens vivre une demi-journée 100% alternance sur ton campus ! Nous organisons des après-midis par BTS pour t'aider à préparer ta rentrée et passer un moment sympa avec d'autres étudiants !\nAtelier CV, LinkedIn Challenge, Sortie terrain (visite / rencontre pros). Repars avec ton CV, ton profil LinkedIn et peut-être... une offre !",
-            "date": "2025-07-15T14:00:00",
-            "location": {
-                "PBA": "RENNES"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "PBA": "#Form"
-            },
-            "site": ["PBA"]
-        },
-        {
-            "leftBlockText": "Jeudi 17 Juillet",
-            "admissionTitle": "Après-midi - BTS CG",
-            "subtext": "Viens vivre une demi-journée 100% alternance sur ton campus ! Nous organisons des après-midis par BTS pour t'aider à préparer ta rentrée et passer un moment sympa avec d'autres étudiants !\nAtelier CV, LinkedIn Challenge, Sortie terrain (visite / rencontre pros). Repars avec ton CV, ton profil LinkedIn et peut-être... une offre !",
-            "date": "2025-07-17T14:00:00",
-            "location": {
-                "PBA": "RENNES"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "PBA": "#Form"
-            },
-            "site": ["PBA"]
-        },
-        {
-            "leftBlockText": "Mardi 22 Juillet",
-            "admissionTitle": "Après-midi - BTS NDRC",
-            "subtext": "Viens vivre une demi-journée 100% alternance sur ton campus ! Nous organisons des après-midis par BTS pour t'aider à préparer ta rentrée et passer un moment sympa avec d'autres étudiants !\nAtelier CV, LinkedIn Challenge, Sortie terrain (visite / rencontre pros). Repars avec ton CV, ton profil LinkedIn et peut-être... une offre !",
-            "date": "2025-07-22T14:00:00",
-            "location": {
-                "PBA": "RENNES"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "PBA": "#Form"
-            },
-            "site": ["PBA"]
-        },
-        {
-            "leftBlockText": "Jeudi 24 Juillet",
-            "admissionTitle": "Après-midi - BTS Audiovisuel",
-            "subtext": "Viens vivre une demi-journée 100% alternance sur ton campus ! Nous organisons des après-midis par BTS pour t'aider à préparer ta rentrée et passer un moment sympa avec d'autres étudiants !\nAtelier CV, LinkedIn Challenge, Sortie terrain (visite / rencontre pros). Repars avec ton CV, ton profil LinkedIn et peut-être... une offre !",
-            "date": "2025-07-24T14:00:00",
-            "location": {
-                "PBA": "RENNES"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
@@ -327,8 +168,6 @@
         { "date": "July 24, 2025", "label": "Jeudi 24/07" },
         { "date": "July 29, 2025", "label": "Mardi 29/07" },
         { "date": "July 31, 2025", "label": "Jeudi 31/07" }
-
-
     ],
     "jpoDates": {
         "jpoGroup": {
@@ -461,9 +300,5 @@
         }
     }
 }
-
-
-
-
 
 
