@@ -1,27 +1,27 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Mardi 2 Septembre", 
-            "admissionTitle": "Trouver une entreprise autrement",
-            "subtext": "<strong>De 10h à 12h :</strong> Participez à un atelier de recherche d'alternance. L’objectif : activer des leviers peu utilisés — réseau, candidatures spontanées, présence en ligne — pour contourner la concurrence et créer vos propres occasions.",
-            "date": "2025-09-02T16:00:00",
+            "leftBlockText": "Vendredi 31 octobre", 
+            "admissionTitle": "Toujours rien pour la rentrée 2025 ?",
+            "subtext": "Les inscriptions sont ouvertes jusqu'au 31 octobre ! ",
+            "date": "2025-10-31T12:00:00",
             "location": {
-                "OC": "Brest",
-                "HTBS": "Brest",
-                "LIT": "Brest",
-                "LDS": "Brest",
-                "SUP IMMO": "Brest",
+                "OC": "Angers, Brest, Caen",
+                "HTBS": "Angers, Brest, Caen",
+                "LIT": "Angers, Brest, Caen",
+                "LDS": "Angers, Brest",
+                "SUP IMMO": "Brest, Caen",
                 "SSB": "Brest"
                 
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "HTBS": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "LIT": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "LDS": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "SUP IMMO": "https://reseau-opencampus.com/boot-camp-alternance/",
-                "SSB": "https://reseau-opencampus.com/boot-camp-alternance/"
+                "OC": "https://reseau-opencampus.com/demande-dossier-de-candidature-goc-2025/",
+                "HTBS": "https://reseau-opencampus.com/demande-dossier-de-candidature-goc-2025/",
+                "LIT": "https://reseau-opencampus.com/demande-dossier-de-candidature-goc-2025/",
+                "LDS": "https://reseau-opencampus.com/demande-dossier-de-candidature-goc-2025/",
+                "SUP IMMO": "https://reseau-opencampus.com/demande-dossier-de-candidature-goc-2025/",
+                "SSB": "https://reseau-opencampus.com/demande-dossier-de-candidature-goc-2025/"
             },
             "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
@@ -50,6 +50,20 @@
             "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
         {
+            "leftBlockText": "15 octobre 2025",
+            "admissionTitle": "Toujours rien pour la rentrée 2025 ?",
+            "subtext": "Les inscriptions sont ouvertes jusqu'au 15 octobre !",
+            "date": "2025-10-15T16:00:00",
+            "location": {
+                "PBA": "Angers, Brest, Caen et Rennes"
+            },
+            "buttonText": "Candidater",
+            "buttonLinks": {
+                "PBA": "https://polebtsalternance.fr/candidature-2025/"
+            },
+            "site": ["PBA"]
+        },
+        {
             "leftBlockText": "Septembre 2025",
             "admissionTitle": "Rentrée des classes 2025",
             "subtext": "Nous n'avons plus d'évènements jusqu'à la rentrée prochaine. Vous pouvez encore candidater directement sur ce site ou nous contacter au 06 21 18 48 23",
@@ -59,7 +73,7 @@
             },
             "buttonText": "Candidater",
             "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/telechargez-le-dossier-de-candidature/"
+                "PBA": "https://polebtsalternance.fr/candidature-2025/"
             },
             "site": ["PBA"]
         }     
@@ -300,5 +314,6 @@
         }
     }
 }
+
 
 
