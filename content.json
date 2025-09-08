@@ -1,6 +1,30 @@
 {
     "blocks": [
         {
+            "leftBlockText": "Septembre 2025",
+            "admissionTitle": "Rentrée des classes 2025",
+            "subtext": "Vous pouvez encore candidater directement sur ce site ou nous contacter au 06 10 31 41 33",
+            "date": "2025-10-03T16:00:00",
+            "location": {
+                "OC": "Angers, Brest, Caen",
+                "HTBS": "Angers, Brest",
+                "LIT": "Angers, Brest",
+                "LDS": "Brest",
+                "SUP IMMO": "Brest, Caen",
+                "SSB": "Brest"
+            },
+            "buttonText": "Candidater",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/",
+                "HTBS": "https://htbs.fr/demande-de-candidature/",
+                "LIT": "https://learnit-school.com/dossier-de-candidature/",
+                "LDS": "https://ladigitalschool.com/candidature/",
+                "SUP IMMO": "https://sup-immo.com/demande-de-candidature/",
+                "SSB": "https://schoolofsportbusiness.fr/demande-de-candidature/"
+            },
+            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
+        },
+        {
             "leftBlockText": "Vendredi 31 octobre", 
             "admissionTitle": "Toujours rien pour la rentrée 2025 ?",
             "subtext": "Les inscriptions sont ouvertes jusqu'au 31 octobre ! ",
@@ -22,30 +46,6 @@
                 "LDS": "https://reseau-opencampus.com/demande-dossier-de-candidature-goc-2025/",
                 "SUP IMMO": "https://reseau-opencampus.com/demande-dossier-de-candidature-goc-2025/",
                 "SSB": "https://reseau-opencampus.com/demande-dossier-de-candidature-goc-2025/"
-            },
-            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
-        },
-        {
-            "leftBlockText": "Septembre 2025",
-            "admissionTitle": "Rentrée des classes 2025",
-            "subtext": "Vous pouvez encore candidater directement sur ce site ou nous contacter au 06 10 31 41 33",
-            "date": "2025-10-03T16:00:00",
-            "location": {
-                "OC": "Angers, Brest, Caen",
-                "HTBS": "Angers, Brest",
-                "LIT": "Angers, Brest",
-                "LDS": "Brest",
-                "SUP IMMO": "Brest, Caen",
-                "SSB": "Brest"
-            },
-            "buttonText": "Candidater",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/",
-                "HTBS": "https://htbs.fr/demande-de-candidature/",
-                "LIT": "https://learnit-school.com/dossier-de-candidature/",
-                "LDS": "https://ladigitalschool.com/candidature/",
-                "SUP IMMO": "https://sup-immo.com/demande-de-candidature/",
-                "SSB": "https://schoolofsportbusiness.fr/demande-de-candidature/"
             },
             "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
@@ -314,6 +314,7 @@
         }
     }
 }
+
 
 
 
