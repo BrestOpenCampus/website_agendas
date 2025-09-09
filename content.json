@@ -13,7 +13,7 @@
                 "SUP IMMO": "Brest",
                 "SSB": "Brest"
             },
-            "buttonText": "Candidater",
+            "buttonText": "En savoir plus",
             "buttonLinks": {
                 "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
                 "HTBS": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
@@ -343,6 +343,7 @@
         }
     }
 }
+
 
 
 
