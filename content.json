@@ -1,6 +1,30 @@
 {
     "blocks": [
         {
+            "leftBlockText": "Du 15 au 19 septembre",
+            "admissionTitle": "Après-midis Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos après-midis Portes Ouvertes et candidater directement sur place !",
+            "date": "2025-19-03T14:00:00",
+            "location": {
+                "OC": "Brest",
+                "HTBS": "Brest",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "SUP IMMO": "Brest",
+                "SSB": "Brest"
+            },
+            "buttonText": "Candidater",
+            "buttonLinks": {
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "HTBS": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "LIT": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "LDS": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "SUP IMMO": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "SSB": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+            },
+            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
+        },
+        {
             "leftBlockText": "Septembre 2025",
             "admissionTitle": "Rentrée des classes 2025",
             "subtext": "Vous pouvez encore candidater directement sur ce site ou nous contacter au 06 10 31 41 33",
@@ -319,6 +343,7 @@
         }
     }
 }
+
 
 
 
