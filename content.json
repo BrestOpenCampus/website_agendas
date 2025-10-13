@@ -69,7 +69,7 @@
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
             "date": "2025-12-13T09:00:00",
             "location": {
-                "OC": "Angers et Brest"             
+                "OC": "Angers, Brest"             
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
@@ -97,7 +97,7 @@
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
             "date": "2025-11-15T09:30:00",
             "location": {
-                "PBA": "Brest, Angers et Rennes"             
+                "PBA": "Brest, Angers, Rennes"             
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
@@ -362,6 +362,7 @@
         }
     }
 }
+
 
 
 
