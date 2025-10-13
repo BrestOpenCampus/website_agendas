@@ -95,7 +95,7 @@
             "leftBlockText": "Samedi 22 novembre", 
             "admissionTitle": "Journée Portes Ouvertes",
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2025-11-15T09:30:00",
+            "date": "2025-11-22T09:30:00",
             "location": {
                 "PBA": "Caen"             
             },
@@ -348,6 +348,7 @@
         }
     }
 }
+
 
 
 
