@@ -48,6 +48,20 @@
                 "SSB": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
             "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
+        },
+        {
+            "leftBlockText": "Samedi 22 novembre", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2025-11-22T09:30:00",
+            "location": {
+                "OC": "Caen"             
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+            },
+            "site": ["OC"]
         }     
     ],
     "confs": [
@@ -292,3 +306,4 @@
         }
     }
 }
+
