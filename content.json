@@ -1,54 +1,6 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Du 15 au 19 septembre",
-            "admissionTitle": "Après-midis Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos après-midis Portes Ouvertes et candidater directement sur place !",
-            "date": "2025-09-19T18:00:00",
-            "location": {
-                "OC": "Brest",
-                "HTBS": "Brest",
-                "LIT": "Brest",
-                "LDS": "Brest",
-                "SUP IMMO": "Brest",
-                "SSB": "Brest"
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "HTBS": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LIT": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LDS": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "SUP IMMO": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "SSB": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
-            },
-            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
-        },
-        {
-            "leftBlockText": "Septembre 2025",
-            "admissionTitle": "Rentrée des classes 2025",
-            "subtext": "Vous pouvez encore candidater directement sur ce site ou nous contacter au 06 10 31 41 33",
-            "date": "2025-10-03T16:00:00",
-            "location": {
-                "OC": "Angers, Brest, Caen",
-                "HTBS": "Angers, Brest",
-                "LIT": "Angers, Brest",
-                "LDS": "Brest",
-                "SUP IMMO": "Brest, Caen",
-                "SSB": "Brest"
-            },
-            "buttonText": "Candidater",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/demande-dossier-candidature-goc/",
-                "HTBS": "https://htbs.fr/demande-de-candidature/",
-                "LIT": "https://learnit-school.com/dossier-de-candidature/",
-                "LDS": "https://ladigitalschool.com/candidature/",
-                "SUP IMMO": "https://sup-immo.com/demande-de-candidature/",
-                "SSB": "https://schoolofsportbusiness.fr/demande-de-candidature/"
-            },
-            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
-        },
-        {
             "leftBlockText": "Vendredi 31 octobre", 
             "admissionTitle": "Toujours rien pour la rentrée 2025 ?",
             "subtext": "Les inscriptions sont ouvertes jusqu'au 31 octobre ! ",
@@ -96,34 +48,6 @@
                 "SSB": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
             "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
-        },
-        {
-            "leftBlockText": "15 octobre 2025",
-            "admissionTitle": "Toujours rien pour la rentrée 2025 ?",
-            "subtext": "Les inscriptions sont ouvertes jusqu'au 15 octobre !",
-            "date": "2025-10-15T16:00:00",
-            "location": {
-                "PBA": "Angers, Brest, Caen et Rennes"
-            },
-            "buttonText": "Candidater",
-            "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/candidature-2025/"
-            },
-            "site": ["PBA"]
-        },
-        {
-            "leftBlockText": "Septembre 2025",
-            "admissionTitle": "Rentrée des classes 2025",
-            "subtext": "Nous n'avons plus d'évènements jusqu'à la rentrée prochaine. Vous pouvez encore candidater directement sur ce site ou nous contacter au 06 21 18 48 23",
-            "date": "2025-10-03T16:00:00",
-            "location": {
-                "PBA": "Angers, Brest, Caen et Rennes"
-            },
-            "buttonText": "Candidater",
-            "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/candidature-2025/"
-            },
-            "site": ["PBA"]
         }     
     ],
     "confs": [
@@ -368,6 +292,7 @@
         }
     }
 }
+
 
 
 
