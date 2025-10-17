@@ -85,9 +85,6 @@
             "location": {
                 "OC": "OPEN CAMPUS DE BREST à Saint-Brieuc"                 
             },
-        
-                "OC": ""
-            },
             "site": ["OC"]
         },
         {
@@ -364,6 +361,7 @@
         }
     }
 }
+
 
 
 
