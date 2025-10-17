@@ -85,6 +85,10 @@
             "location": {
                 "OC": "Saint-brieuc"                 
             },
+            "buttonText": "En savoir plus",
+            "buttonLinks": {                
+                "OC": "https://www.suparmor.fr/le-salon-suparmor.html"
+            },
             "site": ["OC"]
         },
         {
@@ -361,6 +365,7 @@
         }
     }
 }
+
 
 
 
