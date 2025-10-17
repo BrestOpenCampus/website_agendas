@@ -83,7 +83,7 @@
             "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
             "date": "2025-12-11T09:30:00",
             "location": {
-                "OC": "Brest"                 
+                "OC": "Saint-brieuc"                 
             },
             "site": ["OC"]
         },
@@ -361,6 +361,7 @@
         }
     }
 }
+
 
 
 
