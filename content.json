@@ -83,7 +83,7 @@
             "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
             "date": "2025-12-11T09:30:00",
             "location": {
-                "OC": "OPEN CAMPUS DE BREST à Saint-Brieuc"                 
+                "OC": "Brest"                 
             },
             "site": ["OC"]
         },
@@ -361,6 +361,7 @@
         }
     }
 }
+
 
 
 
