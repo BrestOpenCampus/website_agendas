@@ -37,7 +37,7 @@
             "buttonLinks": {                
                 "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
             },
-            "site": ["PBA"]
+            "site": ["PBA","SAB"]
         },
         {
             "leftBlockText": "Samedi 15 novembre", 
@@ -75,7 +75,7 @@
             "buttonLinks": {                
                 "OC": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/"
             },
-            "site": ["OC","PBA"]
+            "site": ["OC","PBA","SAB"]
         },
         {
             "leftBlockText": "22 Novembre", 
@@ -89,7 +89,7 @@
             "buttonLinks": {                
                 "OC": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18"
             },
-            "site": ["OC","PBA"]
+            "site": ["OC","PBA","SAB"]
         },
            {
             "leftBlockText": "Samedi 22 novembre", 
@@ -103,7 +103,7 @@
             "buttonLinks": {                
                 "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
             },
-            "site": ["PBA"]
+            "site": ["PBA","SAB"]
         },
         {
             "leftBlockText": "Samedi 22 novembre", 
@@ -393,6 +393,7 @@
         }
     }
 }
+
 
 
 
