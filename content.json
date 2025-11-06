@@ -78,6 +78,34 @@
             "site": ["OC"]
         },
         {
+            "leftBlockText": "15 Novembre", 
+            "admissionTitle": "L'ETUDIANT - Salon de l'étudiant",
+            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
+            "date": "2025-11-15T09:00:00",
+            "location": {
+                "OC": "Le Havre"                 
+            },
+            "buttonText": "En savoir plus",
+            "buttonLinks": {                
+                "OC": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/"
+            },
+            "site": ["OC"]
+        },
+        {
+            "leftBlockText": "22 Novembre", 
+            "admissionTitle": "STUDYRAMA - Salon de l'étudiant",
+            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
+            "date": "2025-11-22T09:00:00",
+            "location": {
+                "OC": "Le Mans"                 
+            },
+            "buttonText": "En savoir plus",
+            "buttonLinks": {                
+                "OC": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18"
+            },
+            "site": ["OC"]
+        },
+        {
             "leftBlockText": "Du 11 au 13 décembre", 
             "admissionTitle": "Salon SUP ARMOR",
             "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
@@ -365,6 +393,7 @@
         }
     }
 }
+
 
 
 
