@@ -29,6 +29,20 @@
             "leftBlockText": "Samedi 15 novembre", 
             "admissionTitle": "Journée Portes Ouvertes",
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2025-11-15T09:30:00",
+            "location": {
+                "PBA": "Brest, Angers, Rennes"             
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+            },
+            "site": ["PBA"]
+        },
+        {
+            "leftBlockText": "Samedi 15 novembre", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
             "date": "2025-11-15T09:00:00",
             "location": {
                 "OC": "Brest",
@@ -48,6 +62,48 @@
                 "SSB": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
             "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
+        },
+        {
+            "leftBlockText": "15 Novembre", 
+            "admissionTitle": "Salon L'ETUDIANT",
+            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
+            "date": "2025-11-15T09:00:00",
+            "location": {
+                "OC": "Le Havre"                 
+            },
+            "buttonText": "En savoir plus",
+            "buttonLinks": {                
+                "OC": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/"
+            },
+            "site": ["OC","PBA"]
+        },
+        {
+            "leftBlockText": "22 Novembre", 
+            "admissionTitle": "Salon STUDYRAMA",
+            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
+            "date": "2025-11-22T09:00:00",
+            "location": {
+                "OC": "Le Mans"                 
+            },
+            "buttonText": "En savoir plus",
+            "buttonLinks": {                
+                "OC": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18"
+            },
+            "site": ["OC","PBA"]
+        },
+           {
+            "leftBlockText": "Samedi 22 novembre", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2025-11-22T09:30:00",
+            "location": {
+                "PBA": "Caen"             
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+            },
+            "site": ["PBA"]
         },
         {
             "leftBlockText": "Samedi 22 novembre", 
@@ -78,34 +134,6 @@
             "site": ["OC"]
         },
         {
-            "leftBlockText": "15 Novembre", 
-            "admissionTitle": "L'ETUDIANT - Salon de l'étudiant",
-            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2025-11-15T09:00:00",
-            "location": {
-                "OC": "Le Havre"                 
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {                
-                "OC": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/"
-            },
-            "site": ["OC"]
-        },
-        {
-            "leftBlockText": "22 Novembre", 
-            "admissionTitle": "STUDYRAMA - Salon de l'étudiant",
-            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2025-11-22T09:00:00",
-            "location": {
-                "OC": "Le Mans"                 
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {                
-                "OC": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18"
-            },
-            "site": ["OC"]
-        },
-        {
             "leftBlockText": "Du 11 au 13 décembre", 
             "admissionTitle": "Salon SUP ARMOR",
             "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
@@ -118,35 +146,7 @@
                 "OC": "https://www.suparmor.fr/le-salon-suparmor.html"
             },
             "site": ["OC"]
-        },
-        {
-            "leftBlockText": "Samedi 15 novembre", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2025-11-15T09:30:00",
-            "location": {
-                "PBA": "Brest, Angers, Rennes"             
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
-            },
-            "site": ["PBA"]
-        },
-           {
-            "leftBlockText": "Samedi 22 novembre", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2025-11-22T09:30:00",
-            "location": {
-                "PBA": "Caen"             
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
-            },
-            "site": ["PBA"]
-        }     
+        }   
     ],
     "confs": [
         {
@@ -393,6 +393,7 @@
         }
     }
 }
+
 
 
 
