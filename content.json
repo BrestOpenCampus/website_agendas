@@ -11,8 +11,7 @@
                 "LIT": "Angers, Brest, Caen",
                 "LDS": "Angers, Brest",
                 "SUP IMMO": "Brest, Caen",
-                "SSB": "Brest"
-                
+                "SSB": "Brest"                
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {
@@ -73,7 +72,7 @@
             "location": {
                 "OC": "Le Havre",
                 "PBA": "Le Havre", 
-                "SAB": "Le Havre", 
+                "SAB": "Le Havre" 
             },
             "buttonText": "En savoir plus",
             "buttonLinks": {                
@@ -131,7 +130,7 @@
                 "LIT": "https://www.eventbrite.com/e/conference-entreprendre-jeune-externe-tickets-1964780299767?aff=oddtdtcreator",
                 "SUP IMMO": "https://www.eventbrite.com/e/conference-entreprendre-jeune-externe-tickets-1964780299767?aff=oddtdtcreator",
                 "SSB": "https://www.eventbrite.com/e/conference-entreprendre-jeune-externe-tickets-1964780299767?aff=oddtdtcreator",
-                "LDS": "https://www.eventbrite.com/e/conference-entreprendre-jeune-externe-tickets-1964780299767?aff=oddtdtcreator",
+                "LDS": "https://www.eventbrite.com/e/conference-entreprendre-jeune-externe-tickets-1964780299767?aff=oddtdtcreator"
             },
             "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
@@ -483,6 +482,7 @@
         }
     }
 }
+
 
 
 
