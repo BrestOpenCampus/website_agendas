@@ -36,7 +36,7 @@
             "buttonText": "S'inscrire",
             "buttonLinks": {                
                 "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
-                "SAB": "https://supalternance-bs.fr/contact/"
+                "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
             },
             "site": ["PBA","SAB"]
         },
@@ -164,7 +164,7 @@
             "buttonText": "S'inscrire",
             "buttonLinks": {                
                 "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
-                "SAB": "https://supalternance-bs.fr/contact/"
+                "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
             },
             "site": ["PBA","SAB"]
         },
@@ -482,6 +482,7 @@
         }
     }
 }
+
 
 
 
