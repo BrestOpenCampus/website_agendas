@@ -92,6 +92,20 @@
             "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
         {
+            "leftBlockText": "18 Novembre", 
+            "admissionTitle": "Conférence",
+            "subtext": "Participez à la conférence gratuite <b>'Entreprendre jeune'</b> animée par <b>Léna Tran</b>, le <b>mardi 18 novembre de 18h à 19h</b> au Business Lab du Brest Open Campus.",
+            "date": "2025-11-18T18:00:00",
+            "location": {
+                "OC": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC": "https://www.eventbrite.com/e/conference-entreprendre-jeune-externe-tickets-1964780299767?aff=oddtdtcreator"
+            },
+            "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
+        },
+        {
             "leftBlockText": "22 Novembre", 
             "admissionTitle": "Salon STUDYRAMA",
             "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
@@ -132,6 +146,20 @@
                 "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
             "site": ["OC"]
+        },
+        {
+            "leftBlockText": "25 Novembre", 
+            "admissionTitle": "Conférence",
+            "subtext": "Participez à la conférence gratuite <b>'Le sport comme moteur de performance'</b> animée par <b>Chloé Habasque</b>, <b>Maëlys Patinec</b> et <b>Tom Folain</b>, le <b>mardi 25 novembre de 18h à 19h</b> au Business Lab du Brest Open Campus.",
+            "date": "2025-11-25T18:00:00",
+            "location": {
+                "OC": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator"
+            },
+            "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
         {
             "leftBlockText": "Samedi 13 decembre", 
@@ -407,6 +435,7 @@
         }
     }
 }
+
 
 
 
