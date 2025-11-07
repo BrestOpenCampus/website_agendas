@@ -35,7 +35,8 @@
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
+                "SAB": "https://supalternance-bs.fr/contact/"
             },
             "site": ["PBA","SAB"]
         },
@@ -73,7 +74,9 @@
             },
             "buttonText": "En savoir plus",
             "buttonLinks": {                
-                "OC": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/"
+                "OC": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/",
+                "PBA": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/",
+                "SAB": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/"
             },
             "site": ["OC","PBA","SAB"]
         },
@@ -87,7 +90,13 @@
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
-                "OC": "https://www.eventbrite.com/e/conference-prevention-du-burn-out-chez-les-etudiants-externe-tickets-1870553910099?aff=oddtdtcreator"
+                "OC": "https://www.eventbrite.com/e/conference-prevention-du-burn-out-chez-les-etudiants-externe-tickets-1870553910099?aff=oddtdtcreator",
+                "PBA": "https://www.eventbrite.com/e/conference-prevention-du-burn-out-chez-les-etudiants-externe-tickets-1870553910099?aff=oddtdtcreator",
+                "HTBS": "https://www.eventbrite.com/e/conference-prevention-du-burn-out-chez-les-etudiants-externe-tickets-1870553910099?aff=oddtdtcreator",
+                "LIT": "https://www.eventbrite.com/e/conference-prevention-du-burn-out-chez-les-etudiants-externe-tickets-1870553910099?aff=oddtdtcreator",
+                "LDS": "https://www.eventbrite.com/e/conference-prevention-du-burn-out-chez-les-etudiants-externe-tickets-1870553910099?aff=oddtdtcreator",
+                "SUP IMMO": "https://www.eventbrite.com/e/conference-prevention-du-burn-out-chez-les-etudiants-externe-tickets-1870553910099?aff=oddtdtcreator",
+                "SSB": "https://www.eventbrite.com/e/conference-prevention-du-burn-out-chez-les-etudiants-externe-tickets-1870553910099?aff=oddtdtcreator"
             },
             "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
@@ -101,7 +110,13 @@
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
-                "OC": "https://www.eventbrite.com/e/conference-entreprendre-jeune-externe-tickets-1964780299767?aff=oddtdtcreator"
+                "OC": "https://www.eventbrite.com/e/conference-entreprendre-jeune-externe-tickets-1964780299767?aff=oddtdtcreator",
+                "PBA": "https://www.eventbrite.com/e/conference-entreprendre-jeune-externe-tickets-1964780299767?aff=oddtdtcreator",
+                "HTBS": "https://www.eventbrite.com/e/conference-entreprendre-jeune-externe-tickets-1964780299767?aff=oddtdtcreator",
+                "LIT": "https://www.eventbrite.com/e/conference-entreprendre-jeune-externe-tickets-1964780299767?aff=oddtdtcreator",
+                "SUP IMMO": "https://www.eventbrite.com/e/conference-entreprendre-jeune-externe-tickets-1964780299767?aff=oddtdtcreator",
+                "SSB": "https://www.eventbrite.com/e/conference-entreprendre-jeune-externe-tickets-1964780299767?aff=oddtdtcreator",
+                "LDS": "https://www.eventbrite.com/e/conference-entreprendre-jeune-externe-tickets-1964780299767?aff=oddtdtcreator",
             },
             "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
@@ -115,7 +130,9 @@
             },
             "buttonText": "En savoir plus",
             "buttonLinks": {                
-                "OC": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18"
+                "OC": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18",
+                "PBA": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18",
+                "SAB": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18"
             },
             "site": ["OC","PBA","SAB"]
         },
@@ -129,7 +146,8 @@
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
+                "SAB": "https://supalternance-bs.fr/contact/"
             },
             "site": ["PBA","SAB"]
         },
@@ -157,7 +175,13 @@
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
-                "OC": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator"
+                "OC": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator",
+                "PBA": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator",
+                "HTBS": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator",
+                "LIT": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator",
+                "LDS": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator",
+                "SUP IMMO": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator",
+                "SSB": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator"
             },
             "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
@@ -435,6 +459,7 @@
         }
     }
 }
+
 
 
 
