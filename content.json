@@ -88,9 +88,7 @@
             "admissionTitle": "Conférence",
             "subtext": "Participez à la conférence gratuite <b>'Prévention du burn-out étudiant'</b> animée par <b>Léa Mangenot</b>, le <b>lundi 17 novembre de 18h à 19h</b> au Business Lab du Brest Open Campus.",
             "date": "2025-11-17T18:00:00",
-            "location": {
-                "Brest"                 
-            },
+            "location": "Brest",
             "buttonText": "S'inscrire",
             "buttonLinks": {                
                 "OC": "https://www.eventbrite.com/e/conference-prevention-du-burn-out-chez-les-etudiants-externe-tickets-1870553910099?aff=oddtdtcreator",
@@ -462,6 +460,7 @@
         }
     }
 }
+
 
 
 
