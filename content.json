@@ -31,7 +31,8 @@
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
             "date": "2025-11-15T09:30:00",
             "location": {
-                "PBA": "Brest, Angers, Rennes"             
+                "PBA": "Brest, Angers, Rennes",
+                "SAB": "Brest, Angers, Rennes"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
@@ -70,7 +71,9 @@
             "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
             "date": "2025-11-15T09:00:00",
             "location": {
-                "OC": "Le Havre"                 
+                "OC": "Le Havre",
+                "PBA": "Le Havre", 
+                "SAB": "Le Havre", 
             },
             "buttonText": "En savoir plus",
             "buttonLinks": {                
@@ -86,7 +89,7 @@
             "subtext": "Participez à la conférence gratuite <b>'Prévention du burn-out étudiant'</b> animée par <b>Léa Mangenot</b>, le <b>lundi 17 novembre de 18h à 19h</b> au Business Lab du Brest Open Campus.",
             "date": "2025-11-17T18:00:00",
             "location": {
-                "OC": "Brest"                 
+                "Brest"                 
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
@@ -459,6 +462,7 @@
         }
     }
 }
+
 
 
 
