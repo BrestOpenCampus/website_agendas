@@ -31,7 +31,7 @@
             "date": "2025-11-15T09:30:00",
             "location": {
                 "PBA": "Brest, Angers, Rennes",
-                "SAB": "Brest, Angers, Rennes"
+                "SAB": "Angers, Rennes"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
@@ -482,6 +482,7 @@
         }
     }
 }
+
 
 
 
