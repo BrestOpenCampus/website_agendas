@@ -88,13 +88,13 @@
             "subtext": "Participez à la conférence gratuite <b>'Prévention du burn-out étudiant'</b> animée par <b>Léa Mangenot</b>, le <b>lundi 17 novembre de 18h à 19h</b> au Business Lab du Brest Open Campus.",
             "date": "2025-11-17T18:00:00",
             "location": {
-                "OC": "Le Havre",
-                "PBA": "Le Havre", 
-                "HTBS": "Le Havre",
-                "LIT": "Le Havre", 
-                "LDS": "Le Havre", 
-                "SUP IMMO": "Le Havre", 
-                "SSB": "Le Havre" 
+                "OC": "Brest",
+                "PBA": "Brest", 
+                "HTBS": "Brest",
+                "LIT": "Brest", 
+                "LDS": "Brest", 
+                "SUP IMMO": "Brest", 
+                "SSB": "Brest" 
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
@@ -482,6 +482,7 @@
         }
     }
 }
+
 
 
 
