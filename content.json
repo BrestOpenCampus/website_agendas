@@ -286,14 +286,16 @@
     "tdaDates": {
       "OC": {
         "180380001": [
-          { "date": "2024-10-02", "label": "Mercredi 02/10" },
-          { "date": "2024-10-04", "label": "Vendredi 04/10" }
+          { "date": "2025-12-13", "label": "Samedi 13/12" },
+          { "date": "2026-01-31", "label": "Samedi 31/01" }
         ],
         "180380000": [
-          { "date": "2024-10-09", "label": "Mercredi 09/10" }
+          { "date": "2025-12-13", "label": "Samedi 12/13" },
+          { "date": "2026-01-17", "label": "Samedi 17/01" }
         ],
         "180380002": [
-          { "date": "2024-10-11", "label": "Vendredi 11/10" }
+          { "date": "2025-11-22", "label": "Samedi 22/11" },
+          { "date": "2026-01-10", "label": "Samedi 10/01" }
         ]
       }
     },
@@ -440,6 +442,7 @@
         }
     }
 }
+
 
 
 
