@@ -170,6 +170,20 @@
             },
             "site": ["OC"]
         },
+            {
+            "leftBlockText": "Samedi 13 decembre", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2025-12-13T09:00:00",
+            "location": {
+                "PBA": "Angers"             
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+            },
+            "site": ["PBA"]
+        },
         {
             "leftBlockText": "Du 11 au 13 décembre", 
             "admissionTitle": "Salon SUP ARMOR",
@@ -430,6 +444,7 @@
         }
     }
 }
+
 
 
 
