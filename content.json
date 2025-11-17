@@ -184,7 +184,7 @@
                 "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
                 "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
             },
-            "site": ["PBA"],["SAB"] 
+            "site": ["PBA","SAB"] 
         },
         {
             "leftBlockText": "Du 11 au 13 décembre", 
@@ -447,6 +447,7 @@
         }
     }
 }
+
 
 
 
