@@ -192,15 +192,13 @@
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
             "date": "2026-01-31T09:00:00",
             "location": {
-                "PBA": "Brest",
-                "SAB" : "Brest"
+                "PBA": "Brest"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
-                "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
             },
-            "site": ["PBA","SAB"] 
+            "site": ["PBA"] 
         },
            {
             "leftBlockText": "Samedi 17 janvier", 
@@ -482,6 +480,7 @@
         }
     }
 }
+
 
 
 
