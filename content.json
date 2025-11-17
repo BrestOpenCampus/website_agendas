@@ -335,7 +335,12 @@
         { "date": "July 22, 2025", "label": "Mardi 22/07" },
         { "date": "July 24, 2025", "label": "Jeudi 24/07" },
         { "date": "July 29, 2025", "label": "Mardi 29/07" },
-        { "date": "July 31, 2025", "label": "Jeudi 31/07" }
+        { "date": "July 31, 2025", "label": "Jeudi 31/07" },
+        { "date": "December 13, 2025", "label": "Samedi 13/12" },
+        { "date": "January 10, 2026", "label": "Samedi 10/01" },
+        { "date": "January 17, 2026", "label": "Samedi 17/01" },
+        { "date": "January 31, 2026", "label": "Samedi 31/01" }
+        
     ],
     "jpoDates": {
         "jpoGroup": {
@@ -480,6 +485,7 @@
         }
     }
 }
+
 
 
 
