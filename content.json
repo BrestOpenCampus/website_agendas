@@ -283,66 +283,20 @@
         { "date": "July 09, 2025", "label": "Mercredi 09/07" },
         { "date": "July 10, 2025", "label": "Jeudi 10/07" }
      ],
-    "tdaDates": [
-        { "city": "Brest", "date": "December 13, 2025", "label": "Samedi 13/12" },
-        { "date": "October 02, 2024", "label": "Mercredi 02/10" },
-        { "date": "October 04, 2024", "label": "Vendredi 04/10" },
-        { "date": "October 09, 2024", "label": "Mercredi 09/10" },
-        { "date": "October 11, 2024", "label": "Vendredi 11/10" },
-        { "date": "October 16, 2024", "label": "Mercredi 16/10" },
-        { "date": "October 18, 2024", "label": "Vendredi 18/10" },
-        { "date": "October 23, 2024", "label": "Mercredi 23/10" },
-        { "date": "October 25, 2024", "label": "Vendredi 25/10" },
-        { "date": "October 30, 2024", "label": "Mercredi 30/10" },
-        { "date": "November 01, 2024", "label": "Vendredi 01/11" },
-        { "date": "November 06, 2024", "label": "Mercredi 06/11" },
-        { "date": "November 08, 2024", "label": "Vendredi 08/11" },
-        { "date": "November 13, 2024", "label": "Mercredi 13/11" },
-        { "date": "November 15, 2024", "label": "Vendredi 15/11" },
-        { "date": "November 20, 2024", "label": "Mercredi 20/11" },
-        { "date": "November 22, 2024", "label": "Vendredi 22/11" },
-        { "date": "November 27, 2024", "label": "Mercredi 27/11" },
-        { "date": "November 29, 2024", "label": "Vendredi 29/11" },
-        { "date": "December 04, 2024", "label": "Mercredi 04/12" },
-        { "date": "December 06, 2024", "label": "Vendredi 06/12" },
-        { "date": "December 11, 2024", "label": "Mercredi 11/12" },
-        { "date": "December 13, 2024", "label": "Vendredi 13/12" },
-        { "date": "December 14, 2024", "label": "Samedi 14/12" },
-        { "date": "December 18, 2024", "label": "Mercredi 18/12" },
-        { "date": "December 20, 2024", "label": "Vendredi 20/12" },
-        { "date": "December 25, 2024", "label": "Mercredi 25/12" },
-        { "date": "December 27, 2024", "label": "Vendredi 27/12" },
-        { "date": "January 01, 2025", "label": "Mercredi 01/01" },
-        { "date": "January 03, 2025", "label": "Vendredi 03/01" },
-        { "date": "January 08, 2025", "label": "Mercredi 08/01" },
-        { "date": "January 10, 2025", "label": "Vendredi 10/01" },
-        { "date": "January 15, 2025", "label": "Mercredi 15/01" },
-        { "date": "January 17, 2025", "label": "Vendredi 17/01" },
-        { "date": "January 22, 2025", "label": "Mercredi 22/01" },
-        { "date": "January 24, 2025", "label": "Vendredi 24/01" },
-        { "date": "January 29, 2025", "label": "Mercredi 29/01" },
-        { "date": "January 31, 2025", "label": "Vendredi 31/01" },
-        { "date": "February 22, 2025", "label": "Samedi 22/02" },
-        { "date": "April 26, 2025", "label": "Samedi 26/04" },
-        { "date": "May 22, 2025", "label": "Mercredi 21/05 - Jour de test d’admission offert" },
-        { "date": "May 22, 2025", "label": "Jeudi 22/05 - Jour de test d’admission offert" },
-        { "date": "May 24, 2025", "label": "Samedi 24/05" },
-        { "date": "June 12, 2025", "label": "Jeudi 12/06" },
-        { "date": "June 14, 2025", "label": "Samedi 14/06" },
-        { "date": "June 17, 2025", "label": "Mardi 17/06" },
-        { "date": "July 3, 2025", "label": "Jeudi 03/07" },
-        { "date": "July 15, 2025", "label": "Mardi 15/07" },
-        { "date": "July 17, 2025", "label": "Jeudi 17/07" },
-        { "date": "July 22, 2025", "label": "Mardi 22/07" },
-        { "date": "July 24, 2025", "label": "Jeudi 24/07" },
-        { "date": "July 29, 2025", "label": "Mardi 29/07" },
-        { "date": "July 31, 2025", "label": "Jeudi 31/07" },
-        { "date": "December 13, 2025", "label": "Samedi 13/12" },
-        { "date": "January 10, 2026", "label": "Samedi 10/01" },
-        { "date": "January 17, 2026", "label": "Samedi 17/01" },
-        { "date": "January 31, 2026", "label": "Samedi 31/01" }
-        
-    ],
+    "tdaDates": {
+      "OC": {
+        "180380001": [              // Brest
+          { "date": "2024-10-02", "label": "Mercredi 02/10" },
+          { "date": "2024-10-04", "label": "Vendredi 04/10" }
+        ],
+        "180380000": [              // Angers
+          { "date": "2024-10-09", "label": "Mercredi 09/10" }
+        ],
+        "180380002": [              // Caen
+          { "date": "2024-10-11", "label": "Vendredi 11/10" }
+        ]
+      }
+    },
     "jpoDates": {
         "jpoGroup": {
             "OC": {
@@ -486,6 +440,7 @@
         }
     }
 }
+
 
 
 
