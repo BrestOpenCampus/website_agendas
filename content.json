@@ -157,20 +157,6 @@
             "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
         {
-            "leftBlockText": "Samedi 13 decembre", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2025-12-13T09:00:00",
-            "location": {
-                "OC": "Angers, Brest"             
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
-            },
-            "site": ["OC"]
-        },
-        {
             "leftBlockText": "5 et 6 decembre", 
             "admissionTitle": "Forum de l'orientation",
             "subtext": "Venez nous rencontrer lors du forum, Découvrez plus en détail nos formations et posez vos questions en direct !",
@@ -200,52 +186,6 @@
             },
             "site": ["PBA","SAB"] 
         },
-            {
-            "leftBlockText": "Samedi 13 decembre", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2025-12-13T09:00:00",
-            "location": {
-                "PBA": "Angers",
-                "SAB" : "Angers"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
-                "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
-            },
-            "site": ["PBA","SAB"] 
-        },
-           {
-            "leftBlockText": "Samedi 31 janvier", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2026-01-31T09:00:00",
-            "location": {
-                "PBA": "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
-            },
-            "site": ["PBA"] 
-        },
-           {
-            "leftBlockText": "Samedi 17 janvier", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2026-01-17T09:00:00",
-            "location": {
-                "PBA": "Rennes",
-                "SAB" : "Rennes"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
-                "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
-            },
-            "site": ["PBA","SAB"] 
-        },
         {
             "leftBlockText": "Du 11 au 13 décembre", 
             "admissionTitle": "Salon SUP ARMOR",
@@ -261,6 +201,20 @@
                 "SAB": "https://www.suparmor.fr/le-salon-suparmor.html"
             },
             "site": ["PBA", "SAB"]
+        },        
+        {
+            "leftBlockText": "Du 11 au 13 décembre", 
+            "admissionTitle": "Salon SUP ARMOR",
+            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
+            "date": "2025-12-13T09:30:00",
+            "location": {
+                "OC": "Saint-brieuc"                 
+            },
+            "buttonText": "En savoir plus",
+            "buttonLinks": {                
+                "OC": "https://www.suparmor.fr/le-salon-suparmor.html"
+            },
+            "site": ["OC"]
         },
         {
             "leftBlockText": "12 et 13 décembre", 
@@ -291,21 +245,67 @@
                 "OC": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/"
             },
             "site": ["OC"]
-        },        
-        {
-            "leftBlockText": "Du 11 au 13 décembre", 
-            "admissionTitle": "Salon SUP ARMOR",
-            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2025-12-13T09:30:00",
+        },
+            {
+            "leftBlockText": "Samedi 13 decembre", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2025-12-13T09:00:00",
             "location": {
-                "OC": "Saint-brieuc"                 
+                "PBA": "Angers",
+                "SAB" : "Angers"
             },
-            "buttonText": "En savoir plus",
+            "buttonText": "S'inscrire",
             "buttonLinks": {                
-                "OC": "https://www.suparmor.fr/le-salon-suparmor.html"
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
+                "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
+            },
+            "site": ["PBA","SAB"] 
+        },
+        {
+            "leftBlockText": "Samedi 13 decembre", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2025-12-13T09:00:00",
+            "location": {
+                "OC": "Angers, Brest"             
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
             "site": ["OC"]
-        }   
+        },
+           {
+            "leftBlockText": "Samedi 17 janvier", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2026-01-17T09:00:00",
+            "location": {
+                "PBA": "Rennes",
+                "SAB" : "Rennes"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
+                "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
+            },
+            "site": ["PBA","SAB"] 
+        },
+           {
+            "leftBlockText": "Samedi 31 janvier", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2026-01-31T09:00:00",
+            "location": {
+                "PBA": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+            },
+            "site": ["PBA"] 
+        }  
     ],
     "confs": [
         {
@@ -540,6 +540,7 @@
         }
     }
 }
+
 
 
 
