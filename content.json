@@ -170,6 +170,36 @@
             },
             "site": ["OC"]
         },
+        {
+            "leftBlockText": "5 et 6 decembre", 
+            "admissionTitle": "Forum de l'orientation",
+            "subtext": "Venez nous rencontrer lors du forum, Découvrez plus en détail nos formations et posez vos questions en direct !",
+            "date": "2025-12-6T09:00:00",
+            "location": {
+                "OC": "Angers"             
+            },
+            "buttonText": "En s'avoir plus",
+            "buttonLinks": {                
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+            },
+            "site": ["OC"]
+        },
+            {
+            "leftBlockText": "5 et 6 decembre", 
+            "admissionTitle": "Forum de l'orientation",
+            "subtext": "Venez nous rencontrer lors du forum, Découvrez plus en détail nos formations et posez vos questions en direct !",
+            "date": "2025-12-6T09:00:00",
+            "location": {
+                "PBA": "Angers",
+                "SAB" : "Angers"
+            },
+            "buttonText": "En s'avoir plus",
+            "buttonLinks": {                
+                "PBA": "https://www.forum-orientation-angers.fr/le-forum/presentation/",
+                "SAB": "https://www.forum-orientation-angers.fr/le-forum/presentation/"
+            },
+            "site": ["PBA","SAB"] 
+        },
             {
             "leftBlockText": "Samedi 13 decembre", 
             "admissionTitle": "Journée Portes Ouvertes",
@@ -216,12 +246,57 @@
             },
             "site": ["PBA","SAB"] 
         },
-        
         {
             "leftBlockText": "Du 11 au 13 décembre", 
             "admissionTitle": "Salon SUP ARMOR",
             "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2025-12-11T09:30:00",
+            "date": "2025-12-13T09:30:00",
+            "location": {
+                "PBA": "Saint-brieuc",
+                "SAB": "Saint-brieuc"
+            },
+            "buttonText": "En savoir plus",
+            "buttonLinks": {                
+                "PBA": "https://www.suparmor.fr/le-salon-suparmor.html",
+                "SAB": "https://www.suparmor.fr/le-salon-suparmor.html"
+            },
+            "site": ["PBA", "SAB"]
+        },
+        {
+            "leftBlockText": "12 et 13 décembre", 
+            "admissionTitle": "Salon de l'Étudiant",
+            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
+            "date": "2025-12-13T09:30:00",
+            "location": {
+                "PBA": "Caen",
+                "SAB": "Caen"                 
+            },
+            "buttonText": "En savoir plus",
+            "buttonLinks": {                
+                "PBA": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/",
+                "SAB": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/"
+            },
+            "site": ["PBA", "SAB"]
+        },
+        {
+            "leftBlockText": "12 et 13 décembre", 
+            "admissionTitle": "Salon de l'Étudiant",
+            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
+            "date": "2025-12-13T09:30:00",
+            "location": {
+                "OC": "Caen"                 
+            },
+            "buttonText": "En savoir plus",
+            "buttonLinks": {                
+                "OC": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/"
+            },
+            "site": ["OC"]
+        },        
+        {
+            "leftBlockText": "Du 11 au 13 décembre", 
+            "admissionTitle": "Salon SUP ARMOR",
+            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
+            "date": "2025-12-13T09:30:00",
             "location": {
                 "OC": "Saint-brieuc"                 
             },
@@ -465,6 +540,7 @@
         }
     }
 }
+
 
 
 
