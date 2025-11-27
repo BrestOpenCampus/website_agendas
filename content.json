@@ -174,7 +174,7 @@
             "leftBlockText": "5 et 6 decembre", 
             "admissionTitle": "Forum de l'orientation",
             "subtext": "Venez nous rencontrer lors du forum, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2025-12-6T09:00:00",
+            "date": "2025-12-06T09:00:00",
             "location": {
                 "OC": "Angers"             
             },
@@ -188,7 +188,7 @@
             "leftBlockText": "5 et 6 decembre", 
             "admissionTitle": "Forum de l'orientation",
             "subtext": "Venez nous rencontrer lors du forum, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2025-12-6T09:00:00",
+            "date": "2025-12-06T09:00:00",
             "location": {
                 "PBA": "Angers",
                 "SAB" : "Angers"
@@ -540,6 +540,7 @@
         }
     }
 }
+
 
 
 
