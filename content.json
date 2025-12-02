@@ -156,6 +156,32 @@
             },
             "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
+          {
+            "leftBlockText": "Du 11 au 13 décembre", 
+            "admissionTitle": "Salon Sup Armor",
+            "subtext": "Venez nous rencontrer au salon Sup Armor de Saint-Brieuc, découvrez plus en détail nos formations et posez vos questions en direct !.",
+            "date": "2025-12-11",
+            "location": {
+                "OC": "Brest",
+                "PBA": "Rennes",
+                "HTBS": "Brest",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "SUP IMMO": "Brest",
+                "SSB": "Brest"
+            },
+            "buttonText": "En savoir plus",
+            "buttonLinks": {                
+                "OC": "https://www.suparmor.fr/",
+                "PBA": "https://www.suparmor.fr/",
+                "HTBS": "https://www.suparmor.fr/",
+                "LIT": "https://www.suparmor.fr/",
+                "LDS": "https://www.suparmor.fr/",
+                "SUP IMMO": "https://www.suparmor.fr/",
+                "SSB": "https://www.suparmor.fr/"
+            },
+            "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
+        },
         {
             "leftBlockText": "5 et 6 decembre", 
             "admissionTitle": "Forum de l'orientation",
@@ -164,7 +190,7 @@
             "location": {
                 "OC": "Angers"             
             },
-            "buttonText": "En s'avoir plus",
+            "buttonText": "En savoir plus",
             "buttonLinks": {                
                 "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
@@ -540,6 +566,7 @@
         }
     }
 }
+
 
 
 
