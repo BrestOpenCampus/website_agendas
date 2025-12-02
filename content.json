@@ -297,10 +297,15 @@
                 "OC": "Angers, Brest"             
             },
             "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+           "buttonLinks": {                
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "HTBS": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "LIT": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "LDS": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "SUP IMMO": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "SSB": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
-            "site": ["OC"]
+            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
            {
             "leftBlockText": "Samedi 17 janvier", 
@@ -566,6 +571,7 @@
         }
     }
 }
+
 
 
 
