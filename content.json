@@ -159,7 +159,7 @@
           {
             "leftBlockText": "Du 11 au 13 décembre", 
             "admissionTitle": "Salon Sup Armor",
-            "subtext": "Venez nous rencontrer au salon Sup Armor de Saint-Brieuc, découvrez plus en détail nos formations et posez vos questions en direct !.",
+            "subtext": "Venez nous rencontrer au salon Sup Armor de Saint-Brieuc, découvrez plus en détail nos formations et posez vos questions en direct !",
             "date": "2025-12-11",
             "location": {
                 "OC": "Saint-Brieuc",
@@ -566,6 +566,7 @@
         }
     }
 }
+
 
 
 
