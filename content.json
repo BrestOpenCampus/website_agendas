@@ -162,13 +162,13 @@
             "subtext": "Venez nous rencontrer au salon Sup Armor de Saint-Brieuc, découvrez plus en détail nos formations et posez vos questions en direct !.",
             "date": "2025-12-11",
             "location": {
-                "OC": "Brest",
-                "PBA": "Rennes",
-                "HTBS": "Brest",
-                "LIT": "Brest",
-                "LDS": "Brest",
-                "SUP IMMO": "Brest",
-                "SSB": "Brest"
+                "OC": "Saint-Brieuc",
+                "PBA": "Saint-Brieuc",
+                "HTBS": "Saint-Brieuc",
+                "LIT": "Saint-Brieuc",
+                "LDS": "Saint-Brieuc",
+                "SUP IMMO": "Saint-Brieuc",
+                "SSB": "Saint-Brieuc"
             },
             "buttonText": "En savoir plus",
             "buttonLinks": {                
@@ -566,6 +566,7 @@
         }
     }
 }
+
 
 
 
