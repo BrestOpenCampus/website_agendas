@@ -64,6 +64,25 @@
             },
             "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
+          {
+            "leftBlockText": "Samedi 10 janvier", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2026-01-10T09:00:00",
+            "location": {
+                "OC": "Caen",
+                "PBA": "Caen",
+                "SAB": "Caen"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
+                "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
+
+            },
+            "site": ["OC", "PBA", "SAB"]
+        },
         {
             "leftBlockText": "15 Novembre", 
             "admissionTitle": "Salon L'ETUDIANT",
@@ -571,6 +590,7 @@
         }
     }
 }
+
 
 
 
