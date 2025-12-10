@@ -146,13 +146,13 @@
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
-                "OC": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator",
-                "PBA": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator",
-                "HTBS": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator",
-                "LIT": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator",
-                "LDS": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator",
-                "SUP IMMO": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator",
-                "SSB": "https://www.eventbrite.com/e/conference-le-sport-comme-moteur-de-performance-etudiants-tickets-1964787297698?aff=oddtdtcreator"
+                "OC": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
+                "PBA": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
+                "HTBS": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
+                "LIT": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
+                "LDS": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
+                "SUP IMMO": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
+                "SSB": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator"
             },
             "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
@@ -307,7 +307,33 @@
             },
             "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
-          {
+        {
+            "leftBlockText": "18 Décembre", 
+            "admissionTitle": "Conférence",
+            "subtext": "Participez à la conférence gratuite <b>'Prévention du burn-out chez les étudiants'</b> animée par <b>Léa Mangenot</b>, le <b>jeudi 18 décembre de 17h à 18h</b> au Business Lab du Brest Open Campus.",
+            "date": "2025-12-18T17:00:00",
+            "location": {
+                "OC": "Brest",
+                "PBA": "Brest",
+                "HTBS": "Brest",
+                "LIT": "Brest",
+                "LDS": "Brest",
+                "SUP IMMO": "Brest",
+                "SSB": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
+                "PBA": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
+                "HTBS": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
+                "LIT": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
+                "LDS": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
+                "SUP IMMO": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
+                "SSB": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator"
+            },
+            "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
+        },
+        {
             "leftBlockText": "Samedi 10 janvier", 
             "admissionTitle": "Journée Portes Ouvertes",
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
@@ -590,6 +616,7 @@
         }
     }
 }
+
 
 
 
