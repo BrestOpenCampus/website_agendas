@@ -350,7 +350,7 @@
                 "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
 
             },
-            "site": ["OC", "PBA", "SAB"]
+            "site": ["OC","PBA","SAB"]
         },
            {
             "leftBlockText": "Samedi 17 janvier", 
@@ -392,7 +392,7 @@
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
             "date": "2026-01-31T09:00:00",
             "location": {
-                "PBA": "Brest"
+                "PBA": "Brest",
                 "OC" : "Brest"
             },
             "buttonText": "S'inscrire",
@@ -401,7 +401,7 @@
                 "OC" : "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
             "site": ["PBA","OC"] 
-        }  
+        },  
     ],
     "confs": [
         {
