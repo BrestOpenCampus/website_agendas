@@ -359,7 +359,25 @@
             "date": "2026-01-17T09:00:00",
             "location": {
                 "PBA": "Rennes",
-                "SAB" : "Rennes"
+                "SAB" : "Rennes",
+                "OC" : "Angers"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
+                "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/",
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+            },
+            "site": ["PBA","SAB","OC"] 
+        },
+          {
+            "leftBlockText": "Samedi 24 janvier", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2026-01-24T09:00:00",
+            "location": {
+                "PBA": "Angers",
+                "SAB" : "Angers"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
@@ -375,12 +393,14 @@
             "date": "2026-01-31T09:00:00",
             "location": {
                 "PBA": "Brest"
+                "OC" : "Brest"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
                 "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+                "OC" : "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
-            "site": ["PBA"] 
+            "site": ["PBA","OC"] 
         }  
     ],
     "confs": [
@@ -616,3 +636,4 @@
         }
     }
 }
+
