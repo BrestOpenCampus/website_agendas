@@ -245,18 +245,18 @@
             "site": ["OC","PBA"]
         },
         {
-            "leftBlockText": "12 et 13 décembre", 
+            "leftBlockText": "9 et 10 janvier", 
             "admissionTitle": "Salon de l'Étudiant",
             "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2025-12-13T09:30:00",
+            "date": "2026-01-09T09:30:00",
             "location": {
-                "PBA": "Caen",
-                "SAB": "Caen"                 
+                "PBA": "Rennes",
+                "SAB": "Rennes"                 
             },
             "buttonText": "En savoir plus",
             "buttonLinks": {                
-                "PBA": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/",
-                "SAB": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/"
+                "PBA": "https://salon-du-lyceen-et-de-l-etudiant-rennes.salon.letudiant.fr/",
+                "SAB": "https://salon-du-lyceen-et-de-l-etudiant-rennes.salon.letudiant.fr/"
             },
             "site": ["PBA", "SAB"]
         },
@@ -649,6 +649,7 @@
         }
     }
 }
+
 
 
 
