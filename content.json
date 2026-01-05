@@ -213,20 +213,20 @@
             "site": ["PBA","SAB"] 
         },
         {
-            "leftBlockText": "Du 11 au 13 décembre", 
-            "admissionTitle": "Salon SUP ARMOR",
+            "leftBlockText": "23 et 24 janvier", 
+            "admissionTitle": "AZIMUT",
             "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2025-12-13T09:30:00",
+            "date": "2026-01-23T09:30:00",
             "location": {
-                "PBA": "Saint-brieuc",
-                "SAB": "Saint-brieuc"
+                "PBA": "Brest",
+                "OC": "Brest"
             },
             "buttonText": "En savoir plus",
             "buttonLinks": {                
-                "PBA": "https://www.suparmor.fr/le-salon-suparmor.html",
-                "SAB": "https://www.suparmor.fr/le-salon-suparmor.html"
+                "PBA": "https://www.salon-azimut.com/",
+                "OC": "https://www.salon-azimut.com/"
             },
-            "site": ["PBA", "SAB"]
+            "site": ["PBA", "OC"]
         },        
         {
             "leftBlockText": "17 janvier", 
@@ -649,6 +649,7 @@
         }
     }
 }
+
 
 
 
