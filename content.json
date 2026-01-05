@@ -235,7 +235,7 @@
             "date": "2026-01-17T09:30:00",
             "location": {
                 "OC": "Brest",
-                "PBA": "Brest",
+                "PBA": "Brest"
             },
             "buttonText": "En savoir plus",
             "buttonLinks": {                
@@ -649,6 +649,7 @@
         }
     }
 }
+
 
 
 
