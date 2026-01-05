@@ -229,18 +229,20 @@
             "site": ["PBA", "SAB"]
         },        
         {
-            "leftBlockText": "Du 11 au 13 décembre", 
-            "admissionTitle": "Salon SUP ARMOR",
+            "leftBlockText": "17 janvier", 
+            "admissionTitle": "Salon Foromap",
             "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2025-12-13T09:30:00",
+            "date": "2026-01-17T09:30:00",
             "location": {
-                "OC": "Saint-brieuc"                 
+                "OC": "Brest",
+                "PBA": "Brest",
             },
             "buttonText": "En savoir plus",
             "buttonLinks": {                
-                "OC": "https://www.suparmor.fr/le-salon-suparmor.html"
+                "OC": "https://foromap29.fr/",
+                "PBA": "https://foromap29.fr/"
             },
-            "site": ["OC"]
+            "site": ["OC","PBA"]
         },
         {
             "leftBlockText": "12 et 13 décembre", 
@@ -647,6 +649,7 @@
         }
     }
 }
+
 
 
 
