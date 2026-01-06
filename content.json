@@ -1,218 +1,6 @@
 {
     "blocks": [
         {
-            "leftBlockText": "Vendredi 31 octobre", 
-            "admissionTitle": "Toujours rien pour la rentrée 2025 ?",
-            "subtext": "Les inscriptions sont ouvertes jusqu'au 31 octobre ! ",
-            "date": "2025-10-31T12:00:00",
-            "location": {
-                "OC": "Angers, Brest, Caen",
-                "HTBS": "Angers, Brest, Caen",
-                "LIT": "Angers, Brest, Caen",
-                "LDS": "Angers, Brest",
-                "SUP IMMO": "Brest, Caen",
-                "SSB": "Brest"                
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "OC": "https://reseau-opencampus.com/demande-dossier-de-candidature-goc-2025/",
-                "HTBS": "https://reseau-opencampus.com/demande-dossier-de-candidature-goc-2025/",
-                "LIT": "https://reseau-opencampus.com/demande-dossier-de-candidature-goc-2025/",
-                "LDS": "https://reseau-opencampus.com/demande-dossier-de-candidature-goc-2025/",
-                "SUP IMMO": "https://reseau-opencampus.com/demande-dossier-de-candidature-goc-2025/",
-                "SSB": "https://reseau-opencampus.com/demande-dossier-de-candidature-goc-2025/"
-            },
-            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
-        },
-        {
-            "leftBlockText": "Samedi 15 novembre", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2025-11-15T09:30:00",
-            "location": {
-                "PBA": "Brest, Angers, Rennes",
-                "SAB": "Angers, Rennes"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
-                "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
-            },
-            "site": ["PBA","SAB"]
-        },
-        {
-            "leftBlockText": "Samedi 15 novembre", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2025-11-15T09:00:00",
-            "location": {
-                "OC": "Brest",
-                "HTBS": "Brest",
-                "LIT": "Brest",
-                "LDS": "Brest",
-                "SUP IMMO": "Brest",
-                "SSB": "Brest"                
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "HTBS": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LIT": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LDS": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "SUP IMMO": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "SSB": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
-            },
-            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
-        },
-        {
-            "leftBlockText": "15 Novembre", 
-            "admissionTitle": "Salon L'ETUDIANT",
-            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2025-11-15T09:00:00",
-            "location": {
-                "OC": "Le Havre",
-                "PBA": "Le Havre", 
-                "SAB": "Le Havre" 
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {                
-                "OC": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/",
-                "PBA": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/",
-                "SAB": "https://salon-de-l-etudiant-le-havre.salon.letudiant.fr/"
-            },
-            "site": ["OC","PBA","SAB"]
-        },
-        {
-            "leftBlockText": "22 Novembre", 
-            "admissionTitle": "Salon STUDYRAMA",
-            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2025-11-22T09:00:00",
-            "location": {
-                "OC": "Le Mans",
-                "PBA": "Le Mans", 
-                "SAB": "Le Mans" 
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {                
-                "OC": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18",
-                "PBA": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18",
-                "SAB": "https://www.studyrama.com/salons/salon-studyrama-des-etudes-superieures-du-mans-18"
-            },
-            "site": ["OC","PBA","SAB"]
-        },
-           {
-            "leftBlockText": "Samedi 22 novembre", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2025-11-22T09:30:00",
-            "location": {
-                "PBA": "Caen",
-                "SAB": "Caen" 
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
-                "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
-            },
-            "site": ["PBA","SAB"]
-        },
-        {
-            "leftBlockText": "Samedi 22 novembre", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2025-11-22T09:00:00",
-            "location": {
-                "OC": "Caen"             
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
-            },
-            "site": ["OC"]
-        },
-        {
-            "leftBlockText": "25 Novembre", 
-            "admissionTitle": "Conférence",
-            "subtext": "Participez à la conférence gratuite <b>'Le sport comme moteur de performance'</b> animée par <b>Chloé Habasque</b>, <b>Maëlys Patinec</b> et <b>Tom Folain</b>, le <b>mardi 25 novembre de 18h à 19h</b> au Business Lab du Brest Open Campus.",
-            "date": "2025-11-25T18:00:00",
-            "location": {
-                "OC": "Brest",
-                "PBA": "Brest",
-                "HTBS": "Brest",
-                "LIT": "Brest",
-                "LDS": "Brest",
-                "SUP IMMO": "Brest",
-                "SSB": "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "OC": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
-                "PBA": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
-                "HTBS": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
-                "LIT": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
-                "LDS": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
-                "SUP IMMO": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
-                "SSB": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator"
-            },
-            "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
-        },
-          {
-            "leftBlockText": "Du 11 au 13 décembre", 
-            "admissionTitle": "Salon Sup Armor",
-            "subtext": "Venez nous rencontrer au salon Sup Armor de Saint-Brieuc, découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2025-12-11",
-            "location": {
-                "OC": "Saint-Brieuc",
-                "PBA": "Saint-Brieuc",
-                "HTBS": "Saint-Brieuc",
-                "LIT": "Saint-Brieuc",
-                "LDS": "Saint-Brieuc",
-                "SUP IMMO": "Saint-Brieuc",
-                "SSB": "Saint-Brieuc"
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {                
-                "OC": "https://www.suparmor.fr/",
-                "PBA": "https://www.suparmor.fr/",
-                "HTBS": "https://www.suparmor.fr/",
-                "LIT": "https://www.suparmor.fr/",
-                "LDS": "https://www.suparmor.fr/",
-                "SUP IMMO": "https://www.suparmor.fr/",
-                "SSB": "https://www.suparmor.fr/"
-            },
-            "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
-        },
-        {
-            "leftBlockText": "5 et 6 decembre", 
-            "admissionTitle": "Forum de l'orientation",
-            "subtext": "Venez nous rencontrer lors du forum, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2025-12-06T09:00:00",
-            "location": {
-                "OC": "Angers"             
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {                
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
-            },
-            "site": ["OC"]
-        },
-            {
-            "leftBlockText": "5 et 6 decembre", 
-            "admissionTitle": "Forum de l'orientation",
-            "subtext": "Venez nous rencontrer lors du forum, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2025-12-06T09:00:00",
-            "location": {
-                "PBA": "Angers",
-                "SAB" : "Angers"
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {                
-                "PBA": "https://www.forum-orientation-angers.fr/le-forum/presentation/",
-                "SAB": "https://www.forum-orientation-angers.fr/le-forum/presentation/"
-            },
-            "site": ["PBA","SAB"] 
-        },
-        {
             "leftBlockText": "23 et 24 janvier", 
             "admissionTitle": "AZIMUT",
             "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
@@ -336,10 +124,10 @@
             "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
         },
         {
-            "leftBlockText": "Samedi 10 janvier", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2026-01-10T09:00:00",
+            "leftBlockText": "Mardi 13 janvier", 
+            "admissionTitle": "Soirée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors d'une soirée Portes ouvertes, visitez le campus et posez vos questions !",
+            "date": "2026-01-13T17:00:00",
             "location": {
                 "OC": "Caen",
                 "PBA": "Caen",
@@ -649,6 +437,7 @@
         }
     }
 }
+
 
 
 
