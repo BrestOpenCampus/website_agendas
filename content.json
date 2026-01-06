@@ -129,17 +129,29 @@
             "subtext": "Venez nous rencontrer lors d'une soirée Portes ouvertes, visitez le campus et posez vos questions !",
             "date": "2026-01-13T17:00:00",
             "location": {
-                "OC": "Caen",
+                "OC": "Caen"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+            },
+            "site": ["OC"]
+        },
+        {
+            "leftBlockText": "Vendredi 16 janvier", 
+            "admissionTitle": "Soirée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors d'une soirée Portes ouvertes, visitez le campus et posez vos questions !",
+            "date": "2026-01-16T17:00:00",
+            "location": {
                 "PBA": "Caen",
                 "SAB": "Caen"
             },
             "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+            "buttonLinks": {
                 "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
                 "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
             },
-            "site": ["OC","PBA","SAB"]
+            "site": ["PBA","SAB"]
         },
         {
             "leftBlockText": "Samedi 17 janvier", 
@@ -404,7 +416,7 @@
                     "April 5, 2025 14:00:00",
                     "June 4, 2025 14:00:00",
                     "november 22, 2025 09:00:00",
-                    "January 13, 2026 17:00:00",
+                    "January 16, 2026 17:00:00",
                     "February 7, 2026 09:00:00",
                     "March 7, 2026 09:00:00",
                     "June 13, 2026 09:00:00"
@@ -436,6 +448,7 @@
         }
     }
 }
+
 
 
 
