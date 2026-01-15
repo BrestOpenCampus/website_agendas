@@ -203,8 +203,8 @@
         },
         {
             "leftBlockText": "Vendredi 6 fevrier", 
-            "admissionTitle": "Nuit de l'orientation",
-            "subtext": "Venez nous rencontrer lors de notre nuit de l'orientation le 6 février à 17h, visitez le campus de Brest et posez vos questions !",
+            "admissionTitle": "Nocturne de l'Open campus",
+            "subtext": "Venez nous rencontrer lors de notre nocturne de l'Open campus le 6 février à 17h, visitez le campus de Brest et posez vos questions !",
             "date": "2026-02-06T09:00:00",
             "location": {
                 "OC" : "Brest"
@@ -455,6 +455,7 @@
         }
     }
 }
+
 
 
 
