@@ -200,7 +200,21 @@
                 "OC" : "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
             "site": ["PBA","OC"] 
-        } 
+        },
+        {
+            "leftBlockText": "Vendredi 6 fevrier", 
+            "admissionTitle": "Nuit de l'orientation",
+            "subtext": "Venez nous rencontrer lors de notre nuit de l'orientation le 6 février à 17h, visitez le campus de Brest et posez vos questions !",
+            "date": "2026-02-06T09:00:00",
+            "location": {
+                "OC" : "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC" : "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+            },
+            "site": ["OC"] 
+        }  
     ],
     "confs": [
         {
@@ -441,6 +455,7 @@
         }
     }
 }
+
 
 
 
