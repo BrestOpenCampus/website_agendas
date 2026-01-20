@@ -2,7 +2,7 @@
     "blocks": [
         {
             "leftBlockText": "23 et 24 janvier", 
-            "admissionTitle": "AZIMUT",
+            "admissionTitle": " Salon AZIMUT",
             "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
             "date": "2026-01-23T09:30:00",
             "location": {
@@ -455,6 +455,7 @@
         }
     }
 }
+
 
 
 
