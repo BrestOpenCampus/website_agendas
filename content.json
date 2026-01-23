@@ -230,6 +230,22 @@
                 "OC" : "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
             "site": ["PBA","OC"] 
+        },
+           {
+            "leftBlockText": "Samedi 14 mars", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2026-03-14T09:00:00",
+            "location": {
+                "PBA": "Angers",
+                "OC" : "Angers"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
+                "OC" : "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+            },
+            "site": ["PBA","OC"] 
         }
     ],
     "confs": [
@@ -473,6 +489,7 @@
         }
     }
 }
+
 
 
 
