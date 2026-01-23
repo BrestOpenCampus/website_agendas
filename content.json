@@ -246,6 +246,20 @@
                 "OC" : "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
             "site": ["PBA","OC"] 
+        },
+          {
+            "leftBlockText": "Samedi 21 mars", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2026-03-21T09:00:00",
+            "location": {
+                "PBA": "Rennes"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+            },
+            "site": ["PBA"] 
         }
     ],
     "confs": [
@@ -489,6 +503,7 @@
         }
     }
 }
+
 
 
 
