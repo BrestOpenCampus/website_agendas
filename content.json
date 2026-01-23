@@ -201,6 +201,20 @@
             },
             "site": ["PBA","OC"] 
         },
+        {
+            "leftBlockText": "Vendredi 6 fevrier", 
+            "admissionTitle": "Nocturne de l'Open campus",
+            "subtext": "Venez nous rencontrer lors de notre nocturne de l'Open campus le 6 février à 17h, visitez le campus de Brest et posez vos questions !",
+            "date": "2026-02-06T09:00:00",
+            "location": {
+                "OC" : "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC" : "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+            },
+            "site": ["OC"] 
+        },
           {
             "leftBlockText": "Samedi 07 février", 
             "admissionTitle": "Journée Portes Ouvertes",
@@ -216,21 +230,7 @@
                 "OC" : "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
             "site": ["PBA","OC"] 
-        },
-        {
-            "leftBlockText": "Vendredi 6 fevrier", 
-            "admissionTitle": "Nocturne de l'Open campus",
-            "subtext": "Venez nous rencontrer lors de notre nocturne de l'Open campus le 6 février à 17h, visitez le campus de Brest et posez vos questions !",
-            "date": "2026-02-06T09:00:00",
-            "location": {
-                "OC" : "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "OC" : "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
-            },
-            "site": ["OC"] 
-        }  
+        }
     ],
     "confs": [
         {
@@ -473,6 +473,7 @@
         }
     }
 }
+
 
 
 
