@@ -177,7 +177,7 @@
             "subtext": "Venez participer au prochain live de l'orientation à 18h45 sur le thème 'Dans les coulisses des admissions : ce que l’école regarde vraiment' animé par Morgane, responsable pédagogique de l'Open campus de Brest",
             "date": "2026-01-29T19:00:00",
             "location": {
-                "OC": "TikTok & Instagram"
+                "OC": "Angers, Brest, Caen"
             },
             "buttonText": "En savoir plus",
             "buttonLinks": {                
@@ -503,6 +503,7 @@
         }
     }
 }
+
 
 
 
