@@ -231,6 +231,20 @@
             },
             "site": ["PBA","OC"] 
         },
+          {
+            "leftBlockText": "jeudi 12 février de 17h à 18h", 
+            "admissionTitle": "Conférence : Être créateur·rice de contenu : entre création, identité et professionnalisation",
+            "subtext": "Yoshiaki (créateur de contenu, vidéaste, Full Setter PS4 1716/2490) et Lysis (Illustratrice/créatrice de contenues) partageront leur expérience et leur vision du métier de créateur de contenu aujourd’hui.",
+            "date": "2026-02-12T17:00:00",
+            "location": {
+                "OC": "Open campus de Brest – Business Lab"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC" : "https://www.eventbrite.com/e/conference-brest-etre-createurrice-de-contenu-tickets-1981749873218?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl"
+            },
+            "site": ["OC"] 
+        },
            {
             "leftBlockText": "Samedi 14 mars", 
             "admissionTitle": "Journée Portes Ouvertes",
@@ -503,6 +517,7 @@
         }
     }
 }
+
 
 
 
