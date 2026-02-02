@@ -243,6 +243,20 @@
             },
             "site": ["OC"] 
         },
+          {
+            "leftBlockText": "Samedi 07 mars", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2026-03-07T09:00:00",
+            "location": {
+                "OC": "Caen"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+            },
+            "site": ["OC"] 
+        },
            {
             "leftBlockText": "Samedi 14 mars", 
             "admissionTitle": "Journée Portes Ouvertes",
@@ -513,6 +527,7 @@
         }
     }
 }
+
 
 
 
