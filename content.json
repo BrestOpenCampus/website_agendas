@@ -221,15 +221,13 @@
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
             "date": "2026-02-07T09:00:00",
             "location": {
-                "PBA": "Caen",
-                "OC" : "Caen"
+                "PBA": "Caen"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
-                "OC" : "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
             },
-            "site": ["PBA","OC"] 
+            "site": ["PBA"] 
         },
           {
             "leftBlockText": "jeudi 12 février de 17h à 18h", 
@@ -412,8 +410,6 @@
                     "June 4, 2025 14:00:00",
                     "June 14, 2025 09:30:00",
                     "November 22, 2025 09:00:00",
-                    "February 7, 2026 10:00:00",
-                    "February 7, 2026 14:00:00",
                     "March 7, 2026 10:00:00",
                     "March 7, 2026 14:00:00",
                     "June 13, 2026 10:00:00",
@@ -517,6 +513,7 @@
         }
     }
 }
+
 
 
 
