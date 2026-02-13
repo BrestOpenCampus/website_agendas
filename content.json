@@ -1,251 +1,20 @@
 {
     "blocks": [
         {
-            "leftBlockText": "23 et 24 janvier", 
-            "admissionTitle": " Salon AZIMUT",
-            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2026-01-23T09:30:00",
+            "leftBlockText": "Samedi 14 février", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2026-02-14T09:00:00",
             "location": {
-                "PBA": "Brest",
                 "OC": "Brest"
             },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {                
-                "PBA": "https://www.salon-azimut.com/",
-                "OC": "https://www.salon-azimut.com/"
-            },
-            "site": ["PBA", "OC"]
-        },        
-        {
-            "leftBlockText": "17 janvier", 
-            "admissionTitle": "Salon Foromap",
-            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2026-01-17T09:30:00",
-            "location": {
-                "OC": "Brest",
-                "PBA": "Brest"
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {                
-                "OC": "https://foromap29.fr/",
-                "PBA": "https://foromap29.fr/"
-            },
-            "site": ["OC","PBA"]
-        },
-        {
-            "leftBlockText": "9 et 10 janvier", 
-            "admissionTitle": "Salon de l'Étudiant",
-            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2026-01-09T09:30:00",
-            "location": {
-                "PBA": "Rennes",
-                "SAB": "Rennes"                 
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {                
-                "PBA": "https://salon-du-lyceen-et-de-l-etudiant-rennes.salon.letudiant.fr/",
-                "SAB": "https://salon-du-lyceen-et-de-l-etudiant-rennes.salon.letudiant.fr/"
-            },
-            "site": ["PBA", "SAB"]
-        },
-        {
-            "leftBlockText": "12 et 13 décembre", 
-            "admissionTitle": "Salon de l'Étudiant",
-            "subtext": "Venez nous rencontrer lors du salon, Découvrez plus en détail nos formations et posez vos questions en direct !",
-            "date": "2025-12-13T09:30:00",
-            "location": {
-                "OC": "Caen"                 
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {                
-                "OC": "https://salon-de-l-etudiant-caen.salon.letudiant.fr/"
-            },
-            "site": ["OC"]
-        },
-            {
-            "leftBlockText": "Samedi 13 decembre", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2025-12-13T09:00:00",
-            "location": {
-                "PBA": "Angers",
-                "SAB" : "Angers"
-            },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
-                "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
-            },
-            "site": ["PBA","SAB"] 
-        },
-        {
-            "leftBlockText": "Samedi 13 decembre", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2025-12-13T09:00:00",
-            "location": {
-                "OC": "Angers, Brest"             
-            },
-            "buttonText": "S'inscrire",
-           "buttonLinks": {                
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "HTBS": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LIT": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "LDS": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "SUP IMMO": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
-                "SSB": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
-            },
-            "site": ["OC", "HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
-        },
-        {
-            "leftBlockText": "18 Décembre", 
-            "admissionTitle": "Conférence",
-            "subtext": "Participez à la conférence gratuite <b>'Prévention du burn-out chez les étudiants'</b> animée par <b>Léa Mangenot</b>, le <b>jeudi 18 décembre de 17h à 18h</b> au Business Lab du Brest Open Campus.",
-            "date": "2025-12-18T17:00:00",
-            "location": {
-                "OC": "Brest",
-                "PBA": "Brest",
-                "HTBS": "Brest",
-                "LIT": "Brest",
-                "LDS": "Brest",
-                "SUP IMMO": "Brest",
-                "SSB": "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "OC": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
-                "PBA": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
-                "HTBS": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
-                "LIT": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
-                "LDS": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
-                "SUP IMMO": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator",
-                "SSB": "https://www.eventbrite.com/e/billets-conference-prevention-du-burn-out-chez-les-etudiants-1977368522480?aff=oddtdtcreator"
-            },
-            "site": ["OC","PBA","HTBS", "LIT", "LDS", "SUP IMMO", "SSB"]
-        },
-        {
-            "leftBlockText": "Vendredi 16 janvier", 
-            "admissionTitle": "Soirée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors d'une soirée Portes ouvertes, visitez le campus et posez vos questions !",
-            "date": "2026-01-16T17:00:00",
-            "location": {
-                "PBA": "Caen",
-                "SAB": "Caen"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
-                "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
-            },
-            "site": ["PBA","SAB"]
-        },
-        {
-            "leftBlockText": "Samedi 17 janvier", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2026-01-17T09:00:00",
-            "location": {
-                "PBA": "Rennes",
-                "SAB": "Rennes"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
-                "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
-            },
-            "site": ["PBA","SAB"] 
-        },
-        {
-            "leftBlockText": "Samedi 24 janvier", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2026-01-24T09:00:00",
-            "location": {
-                "PBA": "Angers",
-                "SAB" : "Angers"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
-                "SAB": "https://supalternance-bs.fr/journee-portes-ouvertes/"
-            },
-            "site": ["PBA","SAB"] 
-        },
-        {
-            "leftBlockText": "Jeudi 29 janvier", 
-            "admissionTitle": "Live de l'orientation",
-            "subtext": "Venez participer au prochain live de l'orientation à 18h45 sur le thème 'Dans les coulisses des admissions : ce que l’école regarde vraiment' animé par Morgane, responsable pédagogique de l'Open campus de Brest",
-            "date": "2026-01-29T19:00:00",
-            "location": {
-                "OC": "Angers, Brest, Caen"
-            },
-            "buttonText": "En savoir plus",
-            "buttonLinks": {                
-                "OC": "https://www.instagram.com/opencampus_off/"
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
             "site": ["OC"] 
         },
         {
-            "leftBlockText": "Samedi 31 janvier", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2026-01-31T09:00:00",
-            "location": {
-                "PBA": "Brest",
-                "OC" : "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
-                "OC" : "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
-            },
-            "site": ["PBA","OC"] 
-        },
-        {
-            "leftBlockText": "Vendredi 6 fevrier", 
-            "admissionTitle": "Nocturne de l'Open campus",
-            "subtext": "Venez nous rencontrer lors de notre nocturne de l'Open campus le 6 février à 17h, visitez le campus de Brest et posez vos questions !",
-            "date": "2026-02-06T09:00:00",
-            "location": {
-                "OC" : "Brest"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "OC" : "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
-            },
-            "site": ["OC"] 
-        },
-          {
-            "leftBlockText": "Samedi 07 février", 
-            "admissionTitle": "Journée Portes Ouvertes",
-            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2026-02-07T09:00:00",
-            "location": {
-                "PBA": "Caen",
-                "OC": "Caen"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
-                "OC" : "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
-            },
-            "site": ["PBA","OC"] 
-        },
-          {
-            "leftBlockText": "jeudi 12 février de 17h à 18h", 
-            "admissionTitle": "Conférence : Être créateur·rice de contenu : entre création, identité et professionnalisation",
-            "subtext": "Yoshiaki (créateur de contenu, vidéaste, Full Setter PS4 1716/2490) et Lysis (Illustratrice/créatrice de contenues) partageront leur expérience et leur vision du métier de créateur de contenu aujourd’hui.",
-            "date": "2026-02-12T17:00:00",
-            "location": {
-                "OC": "Open campus de Brest – Business Lab"
-            },
-            "buttonText": "S'inscrire",
-            "buttonLinks": {                
-                "OC" : "https://www.eventbrite.com/e/conference-brest-etre-createurrice-de-contenu-tickets-1981749873218?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl"
-            },
-            "site": ["OC"] 
-        },
-          {
             "leftBlockText": "Samedi 07 mars", 
             "admissionTitle": "Journée Portes Ouvertes",
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
@@ -531,6 +300,7 @@
         }
     }
 }
+
 
 
 
