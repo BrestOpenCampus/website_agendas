@@ -20,13 +20,15 @@
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
             "date": "2026-03-07T09:00:00",
             "location": {
-                "OC": "Caen"
+                "OC": "Caen",
+                "PBA": "Brest, Caen"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
-                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/",
+                "PBA" : "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
             },
-            "site": ["OC"] 
+            "site": ["OC", "PBA"] 
         },
            {
             "leftBlockText": "Samedi 14 mars", 
@@ -300,6 +302,7 @@
         }
     }
 }
+
 
 
 
