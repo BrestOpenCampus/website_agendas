@@ -31,6 +31,20 @@
             "site": ["OC", "PBA"] 
         },
            {
+            "leftBlockText": "Jeudi 12 mars", 
+            "admissionTitle": "Forum de l'alternance",
+            "subtext": "Venez rencontrer nos entreprises partenaires, participer à des conférences et trouvez votre alternance.",
+            "date": "2026-03-12T09:00:00",
+            "location": {
+                "OC" : "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC" : "https://reseau-opencampus.com/forum-de-lalternance-et-du-stage/"
+            },
+            "site": ["OC"] 
+        },
+           {
             "leftBlockText": "Samedi 14 mars", 
             "admissionTitle": "Journée Portes Ouvertes",
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
@@ -302,6 +316,7 @@
         }
     }
 }
+
 
 
 
