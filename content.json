@@ -20,7 +20,7 @@
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
             "date": "2026-03-07T09:00:00",
             "location": {
-                "OC": "Caen",
+                "OC": "Brest, Caen",
                 "PBA": "Brest, Caen"
             },
             "buttonText": "S'inscrire",
@@ -316,6 +316,7 @@
         }
     }
 }
+
 
 
 
