@@ -30,6 +30,20 @@
             },
             "site": ["OC", "PBA"] 
         },
+        {
+            "leftBlockText": "Samedi 07 mars", 
+            "admissionTitle": "Préinscription forum de l'alternance",
+            "subtext": "Venez sur le campus de Brest vous préinscrire pour le forum de l'alternance et faire parti des candidats présentés à nos entreprises partenaires",
+            "date": "2026-03-07T09:00:00",
+            "location": {
+                "OC": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC" : "https://reseau-opencampus.com/forum-de-lalternance-et-du-stage/"
+            },
+            "site": ["OC"] 
+        },
            {
             "leftBlockText": "Jeudi 12 mars", 
             "admissionTitle": "Forum de l'alternance",
@@ -316,6 +330,7 @@
         }
     }
 }
+
 
 
 
