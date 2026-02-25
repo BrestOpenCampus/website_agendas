@@ -74,6 +74,20 @@
             },
             "site": ["PBA","OC"] 
         },
+           {
+            "leftBlockText": "Mardi 17 mars", 
+            "admissionTitle": "Conférence mode",
+            "subtext": "Une conférence inspirante où <b>Victoria Kervarec</b>, photographe mode, et <b>Simon Albo</b>, créateur en fashion design, explorent comment construire une identité artistique forte et singulière tout en s’inscrivant durablement dans la création contemporaine.",
+            "date": "2026-03-17T18:00:00",
+            "location": {
+                "OC" : "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC" : "https://www.eventbrite.com/e/conference-mode-brest-tickets-1983876197110?aff=oddtdtcreator/"
+            },
+            "site": ["OC"] 
+        },
           {
             "leftBlockText": "Samedi 21 mars", 
             "admissionTitle": "Journée Portes Ouvertes",
@@ -333,6 +347,7 @@
         }
     }
 }
+
 
 
 
