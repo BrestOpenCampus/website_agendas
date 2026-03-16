@@ -89,12 +89,12 @@
             "site": ["OC"] 
         },
           {
-            "leftBlockText": "Samedi 11 avril", 
+            "leftBlockText": "Samedi 21 mars", 
             "admissionTitle": "Journée Portes Ouvertes",
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2026-04-11T09:00:00",
+            "date": "2026-03-21T09:00:00",
             "location": {
-                "PBA": "Angers, Brest, Caen, Rennes"
+                "PBA": "Rennes"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
@@ -103,12 +103,12 @@
             "site": ["PBA"] 
         },
           {
-            "leftBlockText": "Samedi 21 mars", 
+            "leftBlockText": "Samedi 11 avril", 
             "admissionTitle": "Journée Portes Ouvertes",
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2026-03-21T09:00:00",
+            "date": "2026-04-11T09:00:00",
             "location": {
-                "PBA": "Rennes"
+                "PBA": "Angers, Brest, Caen, Rennes"
             },
             "buttonText": "S'inscrire",
             "buttonLinks": {                
