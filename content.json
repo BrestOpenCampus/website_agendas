@@ -103,6 +103,20 @@
             "site": ["PBA"] 
         },
           {
+            "leftBlockText": "Samedi 27 mars", 
+            "admissionTitle": "Soirée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2026-03-27T17:00:00",
+            "location": {
+                "PBA": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+            },
+            "site": ["PBA"] 
+        },
+          {
             "leftBlockText": "Samedi 11 avril", 
             "admissionTitle": "Journée Portes Ouvertes",
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
@@ -219,7 +233,8 @@
                     "February 14, 2026 10:00:00",
                     "February 14, 2026 14:00:00",
                     "March 7, 2026 10:00:00",
-                    "March 7, 2026 14:00:00",                  
+                    "March 7, 2026 14:00:00",
+                    "March 20, 2026 17:00:00",                  
                     "April 11, 2026 10:00:00",
                     "April 11, 2026 14:00:00",
                     "May 30, 2026 10:00:00",
