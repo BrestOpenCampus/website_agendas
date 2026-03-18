@@ -129,6 +129,20 @@
                 "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
             },
             "site": ["PBA"] 
+        },
+          {
+            "leftBlockText": "Samedi 11 avril", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2026-04-11T09:00:00",
+            "location": {
+                "OC": "Angers, Brest, Caen"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+            },
+            "site": ["OC"] 
         }
     ],
     "confs": [
