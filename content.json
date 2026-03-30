@@ -142,7 +142,22 @@
             "buttonLinks": {                
                 "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
-            "site": ["OC"] 
+            "site": ["OC"]
+
+            },
+          {
+            "leftBlockText": "Samedi 22 avril", 
+            "admissionTitle": "Job dating",
+            "subtext": "Rencontres, opportunités, réseau... Ne manques pas le prochain job dating !",
+            "date": "2026-04-22T14:00:00",
+            "location": {
+                "PBA": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/job-dating-entreprise-etudiant/"
+            },
+            "site": ["PBA"] 
         }
     ],
     "confs": [
