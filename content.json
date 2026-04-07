@@ -116,6 +116,21 @@
             },
             "site": ["OC"] 
         },
+
+                 {
+            "leftBlockText": "Jeudi 09 avril", 
+            "admissionTitle": "Live de l'orientation",
+            "subtext": "RDV à 18h15 sur nos réseaux sociaux pour parler de l'alternance !",
+            "date": "2026-09-11T18:15:00",
+            "location": {
+                "PBA": "Angers, Brest, Caen"
+            },
+            "buttonText": "Notre instagram",
+            "buttonLinks": {                
+                "OC": "https://www.instagram.com/opencampus_off/"
+            },
+            "site": ["OC"] 
+        },
           {
             "leftBlockText": "Samedi 11 avril", 
             "admissionTitle": "Journée Portes Ouvertes",
@@ -145,20 +160,6 @@
             "site": ["OC"]
 
             },
-         {
-            "leftBlockText": "Jeudi 09 avril", 
-            "admissionTitle": "Live de l'orientation",
-            "subtext": "RDV à 18h15 sur nos réseaux sociaux pour parler de l'alternance !",
-            "date": "2026-09-11T18:15:00",
-            "location": {
-                "PBA": "Angers, Brest, Caen"
-            },
-            "buttonText": "Notre instagram",
-            "buttonLinks": {                
-                "OC": "https://www.instagram.com/opencampus_off/"
-            },
-            "site": ["OC"] 
-        },
           {
             "leftBlockText": "Mercredi 22 avril", 
             "admissionTitle": "Job dating",
