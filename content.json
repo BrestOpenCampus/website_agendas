@@ -121,7 +121,7 @@
             "leftBlockText": "Jeudi 09 avril", 
             "admissionTitle": "Live de l'orientation",
             "subtext": "RDV à 18h15 sur nos réseaux sociaux pour parler de l'alternance !",
-            "date": "2026-09-11T18:15:00",
+            "date": "2026-04-09T18:15:00",
             "location": {
                 "PBA": "Angers, Brest, Caen"
             },
@@ -130,6 +130,21 @@
                 "OC": "https://www.instagram.com/opencampus_off/"
             },
             "site": ["OC"] 
+        },
+
+          {
+            "leftBlockText": "Mercredi 08 avril", 
+            "admissionTitle": "Live de l'orientation",
+            "subtext": "RDV à 18h15 sur nos réseaux sociaux pour parler de l'alternance !",
+            "date": "2026-04-08T18:15:00",
+            "location": {
+                "PBA": "Angers, Brest, Caen, Rennes"
+            },
+            "buttonText": "Notre instagram",
+            "buttonLinks": {                
+                "PBA": "https://www.instagram.com/polebtsalternance/"
+            },
+            "site": ["PBA"] 
         },
           {
             "leftBlockText": "Samedi 11 avril", 
