@@ -176,10 +176,10 @@
 
             },
           {
-            "leftBlockText": "Samedi 30 avril", 
+            "leftBlockText": "Samedi 30 mai", 
             "admissionTitle": "Journée Portes Ouvertes",
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2026-04-30T09:00:00",
+            "date": "2026-05-30T09:00:00",
             "location": {
                 "OC": "Angers, Brest, Caen"
             },
@@ -206,10 +206,10 @@
        
            },
         {
-            "leftBlockText": "Samedi 30 avril", 
+            "leftBlockText": "Samedi 30 mai", 
             "admissionTitle": "Journée Portes Ouvertes",
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
-            "date": "2026-04-30T09:00:00",
+            "date": "2026-05-30T09:00:00",
             "location": {
                 "PBA": "Angers, Brest, Caen, Rennes"
             },
