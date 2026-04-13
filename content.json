@@ -176,6 +176,21 @@
 
             },
           {
+            "leftBlockText": "Samedi 30 avril", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2026-04-30T09:00:00",
+            "location": {
+                "OC": "Angers, Brest, Caen"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+            },
+            "site": ["OC"]
+
+            },
+          {
             "leftBlockText": "Mercredi 22 avril", 
             "admissionTitle": "Job dating",
             "subtext": "Rencontres, opportunités, réseaux... Ne manques pas le prochain job dating !",
@@ -186,6 +201,21 @@
             "buttonText": "S'inscrire",
             "buttonLinks": {                
                 "PBA": "https://polebtsalternance.fr/job-dating-entreprise-etudiant/"
+            },
+            "site": ["PBA"] 
+       
+           },
+        {
+            "leftBlockText": "Samedi 30 avril", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
+            "date": "2026-04-30T09:00:00",
+            "location": {
+                "OC": "Angers, Brest, Caen, Rennes"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
             },
             "site": ["PBA"] 
         }
