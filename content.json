@@ -117,6 +117,48 @@
                 "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
             },
             "site": ["PBA", "OC"] 
+        },
+        {
+            "leftBlockText": "Jeudi 25 juin", 
+            "admissionTitle": "Défilé: Mythologie 2.0",
+            "subtext": "Cette année, les étudiants de SUPDEMOD Angers vous invitent à découvrir le défilé "Mythologie 2.0" aux Salons Curnonsky",
+            "date": "2026-06-25T19:00:00",
+            "location": {
+                "OC": "Angers"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC": "https://shotgun.live/fr/events/defile-mythologies-effilees?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleASLeIVleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadk0ZbPNFv4dzB7x0F4fjo1Niy6t6v1kuXu6bNXuQ1ECbiukfwS75xnmFOutg_aem_pyTGM5VxNA4A0y7Wyv_flg"
+            },
+            "site": ["OC"] 
+        },
+        {
+            "leftBlockText": "Jeudi 25 juin", 
+            "admissionTitle": "Défilé: Mythologie 2.0",
+            "subtext": "Les étudiants de Sup de Mod, accompagnés de leurs partenaires, vous invitent à découvrir à l'Espace Keraudy – Plougonvelin un défilé unique mêlant créativité et audace.",
+            "date": "2026-06-25T18:00:00",
+            "location": {
+                "OC": "Brest"
+            },
+            "buttonText": "En savoir plus",
+            "buttonLinks": {                
+                "OC": "https://www.instagram.com/defile_supdemod_brest/"
+            },
+            "site": ["OC"] 
+        },
+        {
+            "leftBlockText": "Jeudi 25 juin", 
+            "admissionTitle": "Défilé: Mysthik",
+            "subtext": "Les étudiants de dernière année de SUPDEMOD Caen vous invitent à découvrir « Mysthik », leur défilé de fin d’année à l’Église Saint-Sauveur de Caen.",
+            "date": "2026-06-25T18:30:00",
+            "location": {
+                "OC": "Caen"
+            },
+            "buttonText": "En savoir plus",
+            "buttonLinks": {                
+                "OC": "https://my.weezevent.com/defile-supdemod-2026"
+            },
+            "site": ["OC"] 
         }
     ],
     "confs": [
