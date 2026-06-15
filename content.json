@@ -108,7 +108,7 @@
             "subtext": "Venez nous rencontrer lors de nos Portes Ouvertes, visitez le campus et posez vos questions !",
             "date": "2026-06-20T09:00:00",
             "location": {
-                "PBA": "Angers, Brest, Caen, Rennes",
+                "PBA": "Brest, Caen",
                 "OC": "Angers, Brest, Caen"
             },
             "buttonText": "S'inscrire",
