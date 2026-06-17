@@ -118,6 +118,22 @@
             },
             "site": ["PBA", "OC"] 
         },
+          {
+            "leftBlockText": "Vendredi 3 juillet", 
+            "admissionTitle": "Afterwork de 16h à 19h",
+            "subtext": "Venez nous rencontrer lors de notre after-work, dans les nouveaux locaux de l'ESUP Angers !",
+            "date": "2026-07-03T16:00:00",
+            "location": {
+                "PBA": "Angers",
+                "OC": "Angers"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+            },
+            "site": ["PBA", "OC"] 
+        },
         {
             "leftBlockText": "Jeudi 25 juin", 
             "admissionTitle": "Défilé: Mythologie 2.0",
