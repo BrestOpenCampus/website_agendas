@@ -184,6 +184,7 @@
             "location": {
                 "OC": "Angers, Brest et Caen"
             },
+            "buttonText": "",
             "site": ["OC", "PBA"] 
         }
     ],
