@@ -184,8 +184,11 @@
             "location": {
                 "OC": "Angers, Brest et Caen"
             },
-            "buttonText": "",
-            "site": ["OC", "PBA"] 
+            "buttonText": "Nos formations",
+            "buttonLinks": {                
+                "OC": "https://reseau-opencampus.com/nos-formations/"
+            },
+            "site": ["OC"] 
         },
         {
             "leftBlockText": "Les mardis et mercredis", 
