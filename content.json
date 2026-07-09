@@ -196,13 +196,15 @@
             "subtext": "Tous les mardis et mercredis après midi de 14h à 18h, venez visitez notre campus et rencontrer nos équipes.",
             "date": "2026-09-05T18:30:00",
             "location": {
-                "OC": "Brest"
+                "OC": "Brest",
+                "PBA": "Brest"
             },
             "buttonText": "Le campus",
             "buttonLinks": {                
-                "OC": "https://reseau-opencampus.com/open-campus-brest/"
+                "OC": "https://reseau-opencampus.com/open-campus-brest/",
+                "PBA": "https://polebtsalternance.fr/campus-brest/"
             },
-            "site": ["OC"] 
+            "site": ["OC", "PBA"] 
         }
     ],
     "confs": [
