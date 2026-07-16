@@ -205,6 +205,20 @@
                 "PBA": "https://polebtsalternance.fr/campus-brest/"
             },
             "site": ["OC", "PBA"] 
+        },
+        {
+            "leftBlockText": "25 juillet 2026", 
+            "admissionTitle": "Festival de la Mode 2026 by The Freedom",
+            "subtext": "Venez observer les créations de nos étudiants lors d'un défilé qui se déroulera le 25 juillet 2026 au Domaine de la Cour des Lys",
+            "date": "2026-07-25T18:30:00",
+            "location": {
+                "OC": "Caen"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "OC": "https://billettera.com/fr/event/festival-de-la-mode-1ere-edition-2026-bxpdb?utm_source=google&utm_medium=direct&utm_campaign=festival_mode_2029&utm_content=agenda"
+            },
+            "site": ["OC"] 
         }
     ],
     "confs": [
