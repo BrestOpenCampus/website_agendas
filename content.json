@@ -207,6 +207,20 @@
             "site": ["OC", "PBA"] 
         },
         {
+            "leftBlockText": "Tout l'été", 
+            "admissionTitle": "Nos campus restent ouvert",
+            "subtext": "Tous nos campus sont ouverts, nos équipes restent à disposotion pour vous accueillir, venez nous rencontrer.",
+            "date": "2026-09-05T18:30:00",
+            "location": {
+                "PBA": "Angers, Brest, Caen, Rennes"
+            },
+            "buttonText": "nos formations",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formations/"
+            },
+            "site": ["PBA"] 
+        },
+        {
             "leftBlockText": "25 juillet 2026", 
             "admissionTitle": "Festival de la Mode 2026 by The Freedom",
             "subtext": "Venez observer les créations de nos étudiants lors d'un défilé qui se déroulera le 25 juillet 2026 au Domaine de la Cour des Lys",
