@@ -233,6 +233,20 @@
                 "OC": "https://billettera.com/fr/event/festival-de-la-mode-1ere-edition-2026-bxpdb?utm_source=google&utm_medium=direct&utm_campaign=festival_mode_2029&utm_content=agenda"
             },
             "site": ["OC"] 
+        },
+        {
+            "leftBlockText": "Mercredi 23 septembre", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Venez nous rencontrer lors de notre soirée Portes Ouvertes de 14h à 17h, venez visitez le campus et posez vos questions !",
+            "date": "2026-09-23T14:00:00",
+            "location": {
+                "PBA": "Caen"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+            },
+            "site": ["PBA"] 
         }
     ],
     "confs": [
@@ -475,7 +489,8 @@
                     "March 7, 2026 09:00:00",
                     "April 11, 2026 09:00:00",                    
                     "May 30, 2026 09:00:00",
-                    "June 20, 2026 09:00:00"
+                    "June 20, 2026 09:00:00",
+                    "September 23, 2026 14:00:00"
                 ],
                 "Rennes": [
                     "October 19, 2024 09:30:00",
