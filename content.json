@@ -247,6 +247,22 @@
                 "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
             },
             "site": ["PBA"] 
+        },
+        {
+            "leftBlockText": "Vendredi 25 / Samedi 26", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Vendredi : 13h - 18h | Samedi : 10h - 13h. Tu n'as pas encore ton alternance ou tu t'es trompé dans ton orientation, viens nous rencontrer lors de notre journée portes ouvertes",
+            "date": "2026-09-26T14:00:00",
+            "location": {
+                "PBA": "Brest",
+                "OC": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/",
+                "OC": "https://reseau-opencampus.com/inscription-journee-portes-ouvertes/"
+            },
+            "site": ["PBA", "OC"] 
         }
     ],
     "confs": [
