@@ -260,7 +260,7 @@
             "buttonText": "S'inscrire",
             "buttonLinks": {                
                 "PBA": "https://polebtsalternance.fr/forum-reorientation-alternance/",
-                "OC": "https://reseau-opencampus.com/forum-reorientation-alternance/";
+                "OC": "https://reseau-opencampus.com/forum-reorientation-alternance/"
             },
             "site": ["PBA", "OC"] 
         },
