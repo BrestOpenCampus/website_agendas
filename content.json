@@ -249,6 +249,22 @@
             "site": ["PBA"] 
         },
         {
+            "leftBlockText": "Mercredi 30 septembre", 
+            "admissionTitle": "Forum réorientation & alternance",
+            "subtext": "Viens nous rencontrer de 15h à 19h, Découvre nos formations en alternance, échange avec nos équipes et passe ton entretien lors de notre forum « Réorientation & alternance ».",
+            "date": "2026-09-30T14:00:00",
+            "location": {
+                "PBA": "Angers",
+                "OC": "Angers"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/forum-reorientation-alternance/",
+                "OC": "https://reseau-opencampus.com/forum-reorientation-alternance/";
+            },
+            "site": ["PBA", "OC"] 
+        },
+        {
             "leftBlockText": "Vendredi 25 / Samedi 26", 
             "admissionTitle": "Journée Portes Ouvertes",
             "subtext": "Vendredi : 13h - 18h | Samedi : 10h - 13h. Tu n'as pas encore ton alternance ou tu t'es trompé dans ton orientation, viens nous rencontrer lors de notre journée portes ouvertes",
