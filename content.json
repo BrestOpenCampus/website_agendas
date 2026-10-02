@@ -279,6 +279,20 @@
                 "OC": "https://reseau-opencampus.com/forum-reorientation-alternance/"
             },
             "site": ["PBA", "OC"] 
+        },
+        {
+            "leftBlockText": "Samedi 17 Octobre", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Tu n'as pas encore ton alternance ou tu t'es trompé dans ton orientation, viens nous rencontrer lors de notre journée portes ouvertes de 9h à 17h",
+            "date": "2026-10-17T17:00:00",
+            "location": {
+                "PBA": "Brest"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+            },
+            "site": ["PBA"] 
         }
     ],
     "confs": [
@@ -478,7 +492,7 @@
                     "June 20, 2026 09:30:00",
                     "September 25, 2026 13:00:00",
                     "September 26, 2026 10:00:00",
-                    "October 17, 2026 10:00:00"
+                    "October 17, 2026 09:00:00"
                 ],
                 "Angers": [
                     "November 9, 2024 09:30:00",
