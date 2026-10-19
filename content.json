@@ -293,7 +293,22 @@
                 "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
             },
             "site": ["PBA"] 
+        } ,
+        {
+            "leftBlockText": "Samedi 21 novembre", 
+            "admissionTitle": "Journée Portes Ouvertes",
+            "subtext": "Cap sur la rentrée 2027 ! Découvrez votre future campus et nos BTS",
+            "date": "2026-11-21T13:00:00",
+            "location": {
+                "PBA": "Angers, Brest, Caen"
+            },
+            "buttonText": "S'inscrire",
+            "buttonLinks": {                
+                "PBA": "https://polebtsalternance.fr/formulaire-general-inscription-jpo/"
+            },
+            "site": ["PBA"] 
         }
+    ],
     ],
     "confs": [
         {
